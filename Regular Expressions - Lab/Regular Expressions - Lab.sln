@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Name", "01. Match Full Name\01. Match Full Name.csproj", "{099E35A6-BE92-4083-B506-BC47294EAD8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Match Full Namee", "01. Match Full Namee\01. Match Full Namee.csproj", "{4EDEF11F-C7E7-459F-92CC-47EA9163D4B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Match Full Namee", "01. Match Full Namee\01. Match Full Namee.csproj", "{4EDEF11F-C7E7-459F-92CC-47EA9163D4B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Race", "02. Race\02. Race.csproj", "{1A67C60D-BEFF-408A-92DB-3115B179A9F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4EDEF11F-C7E7-459F-92CC-47EA9163D4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDEF11F-C7E7-459F-92CC-47EA9163D4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDEF11F-C7E7-459F-92CC-47EA9163D4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A67C60D-BEFF-408A-92DB-3115B179A9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A67C60D-BEFF-408A-92DB-3115B179A9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A67C60D-BEFF-408A-92DB-3115B179A9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A67C60D-BEFF-408A-92DB-3115B179A9F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
