@@ -65,7 +65,7 @@ namespace _10._LadyBugs
                     }
                     if (landIndex <= lastFieldIndex)    //nqkvo tupo uslovie
                     {
-                        field[landIndex] = 1;
+                        field[landIndex] = 1;  //i oshte nqkvo tupo uslovie
                     }
                 }
                 else if (direction == "left")
