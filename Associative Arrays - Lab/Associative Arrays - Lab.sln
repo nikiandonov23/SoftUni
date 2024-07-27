@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Real Numbers", "01. Count Real Numbers\01. Count Real Numbers.csproj", "{316667FE-DAA3-49EE-A85C-B8224BA0026D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{BDADC5A9-87FA-461F-B016-01B0DC7BDFF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Odd Occurrences", "02. Odd Occurrences\02. Odd Occurrences.csproj", "{BD7755E1-E82D-410D-853D-F2E76C2A7442}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Synonyms BEZ LIST", "03. Word Synonyms\03. Word Synonyms BEZ LIST.csproj", "{A745CBC7-2CAA-48A3-9337-4EED468883A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Word Filter NO LINQ", "04. Word Filter\04. Word Filter NO LINQ.csproj", "{37E875ED-E1D3-497D-B362-AA0023D25B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Word Filter WITH LINQ", "04. Word Filter WITH LINQ\04. Word Filter WITH LINQ.csproj", "{F650CEB5-A5A8-479E-8EA1-ED2CA754E753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms S LIST", "03. Word Synonyms S LIST\03. Word Synonyms S LIST.csproj", "{67F90E87-4423-4FBA-925F-1F980572C839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316667FE-DAA3-49EE-A85C-B8224BA0026D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316667FE-DAA3-49EE-A85C-B8224BA0026D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316667FE-DAA3-49EE-A85C-B8224BA0026D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316667FE-DAA3-49EE-A85C-B8224BA0026D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDADC5A9-87FA-461F-B016-01B0DC7BDFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDADC5A9-87FA-461F-B016-01B0DC7BDFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDADC5A9-87FA-461F-B016-01B0DC7BDFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDADC5A9-87FA-461F-B016-01B0DC7BDFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7755E1-E82D-410D-853D-F2E76C2A7442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7755E1-E82D-410D-853D-F2E76C2A7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7755E1-E82D-410D-853D-F2E76C2A7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7755E1-E82D-410D-853D-F2E76C2A7442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A745CBC7-2CAA-48A3-9337-4EED468883A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A745CBC7-2CAA-48A3-9337-4EED468883A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A745CBC7-2CAA-48A3-9337-4EED468883A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A745CBC7-2CAA-48A3-9337-4EED468883A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E875ED-E1D3-497D-B362-AA0023D25B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E875ED-E1D3-497D-B362-AA0023D25B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E875ED-E1D3-497D-B362-AA0023D25B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E875ED-E1D3-497D-B362-AA0023D25B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F650CEB5-A5A8-479E-8EA1-ED2CA754E753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F650CEB5-A5A8-479E-8EA1-ED2CA754E753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F650CEB5-A5A8-479E-8EA1-ED2CA754E753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F650CEB5-A5A8-479E-8EA1-ED2CA754E753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F90E87-4423-4FBA-925F-1F980572C839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F90E87-4423-4FBA-925F-1F980572C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F90E87-4423-4FBA-925F-1F980572C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F90E87-4423-4FBA-925F-1F980572C839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A296FBBF-7518-4512-BA3E-16C7AA70C92E}
+	EndGlobalSection
+EndGlobal
