@@ -63,7 +63,7 @@ namespace _10._LadyBugs
 
                         
                     }
-                    if (landIndex <= lastFieldIndex)
+                    if (landIndex <= lastFieldIndex)    //nqkvo tupo uslovie
                     {
                         field[landIndex] = 1;
                     }
