@@ -105,8 +105,8 @@ while ((input = Console.ReadLine()) != "Stop")
 
             break;
     }
-
-
+    
+    
 }
 
 foreach (var carr in allCars)

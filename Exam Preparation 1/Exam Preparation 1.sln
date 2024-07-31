@@ -3,23 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{4C490D37-C74E-4C1D-B754-C6E5DA9CD559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{4C490D37-C74E-4C1D-B754-C6E5DA9CD559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{9715451B-9750-4A73-BD56-785E851D8925}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{9715451B-9750-4A73-BD56-785E851D8925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{C6FD6FF6-CBD4-4094-815D-50807BC06A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{C6FD6FF6-CBD4-4094-815D-50807BC06A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Destination Mapper", "2. Destination Mapper\2. Destination Mapper.csproj", "{D7710C46-8CB3-42E3-8079-43FEE74AE735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Destination Mapper", "2. Destination Mapper\2. Destination Mapper.csproj", "{D7710C46-8CB3-42E3-8079-43FEE74AE735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. World Tour", "1. World Tour\1. World Tour.csproj", "{1367D101-8DD0-4FAD-8035-E1C74BAB28A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. World Tour", "1. World Tour\1. World Tour.csproj", "{1367D101-8DD0-4FAD-8035-E1C74BAB28A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Plant Discovery", "3. Plant Discovery\3. Plant Discovery.csproj", "{542FCA10-8660-4E46-B0ED-66F5B9BB0C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Plant Discovery", "3. Plant Discovery\3. Plant Discovery.csproj", "{542FCA10-8660-4E46-B0ED-66F5B9BB0C6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. Secret Chat", "001. Secret Chat\001. Secret Chat.csproj", "{621E127F-B5E5-4374-8BCA-50A308301EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001. Secret Chat", "001. Secret Chat\001. Secret Chat.csproj", "{621E127F-B5E5-4374-8BCA-50A308301EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. Mirror Words", "002. Mirror Words\002. Mirror Words.csproj", "{D7295229-17E2-4662-9B6D-DCCBC6F61C44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002. Mirror Words", "002. Mirror Words\002. Mirror Words.csproj", "{D7295229-17E2-4662-9B6D-DCCBC6F61C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003. Need for Speed III", "003. Need for Speed III\003. Need for Speed III.csproj", "{8CD05EAF-1B09-4248-9016-514C7C124518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003. Need for Speed III", "003. Need for Speed III\003. Need for Speed III.csproj", "{8CD05EAF-1B09-4248-9016-514C7C124518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001. Registration", "0001. Registration\0001. Registration.csproj", "{6F71E6C2-547C-4FD4-9FB8-2B622A971115}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0002. Destination Mapper", "0002. Destination Mapper\0002. Destination Mapper.csproj", "{DAB0C50D-5880-481F-9858-4D654C9C6771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003. Bakery Shop", "0003. Bakery Shop\0003. Bakery Shop.csproj", "{F24E6F61-49CE-4651-A762-8C54AB4152AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{8CD05EAF-1B09-4248-9016-514C7C124518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD05EAF-1B09-4248-9016-514C7C124518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD05EAF-1B09-4248-9016-514C7C124518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F71E6C2-547C-4FD4-9FB8-2B622A971115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F71E6C2-547C-4FD4-9FB8-2B622A971115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F71E6C2-547C-4FD4-9FB8-2B622A971115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F71E6C2-547C-4FD4-9FB8-2B622A971115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB0C50D-5880-481F-9858-4D654C9C6771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB0C50D-5880-481F-9858-4D654C9C6771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB0C50D-5880-481F-9858-4D654C9C6771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB0C50D-5880-481F-9858-4D654C9C6771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24E6F61-49CE-4651-A762-8C54AB4152AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24E6F61-49CE-4651-A762-8C54AB4152AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E6F61-49CE-4651-A762-8C54AB4152AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24E6F61-49CE-4651-A762-8C54AB4152AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
