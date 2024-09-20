@@ -38,31 +38,14 @@ for (int i = 0; i < matrix.GetLength(0) - 1; i++)
         }
     }
 }
-int[,]maxMatrix=new int[2,2];
-int index = 0;
 
-for (int i = 0; i < maxMatrix.GetLength(0); i++)
+for (int i = 0; i < maxArray.Length; i++)
 {
-
-
-
-    for (int j = 0; j < maxMatrix.GetLength(1); j++)
+    if (i==2)
     {
-        maxMatrix[i, j] = maxArray[index];
-        index++;
+        Console.WriteLine();
     }
+    Console.Write(maxArray[i]+" ");
 }
-
-for (int i = 0; i < maxMatrix.GetLength(0); i++)
-{
-
-
-    for (int j = 0; j < maxMatrix.GetLength(1); j++)
-    {
-        Console.Write(maxMatrix[i,j]+" ");
-    }
-
-    Console.WriteLine();
-}
-
+Console.WriteLine();
 Console.WriteLine(maxSum);

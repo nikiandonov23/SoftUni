@@ -1,27 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Data;
 using System.Xml.Schema;
 
-int[,] matrix = new int[,]
+int[] dimentions = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
+
+int row = dimentions[0];
+int col = dimentions[1];
+
+int[,]matrix=new int[row, col];
+int[] sumElements = new int [col];
+
+
+for (int i = 0; i < matrix.GetLength(1); i++)
 {
-    {1,2,3},
-    {4,5,6},
-    {7,8,9},
-    {10,11,12},
-    {13,14,15},
+    int[] input = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 
-};
-
-
-for (int i = 0; i < matrix.GetLength(0); i++)
-{
-    for (int j = 0; j < matrix.GetLength(1); j++)
+    for (int j = 0; j < matrix.GetLength(0); j++)
     {
-        matrix[i, j] += 1;
-        Console.Write(matrix[i, j]);
-
-
+        
+        matrix[i,j]= input[j];
     }
-
-    Console.WriteLine();
 }
