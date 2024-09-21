@@ -3,22 +3,35 @@
 using System.Data;
 using System.Xml.Schema;
 
-int[] dimentions = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
 
-int row = dimentions[0];
-int col = dimentions[1];
+int n = int.Parse(Console.ReadLine());
 
-int[,]matrix=new int[row, col];
-int[] sumElements = new int [col];
+int[][] jaggedArray= new int[n][];
 
-
-for (int i = 0; i < matrix.GetLength(1); i++)
+for (int i = 0; i < jaggedArray.Length; i++)
 {
-    int[] input = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+    int col = i + 1;
+    int[]currentLine= new int[col];
+    currentLine[0] = 1;
+    currentLine[^1] = 1;
 
-    for (int j = 0; j < matrix.GetLength(0); j++)
+    jaggedArray[i] = currentLine;
+
+
+}
+
+for (int i = 2; i < jaggedArray.Length; i++)
+{
+    int col = jaggedArray[i].Length;
+
+
+    for (int j = 1; j <col-1 ; j++)
     {
-        
-        matrix[i,j]= input[j];
+        jaggedArray[i][j] = jaggedArray[i - 1][j - 1] + jaggedArray[i - 1][j];
     }
+}
+
+foreach (var masiv in jaggedArray)
+{
+    Console.WriteLine(string.Join(" ",masiv));
 }
