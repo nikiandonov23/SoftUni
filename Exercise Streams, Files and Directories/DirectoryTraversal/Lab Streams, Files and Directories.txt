@@ -1,0 +1,25 @@
+                                                                                 STREAMREADERI and STREAMWRITERI
+
+StreamReader reader=new StreamReader("C:\\Users\\НАТАЛИ\\Desktop\\nikiToBeReaded.txt");   izbqgvame specialnite simvoli s /
+
+StreamReader reader=new StreamReader(@"C:\Users\НАТАЛИ\Desktop\nikiToBeReaded.txt");    izbqgvame specialnite simvoli s @
+
+reader.ReadToEnd();
+reader.ReadLine();    ---->Pro4eti purviq red v texta .Ako sme nakraq na stream-a vrushta NULL
+reader.Dispose()        ---->prazni pametta 
+
+using (path,true/false)   --->ako slojim true ne trie pametta kato svurshi a q pazi
+using (StreamReader reader = new StreamReader(@"C:\Users\НАТАЛИ\source\repos\1. Odd Lines\1. Odd Lines\nikiToBeReaded.txt")   
+{
+                     ----->ako ba4kame s using togava kato svurshi tqloto na usinga avtomati4no se dispose-va streamreadera.Chisti si pametta
+}
+
+
+                                                                                 VINAGI IZPOLZVAME RELATIVEN PUT
+//absolute path     ----> celiq put do faila
+//relative path 	----> putq do faila ot mqstoto v koeto sum  ../../../imetoNaFailaMi.txt
+
+                                                                                FILE STREAMS 
+File streams reads / writes sequences of bytes from a file
+
+(FileStream inputStream=new FileStream(binaryFilePath,FileMode.OpenOrCreate      ---->kudeto (file path,moda koito mi trqbva ZAPIS/SUZDAVANE/4ETENE)
