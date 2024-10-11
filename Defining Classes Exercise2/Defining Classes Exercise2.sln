@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Speed Racing", "6. Speed Racing\6. Speed Racing.csproj", "{F0CC0539-26E8-4B70-B2EE-833977406AF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Raw Data", "7. Raw Data\7. Raw Data.csproj", "{48877EDF-BAAC-4306-A59D-A5E7ECAEA4F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Raw Data", "7. Raw Data\7. Raw Data.csproj", "{48877EDF-BAAC-4306-A59D-A5E7ECAEA4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Car Salesman", "08. Car Salesman\08. Car Salesman.csproj", "{A2AD631B-5D81-48EE-9102-4AA3B12B9E4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{48877EDF-BAAC-4306-A59D-A5E7ECAEA4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48877EDF-BAAC-4306-A59D-A5E7ECAEA4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48877EDF-BAAC-4306-A59D-A5E7ECAEA4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AD631B-5D81-48EE-9102-4AA3B12B9E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AD631B-5D81-48EE-9102-4AA3B12B9E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AD631B-5D81-48EE-9102-4AA3B12B9E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AD631B-5D81-48EE-9102-4AA3B12B9E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
