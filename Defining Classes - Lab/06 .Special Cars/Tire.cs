@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarManufacturer
 {
+
     public class Tire
     {
         private int year;
@@ -32,3 +33,5 @@ namespace CarManufacturer
 
     }
 }
+
+

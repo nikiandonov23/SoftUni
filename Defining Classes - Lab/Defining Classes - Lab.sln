@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{4533E95E-CFAD-4957-99DE-0F668EC0B623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Cars", "05. Special Cars\05. Special Cars.csproj", "{B5F6BF37-C55A-4B0E-B133-DEDB1118526A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 .Special Cars", "06 .Special Cars\06 .Special Cars.csproj", "{DC9325C2-2EAD-433D-A7DB-5FDDF2A64145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{4533E95E-CFAD-4957-99DE-0F668EC0B623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4533E95E-CFAD-4957-99DE-0F668EC0B623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4533E95E-CFAD-4957-99DE-0F668EC0B623}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5F6BF37-C55A-4B0E-B133-DEDB1118526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5F6BF37-C55A-4B0E-B133-DEDB1118526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5F6BF37-C55A-4B0E-B133-DEDB1118526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5F6BF37-C55A-4B0E-B133-DEDB1118526A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9325C2-2EAD-433D-A7DB-5FDDF2A64145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9325C2-2EAD-433D-A7DB-5FDDF2A64145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9325C2-2EAD-433D-A7DB-5FDDF2A64145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9325C2-2EAD-433D-A7DB-5FDDF2A64145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
