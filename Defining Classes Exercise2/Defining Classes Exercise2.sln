@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Car Salesman", "08. Car
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Pokemon Trainer", "09. Pokemon Trainer\09. Pokemon Trainer.csproj", "{486CFCC0-D80E-4523-9281-B7F6B99CD617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{FC2497C1-E5B7-4FF7-BDE6-EA65FF538A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{486CFCC0-D80E-4523-9281-B7F6B99CD617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486CFCC0-D80E-4523-9281-B7F6B99CD617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486CFCC0-D80E-4523-9281-B7F6B99CD617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2497C1-E5B7-4FF7-BDE6-EA65FF538A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2497C1-E5B7-4FF7-BDE6-EA65FF538A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2497C1-E5B7-4FF7-BDE6-EA65FF538A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2497C1-E5B7-4FF7-BDE6-EA65FF538A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
