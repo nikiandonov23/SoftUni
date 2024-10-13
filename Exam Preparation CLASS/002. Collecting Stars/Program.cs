@@ -1,58 +1,109 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿int n=int.Parse(Console.ReadLine());
 
-Queue<int> bees = new Queue<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+char[,] matrix=new char[n,n];
+int startRow = 0;
+int startCol = 0;
 
-Stack<int> beeEaters = new Stack<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
-
-while (bees.Count > 0 && beeEaters.Count > 0)
+int currentRow = 0;
+int currentCol = 0;
+for (int i = 0; i < n; i++)
 {
-    int currentBee = bees.Dequeue();   //32
-    int currentEater = beeEaters.Pop();
 
-    int currentEaterMaxKill = currentEater * 7;  // 
-
-    if (currentBee < currentEaterMaxKill)
+    string[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
+    for (int j = 0; j < n; j++)
     {
-
-
-
-        int remainingEaters = (currentEaterMaxKill - currentBee) / 7;
-        if ((currentEaterMaxKill - currentBee) % 7 != 0)
+        if (char.Parse(input[j])=='P')
         {
-            remainingEaters += 1;
+            startRow = i; startCol= j; 
+            currentRow=i; currentCol=j;
         }
-        if (beeEaters.Count > 0)
-        {
-            int eatersToBeAdded = beeEaters.Pop() + remainingEaters;
-            beeEaters.Push(eatersToBeAdded);
-        }
-        else
-        {
-            beeEaters.Push(remainingEaters);
-        }
-
-    }
-    else if (currentBee >= currentEaterMaxKill)
-    {
-        currentBee -= currentEaterMaxKill;
-        if (currentBee > 0)
-        {
-            bees.Enqueue(currentBee);
-        }
-
+        matrix[i, j] = (char.Parse(input[j]));
+        
     }
 }
 
-Console.WriteLine("The final battle is over!");
-if (beeEaters.Count == 0 && bees.Count == 0)
+int previousRow=currentRow;
+int previousCol = currentCol;
+
+int totalStars=2;
+while (totalStars < 10 && totalStars > 0)
 {
-    Console.WriteLine("But no one made it out alive!");
+  
+
+    string command=Console.ReadLine();
+    switch (command)
+    {
+        case "up":
+            currentRow--;
+            break;
+
+
+        case "down":
+            currentRow++;
+            break;
+
+
+        case "left":
+            currentCol--;
+            break;
+
+
+        case "right":
+            currentCol++;
+            break;
+    }
+
+    if (currentRow<0||currentRow>=n||currentCol<0||currentCol>=n)
+    {
+        currentRow = 0; currentCol=0;
+    }
+
+    if (matrix[currentRow,currentCol]=='*')
+    {
+        totalStars++;
+        matrix[currentRow, currentCol] = '.';   //slagame to4ka ako ve4e e vzel zvezdata
+      
+        
+    }
+
+    else if (matrix[currentRow,currentCol]=='#')
+    {
+        currentRow = previousRow;
+        currentCol = previousCol;
+        totalStars--;
+        
+    }
+
+
+
+
+    previousRow = currentRow;
+    previousCol = currentCol;
 }
-else if (bees.Count > 0 && beeEaters.Count == 0)
+
+
+
+matrix[startRow, startCol] = '.';
+matrix[currentRow, currentCol] = 'P';
+
+
+if (totalStars>=10)  //won
 {
-    Console.WriteLine($"Bee groups left: {string.Join(", ", bees)}");
+    Console.WriteLine($"You won! You have collected 10 stars.");
 }
 else
 {
-    Console.WriteLine($"Bee-eater groups left: {string.Join(", ", beeEaters)}");
+    Console.WriteLine("Game over! You are out of any stars.");
+}
+
+Console.WriteLine($"Your final position is [{currentRow}, {currentCol}]");
+
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j++)
+    {
+        Console.Write(matrix[i, j] + " ");
+    }
+
+    Console.WriteLine();
 }
