@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002. Collecting Stars", "00
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailBar", "..\..\..\Desktop\Coctail Bar\CocktailBar\CocktailBar.csproj", "{5335DE6C-0D15-4E72-A536-D636BE53E49D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCenter", "..\..\..\Desktop\DataCenter\DataCenter\DataCenter.csproj", "{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002. Escape the Maze DA SE RESHI PAK", "0002. Escape the Maze\0002. Escape the Maze DA SE RESHI PAK.csproj", "{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{5335DE6C-0D15-4E72-A536-D636BE53E49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5335DE6C-0D15-4E72-A536-D636BE53E49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5335DE6C-0D15-4E72-A536-D636BE53E49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
