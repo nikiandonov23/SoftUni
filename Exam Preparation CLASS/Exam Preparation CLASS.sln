@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00002. Clear Skies", "00002
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharkTaxonomy", "..\..\..\Desktop\SharkTaxonomy-Skeleton\SharkTaxonomy\SharkTaxonomy.csproj", "{398BC9A5-29DA-487A-95F1-DB0E232073F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000001. Worms And Holes", "000001. Worms And Holes\000001. Worms And Holes.csproj", "{DD771271-19F2-4F8E-ACC5-E3D0BC961160}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD771271-19F2-4F8E-ACC5-E3D0BC961160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD771271-19F2-4F8E-ACC5-E3D0BC961160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD771271-19F2-4F8E-ACC5-E3D0BC961160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD771271-19F2-4F8E-ACC5-E3D0BC961160}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
