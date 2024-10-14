@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailBar", "..\..\..\Des
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCenter", "..\..\..\Desktop\DataCenter\DataCenter\DataCenter.csproj", "{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002. Escape the Maze DA SE RESHI PAK", "0002. Escape the Maze\0002. Escape the Maze DA SE RESHI PAK.csproj", "{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0002. Escape the Maze DA SE RESHI PAK", "0002. Escape the Maze\0002. Escape the Maze DA SE RESHI PAK.csproj", "{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001. Pie Pursuit", "0001. Pie Pursuit\0001. Pie Pursuit.csproj", "{108D1715-12C5-46DF-95ED-8761ADC692BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108D1715-12C5-46DF-95ED-8761ADC692BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108D1715-12C5-46DF-95ED-8761ADC692BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108D1715-12C5-46DF-95ED-8761ADC692BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108D1715-12C5-46DF-95ED-8761ADC692BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
