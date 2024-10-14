@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00001. Chicken Snack DA SE 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00002. Clear Skies", "00002. Clear Skies\00002. Clear Skies.csproj", "{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharkTaxonomy", "..\..\..\Desktop\SharkTaxonomy-Skeleton\SharkTaxonomy\SharkTaxonomy.csproj", "{398BC9A5-29DA-487A-95F1-DB0E232073F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398BC9A5-29DA-487A-95F1-DB0E232073F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
