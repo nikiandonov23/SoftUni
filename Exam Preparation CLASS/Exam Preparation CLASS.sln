@@ -53,9 +53,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0000000002. Mouse In The Ki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomotiveRepairShop", "..\..\..\Desktop\AutomotiveRepairShop\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{BE4264CF-DF0B-483C-ABE3-9FA82A2375B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000000001. Rubber Duck Debuggers", "00000000001. Rubber Duck Debuggers\00000000001. Rubber Duck Debuggers.csproj", "{58CCCFE6-36E3-4F0B-AAF1-C03497BC4BB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00000000001. Rubber Duck Debuggers", "00000000001. Rubber Duck Debuggers\00000000001. Rubber Duck Debuggers.csproj", "{58CCCFE6-36E3-4F0B-AAF1-C03497BC4BB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000000000002. The Squirrel", "000000000002. The Squirrel\000000000002. The Squirrel.csproj", "{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "000000000002. The Squirrel", "000000000002. The Squirrel\000000000002. The Squirrel.csproj", "{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothesMagazine", "..\..\..\Desktop\ClothesMagazine-Skeleton-6.0\ClothesMagazine.csproj", "{024C9F72-F803-40EA-BFA6-25F9E51DA983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000000000001. Apocalypse Preparation DA SE RESHI PAK", "0000000000001. Apocalypse Preparation\0000000000001. Apocalypse Preparation DA SE RESHI PAK.csproj", "{69D8E16B-4954-4314-A927-B3F650D8CD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000000000002. Blind Man's Buff", "00000000000002. Blind Man's Buff\00000000000002. Blind Man's Buff.csproj", "{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniKindergarten", "..\..\..\Desktop\SoftUniKindergarten_Skeleton_6.0\SoftUniKindergarten.csproj", "{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +179,22 @@ Global
 		{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024C9F72-F803-40EA-BFA6-25F9E51DA983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024C9F72-F803-40EA-BFA6-25F9E51DA983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024C9F72-F803-40EA-BFA6-25F9E51DA983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024C9F72-F803-40EA-BFA6-25F9E51DA983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D8E16B-4954-4314-A927-B3F650D8CD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D8E16B-4954-4314-A927-B3F650D8CD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D8E16B-4954-4314-A927-B3F650D8CD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D8E16B-4954-4314-A927-B3F650D8CD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
