@@ -43,9 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailClient", "..\..\..\Desk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00000001. Monster Extermination DA SE RESHI PAK", "00000001. Monster Extermination\00000001. Monster Extermination DA SE RESHI PAK.csproj", "{5D6525A3-E367-474C-80CB-94B15CCFEC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000002. Delivery Boy", "00000002. Delivery Boy\00000002. Delivery Boy.csproj", "{EE1FE01F-8D45-464E-B404-384CEA0EA243}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00000002. Delivery Boy", "00000002. Delivery Boy\00000002. Delivery Boy.csproj", "{EE1FE01F-8D45-464E-B404-384CEA0EA243}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingSystem", "..\..\..\Desktop\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\VendingSystem.csproj", "{E0782369-9181-429E-81D8-36BED966B5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000000001. Temple of Doom", "000000001. Temple of Doom\000000001. Temple of Doom.csproj", "{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000000002. Mouse In The Kitchen", "0000000002. Mouse In The Kitchen\0000000002. Mouse In The Kitchen.csproj", "{3FD6C71D-4A7E-430D-935E-7A235AF94103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{E0782369-9181-429E-81D8-36BED966B5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0782369-9181-429E-81D8-36BED966B5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0782369-9181-429E-81D8-36BED966B5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD6C71D-4A7E-430D-935E-7A235AF94103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD6C71D-4A7E-430D-935E-7A235AF94103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD6C71D-4A7E-430D-935E-7A235AF94103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD6C71D-4A7E-430D-935E-7A235AF94103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
