@@ -25,21 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001. Pie Pursuit", "0001. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00001. Chicken Snack DA SE RESHI PAK", "00001. Chicken Snack\00001. Chicken Snack DA SE RESHI PAK.csproj", "{DA8898ED-3782-4DFB-AB0D-99CBD3EF23B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00002. Clear Skies", "00002. Clear Skies\00002. Clear Skies.csproj", "{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00002. Clear Skies", "00002. Clear Skies\00002. Clear Skies.csproj", "{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharkTaxonomy", "..\..\..\Desktop\SharkTaxonomy-Skeleton\SharkTaxonomy\SharkTaxonomy.csproj", "{398BC9A5-29DA-487A-95F1-DB0E232073F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000001. Worms And Holes", "000001. Worms And Holes\000001. Worms And Holes.csproj", "{DD771271-19F2-4F8E-ACC5-E3D0BC961160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "000001. Worms And Holes", "000001. Worms And Holes\000001. Worms And Holes.csproj", "{DD771271-19F2-4F8E-ACC5-E3D0BC961160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000002. The Gambler", "000002. The Gambler\000002. The Gambler.csproj", "{A73F941B-D61F-4682-9794-566C70F791B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "000002. The Gambler", "000002. The Gambler\000002. The Gambler.csproj", "{A73F941B-D61F-4682-9794-566C70F791B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceriesManagement", "..\..\..\Desktop\GroceriesManagement\GroceriesManagement\GroceriesManagement.csproj", "{47134647-5C93-4529-B0CA-7B97DAF06305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000001. Offroad Challenge", "0000001. Offroad Challenge\0000001. Offroad Challenge.csproj", "{C34C1766-C649-493F-86BC-1B6CA09AB27A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0000001. Offroad Challenge", "0000001. Offroad Challenge\0000001. Offroad Challenge.csproj", "{C34C1766-C649-493F-86BC-1B6CA09AB27A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000002. Fishing Competition", "0000002. Fishing Competition\0000002. Fishing Competition.csproj", "{3635CC15-7CEB-4EC6-9D91-2DAE5FBA76FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0000002. Fishing Competition", "0000002. Fishing Competition\0000002. Fishing Competition.csproj", "{3635CC15-7CEB-4EC6-9D91-2DAE5FBA76FF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailClient", "..\..\..\Desktop\MailClient\MailClient\MailClient.csproj", "{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00000001. Monster Extermination DA SE RESHI PAK", "00000001. Monster Extermination\00000001. Monster Extermination DA SE RESHI PAK.csproj", "{5D6525A3-E367-474C-80CB-94B15CCFEC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000002. Delivery Boy", "00000002. Delivery Boy\00000002. Delivery Boy.csproj", "{EE1FE01F-8D45-464E-B404-384CEA0EA243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingSystem", "..\..\..\Desktop\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\VendingSystem.csproj", "{E0782369-9181-429E-81D8-36BED966B5A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6525A3-E367-474C-80CB-94B15CCFEC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6525A3-E367-474C-80CB-94B15CCFEC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6525A3-E367-474C-80CB-94B15CCFEC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6525A3-E367-474C-80CB-94B15CCFEC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1FE01F-8D45-464E-B404-384CEA0EA243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1FE01F-8D45-464E-B404-384CEA0EA243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1FE01F-8D45-464E-B404-384CEA0EA243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1FE01F-8D45-464E-B404-384CEA0EA243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0782369-9181-429E-81D8-36BED966B5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0782369-9181-429E-81D8-36BED966B5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0782369-9181-429E-81D8-36BED966B5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0782369-9181-429E-81D8-36BED966B5A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
