@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Climb The Peaks", "01. Climb The Peaks\01. Climb The Peaks.csproj", "{371D0D26-C9E7-48D1-A43E-E1717D2FA744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Navy Battle", "02. Navy Battle\02. Navy Battle.csproj", "{BBAE39FF-987B-47FB-A93E-14BAC7749BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371D0D26-C9E7-48D1-A43E-E1717D2FA744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371D0D26-C9E7-48D1-A43E-E1717D2FA744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371D0D26-C9E7-48D1-A43E-E1717D2FA744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371D0D26-C9E7-48D1-A43E-E1717D2FA744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAE39FF-987B-47FB-A93E-14BAC7749BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE39FF-987B-47FB-A93E-14BAC7749BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE39FF-987B-47FB-A93E-14BAC7749BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE39FF-987B-47FB-A93E-14BAC7749BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34F5879-31C7-421B-B095-340E605859CC}
+	EndGlobalSection
+EndGlobal
