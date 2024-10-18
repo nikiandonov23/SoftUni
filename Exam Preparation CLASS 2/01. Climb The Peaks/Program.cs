@@ -16,29 +16,29 @@ Dictionary<int, string> peeks = new Dictionary<int, string>()
 
 
 };
-int peeksInitialCount=peeks.Count;
-List<string>conqueredPeeks=new List<string>();
+int peeksInitialCount = peeks.Count;
+List<string> conqueredPeeks = new List<string>();
 
-while (foods.Count > 0 && stamina.Count > 0&&peeks.Count>0)
+while (foods.Count > 0 && stamina.Count > 0 && peeks.Count > 0)
 {
 
-    int currentFood= foods.Peek();
+    int currentFood = foods.Peek();
     int currentStamina = stamina.Peek();
 
-    int currentSum=currentFood+currentStamina;
+    int currentSum = currentFood + currentStamina;
 
 
     var peekToCompare = peeks.First();
-    if (peekToCompare.Key<=currentSum)
+    if (peekToCompare.Key <= currentSum)
     {
         conqueredPeeks.Add(peekToCompare.Value);
         peeks.Remove(peeks.First().Key);
 
         foods.Pop();
         stamina.Dequeue();
-        
+
     }
-    else if (peekToCompare.Key>currentSum)
+    else if (peekToCompare.Key > currentSum)
     {
         foods.Pop();
         stamina.Dequeue();
@@ -46,17 +46,17 @@ while (foods.Count > 0 && stamina.Count > 0&&peeks.Count>0)
 
 }
 
-if (peeks.Count!=0)
+if (peeks.Count != 0)
 {
     Console.WriteLine("Alex failed! He has to organize his journey better next time -> @PIRINWINS");
 }
-else if (peeks.Count==0)
+else if (peeks.Count == 0)
 {
     Console.WriteLine("Alex did it! He climbed all top five Pirin peaks in one week -> @FIVEinAWEEK");
-    
+
 }
 
-if (conqueredPeeks.Count!=0)
+if (conqueredPeeks.Count != 0)
 {
     Console.WriteLine("Conquered peaks:");
     foreach (var peek in conqueredPeeks)
