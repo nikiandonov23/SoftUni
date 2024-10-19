@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "000001. Bakery Shop", "0000
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "000002. Beaver at Work", "000002. Beaver at Work\000002. Beaver at Work.csproj", "{DA57E450-D265-400A-A283-8F62D5C27F55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000001. Blacksmith NO JUDGE", "0000001. Blacksmith\0000001. Blacksmith NO JUDGE.csproj", "{FC6DABB6-A4CD-47F9-92F4-737D30BE8017}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000001. Blacksmith", "0000001. Blacksmith\0000001. Blacksmith.csproj", "{FC6DABB6-A4CD-47F9-92F4-737D30BE8017}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoto DOT.Net 5", "demoto DOT.Net 5\demoto DOT.Net 5.csproj", "{C5C5FB79-52A2-4282-BFC0-5ED8454260AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000001. Birthday Celebration", "00000001. Birthday Celebration\00000001. Birthday Celebration.csproj", "{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000000001. Birthday Celebration", "00000001. Birthday Celebration\000000001. Birthday Celebration.csproj", "{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000000002. The Battle of The Five Armies", "000000002. The Battle of The Five Armies\000000002. The Battle of The Five Armies.csproj", "{6F2A46CB-8EE8-4CAD-904E-E9E058D39B28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2A46CB-8EE8-4CAD-904E-E9E058D39B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2A46CB-8EE8-4CAD-904E-E9E058D39B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2A46CB-8EE8-4CAD-904E-E9E058D39B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2A46CB-8EE8-4CAD-904E-E9E058D39B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
