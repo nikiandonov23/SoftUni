@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0000001. Blacksmith NO JUDG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoto DOT.Net 5", "demoto DOT.Net 5\demoto DOT.Net 5.csproj", "{C5C5FB79-52A2-4282-BFC0-5ED8454260AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00000001. Birthday Celebration", "00000001. Birthday Celebration\00000001. Birthday Celebration.csproj", "{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C5C5FB79-52A2-4282-BFC0-5ED8454260AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5C5FB79-52A2-4282-BFC0-5ED8454260AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5C5FB79-52A2-4282-BFC0-5ED8454260AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7745A996-0EEB-4D89-B5D5-1CEED51BBAA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

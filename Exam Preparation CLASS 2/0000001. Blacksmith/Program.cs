@@ -55,6 +55,7 @@ while (steel.Count>0&&carbon.Count>0)
 var filteredSwords=swords.Where(x=>x.Value!=0).ToDictionary(x=>x.Key,x=>x.Value);
 var filteredSwordsFinal=filteredSwords.OrderBy(x=>x.Key).ToDictionary(x => x.Key, x => x.Value);
 
+Console.WriteLine();
 
 if (filteredSwordsFinal.Count>0)
 {
@@ -78,7 +79,7 @@ if (steel.Count==0)
 
 if (carbon.Count > 0)
 {
-    Console.WriteLine($"Carbon left: {string.Join(" ",carbon)}");
+    Console.WriteLine($"Carbon left: {string.Join(", ",carbon)}");
 }
 if (carbon.Count == 0)
 {
@@ -88,7 +89,7 @@ if (carbon.Count == 0)
 
 if (filteredSwordsFinal.Count>0)
 {
-    foreach (var sword in swords)
+    foreach (var sword in filteredSwordsFinal)
     {
         Console.WriteLine($"{sword.Key}: {sword.Value}");
     }
