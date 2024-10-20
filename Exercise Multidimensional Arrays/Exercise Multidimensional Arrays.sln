@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Knight Game  OPIT 1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Knight Game OPIT 2", "07. Knight Game OPIT 2\07. Knight Game OPIT 2.csproj", "{548EDEF1-94EA-4E87-BFB9-8040C87E0918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Bombs", "08. Bombs\08. Bombs.csproj", "{8083CE40-9321-4DE5-9456-5B130676934E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Bombs", "08. Bombs\08. Bombs.csproj", "{8083CE40-9321-4DE5-9456-5B130676934E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Miner", "09.Miner\09.Miner.csproj", "{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RadioActive Mutant", "10.RadioActive Mutant\10.RadioActive Mutant.csproj", "{26206D49-77F1-43EC-A614-B2A0B11D5DF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{8083CE40-9321-4DE5-9456-5B130676934E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8083CE40-9321-4DE5-9456-5B130676934E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8083CE40-9321-4DE5-9456-5B130676934E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26206D49-77F1-43EC-A614-B2A0B11D5DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26206D49-77F1-43EC-A614-B2A0B11D5DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26206D49-77F1-43EC-A614-B2A0B11D5DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26206D49-77F1-43EC-A614-B2A0B11D5DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
