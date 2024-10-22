@@ -1,8 +1,8 @@
 ﻿namespace NeedForSpeed;
 
-public class Motorcycle:Vehicle
+public class Motorcycle: Vehicle
 {
-    public Motorcycle(double fuel, int horsePower) : base(fuel, horsePower)
+    public Motorcycle(int horsePower, double fuel) : base(horsePower, fuel)
     {
     }
 }
