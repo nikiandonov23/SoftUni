@@ -4,44 +4,15 @@
     {
         static void Main(string[] args)
         {
-
-            ConsoleOperator op = new ConsoleOperator();
-
-
-            string[] users = op.Read().Split().ToArray();
-            string message = op.Read();
-            string notificationType = op.Read();
+            Izpraven_chovek one=new Izpraven_chovek();
+            one.MakeSound();
+            one.Shit();
 
 
-            INotifier notifier = GetNotifier(notificationType,op);
-
-            
-
-            foreach (var user in users)
-            {
-                notifier.Notify(user, message);
-            }
-        }
-
-        private static INotifier GetNotifier(string notificationType,IWriter writer)
-        {
-            if (notificationType=="sms")
-            {
-                return new SmsNotifier(writer);
-            }
-
-            if (notificationType=="email")
-            {
-                return new EmailNotifier(writer);
-            }
-
-            throw new InvalidOperationException("invalid notification type");
-
-
+            Razumen_Chovek two = new Razumen_Chovek();
+            two.MakeSound();
+            two.Shit();
 
         }
-
-
-
     }
 }
