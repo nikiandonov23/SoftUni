@@ -3,21 +3,21 @@
 public class Rectangle:IDrawable
 {
 
-    private readonly int _width ;
-    private readonly int _height;
+    private readonly int width ;
+    private readonly int height;
 
     public Rectangle(int width, int height)
     {
-        _width = width;
-        _height = height;
+        this.width = width;
+        this.height = height;
     }
 
     public void Draw()
     {
-        DrawLine(this._width, '*', '*');
-        for (int i = 1; i < this._height - 1; ++i)
-            DrawLine(this._width, '*', ' ');
-        DrawLine(this._width, '*', '*');
+        DrawLine(this.width, '*', '*');
+        for (int i = 1; i < this.height - 1; ++i)
+            DrawLine(this.width, '*', ' ');
+        DrawLine(this.width, '*', '*');
     }
     private void DrawLine(int width, char end, char mid)
     {
