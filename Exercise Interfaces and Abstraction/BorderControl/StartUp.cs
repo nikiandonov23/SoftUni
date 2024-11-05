@@ -1,37 +1,57 @@
-﻿namespace BorderControl
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace BorderControl
 {
     public class StartUp
     {
         static void Main()
         {
+            List<INamable> allSubjects = new List<INamable>();
 
-            List<IIdentifiable> allSubjects = new List<IIdentifiable>();
+            int n = int.Parse(Console.ReadLine());
 
-            string input = "";
-            while ((input = Console.ReadLine()) != "End")
+            for (int i = 0; i < n; i++)
             {
-                string[] tockens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                if (tockens.Length==2)
-                {
-                    IIdentifiable subject = new Robot(tockens[0], tockens[1]);
-                    allSubjects.Add(subject);
+                string[] tockens=Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries);
+                string subject = tockens[0];
 
+
+                if (tockens.Length==4)
+                {
+                    Citizen citizen = new Citizen(tockens[0], int.Parse(tockens[1]), tockens[2], tockens[3]);
+                    allSubjects.Add(citizen);
                 }
                 else if (tockens.Length==3)
                 {
-                    IIdentifiable subject = new Citizen(tockens[0], int.Parse(tockens[1]), tockens[2]);
-                    allSubjects.Add(subject);
+                    Rebel rebel = new Rebel(tockens[0], int.Parse(tockens[1]), tockens[2]);
+                    allSubjects.Add(rebel);
                 }
             }
-            string decryption=Console.ReadLine();
 
-            foreach (var subject in allSubjects)
+            string command = "";
+            while ((command = Console.ReadLine()) != "End")
             {
-                if (subject.Id.EndsWith(decryption))
+
+                foreach (var subject in allSubjects)
                 {
-                    Console.WriteLine(subject.Id);
+                    if (subject.Name==command)
+                    {
+                        subject.BuyFood();
+                    }
                 }
+
             }
+
+            int totalFood=0;
+
+            foreach (var subjects in allSubjects)
+            {
+                totalFood += subjects.Food;
+            }
+
+            Console.WriteLine(totalFood);
+
+
 
             
         }
