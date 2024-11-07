@@ -1,71 +1,108 @@
-﻿namespace Vehicles
+﻿using System.Text;
+
+namespace Vehicles
 {
     public class Program
     {
         public static void Main()
         {
-            
+            Dictionary<string, Vehicle> allVehicles = new Dictionary<string, Vehicle>();
 
-            string[] carData = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            Car car = new Car(double.Parse(carData[1]), double.Parse(carData[2]));
+            for (int i = 0; i < 3; i++)
+            {
+                string[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                switch (input[0])
+                {
+                    case "Car":
+                        Vehicle car = new Car(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
+                        allVehicles.Add("car", car);
+                        break;
 
 
-            string[] truckData = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            Truck truck = new Truck(double.Parse(truckData[1]), double.Parse(truckData[2]));
+                    case "Truck":
+                        Vehicle truck = new Truck(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
+                        allVehicles.Add("truck", truck);
+
+                        break;
+
+
+                    case "Bus":
+                        Vehicle bus = new Bus(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
+                        allVehicles.Add("bus", bus);
+                        break;
+                }
+
+            }
+
+
+
 
 
             int n = int.Parse(Console.ReadLine());
-
-
             for (int i = 0; i < n; i++)
             {
-                string[] data = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string command = data[0];
-                string type = data[1];
+                string[] command = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-
-                switch (command)
+                switch (command[0])
                 {
-                    case "Drive":
-                        double distance = double.Parse(data[2]);
-                        if (type== "Car")
+                    case "Refuel":
+                        if (command[1] == "Car")
                         {
-                            car.Drive(distance);
+                            allVehicles["car"].Refuel(double.Parse(command[2]));
                         }
-                        else if (type== "Truck")
+                        else if (command[1] == "Truck")
                         {
-                            truck.Drive(distance);
+                            allVehicles["truck"].Refuel(double.Parse(command[2]));
+                        }
+                        else
+                        {
+                            allVehicles["bus"].Refuel(double.Parse(command[2]));
+
+                            
+
                         }
                         break;
 
 
-                    case "Refuel":
-                        double liters=double.Parse(data[2]);
-                        if (type == "Car")
+                    case "Drive":
+                        if (command[1] == "Car")
                         {
-                            car.Refuel(liters);
+                            allVehicles["car"].Drive(double.Parse(command[2]));
                         }
-                        else if (type == "Truck")
+                        else if (command[1] == "Truck")
                         {
-                            truck.Refuel(liters);
+                            allVehicles["truck"].Drive(double.Parse(command[2]));
+
+                        }
+                        else
+                        {
+                            allVehicles["bus"].Drive(double.Parse(command[2]));
+                        }
+                        break;
+
+
+                    case "DriveEmpty":
+
+                        if (allVehicles["bus"] is Bus bus)
+                        {
+                            bus.DriveEmpty(double.Parse(command[2]));
                         }
                         break;
 
 
                 }
 
+
             }
 
-            if (car.FuelQuantity>0)
+
+            StringBuilder result = new StringBuilder();
+            foreach (var vehicle in allVehicles)
             {
-                Console.WriteLine($"Car: {car.FuelQuantity:f2}");
+                result.AppendLine($"{vehicle.Value.GetType().Name}: {vehicle.Value.FuelQuantity:f2}");
             }
 
-            if (truck.FuelQuantity>0)
-            {
-                Console.WriteLine($"Truck: {truck.FuelQuantity:f2}");
-            }
-            
+            Console.WriteLine(result.ToString().Trim());
 
 
         }
