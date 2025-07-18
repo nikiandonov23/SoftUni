@@ -1,43 +1,24 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using CinemaApp.Data;
-namespace CinemaApp.Web
+using ShoppingListApp2025.Data;
+
+namespace ShoppingListApp2025
 {
-    using Data;
-    using Microsoft.AspNetCore.Identity;
-    using Microsoft.EntityFrameworkCore;
     public class Program
     {
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            string connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-            builder.Services.AddDbContext<CinemaAppMay2025DbContext>(options =>
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+            builder.Services.AddDbContext<ShoppingList2025DbContext>(options =>
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            
-        
-
-            //Отговаря за паролата/IDENTITY
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
-                    {
-                        options.SignIn.RequireConfirmedAccount = false;
-                        options.Password.RequireDigit = false;
-                        options.Password.RequireUppercase = false;
-                        options.Password.RequireLowercase = false;
-                        options.Password.RequiredLength = 3;
-                        options.Password.RequireNonAlphanumeric = false;
-                     
-                    }
-                )
-                .AddEntityFrameworkStores<CinemaAppMay2025DbContext>();
-
-
-
-
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ShoppingList2025DbContext>();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
