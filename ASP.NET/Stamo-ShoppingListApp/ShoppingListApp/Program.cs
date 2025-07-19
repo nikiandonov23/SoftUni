@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ShoppingListApp.Contracts;
-using ShoppingListApp.Data;
-using ShoppingListApp.Services;
+using ShoppingList.Core.Contracts;
+using ShoppingList.Core.Services;
+using ShoppingList.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +10,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IProductService, ProductService>();
 
 // Add EF Core context
-string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? throw new ArgumentNullException("Connection string is missing");
+
 builder.Services.AddDbContext<ShoppingListDbContext>(opt => opt.UseSqlServer(connectionString));
 
 

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShoppingListApp.Data.Models;
+using ShoppingList.Infrastructure.Data.Models;
 
-namespace ShoppingListApp.Data
+namespace ShoppingList.Infrastructure.Data
 {
     public class ShoppingListDbContext : DbContext
     {

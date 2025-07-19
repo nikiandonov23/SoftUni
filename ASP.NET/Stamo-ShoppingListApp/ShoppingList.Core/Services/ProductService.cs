@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShoppingListApp.Contracts;
-using ShoppingListApp.Data;
-using ShoppingListApp.Data.Models;
-using ShoppingListApp.Models;
-using ProductViewModel = ShoppingListApp.Models.ProductViewModel;
+using ShoppingList.Core.Contracts;
+using ShoppingList.Core.Dto;
+using ShoppingList.Infrastructure.Data;
+using ShoppingList.Infrastructure.Data.Models;
 
-namespace ShoppingListApp.Services
+
+namespace ShoppingList.Core.Services
 {
     public class ProductService(ShoppingListDbContext context) : IProductService
     {

@@ -2,10 +2,14 @@
 
 #nullable disable
 
-namespace ShoppingListApp.Migrations
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
+namespace ShoppingList.Infrastructure.Migrations
 {
-    public partial class InitialMigration : Migration
+    /// <inheritdoc />
+    public partial class initialMigration : Migration
     {
+        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -14,7 +18,8 @@ namespace ShoppingListApp.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false, comment: "Product Identifier")
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false)
+                    Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: true)
                 },
                 constraints: table =>
                 {
@@ -43,12 +48,22 @@ namespace ShoppingListApp.Migrations
                 },
                 comment: "Product Note");
 
+            migrationBuilder.InsertData(
+                table: "Products",
+                columns: new[] { "Id", "Description", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, "Cheese" },
+                    { 2, null, "Milk" }
+                });
+
             migrationBuilder.CreateIndex(
                 name: "IX_ProductNotes_ProductId",
                 table: "ProductNotes",
                 column: "ProductId");
         }
 
+        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(

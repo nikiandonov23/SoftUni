@@ -1,8 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
-namespace ShoppingListApp.Data.Models
+namespace ShoppingList.Infrastructure.Data.Models
 {
     [Comment("Product Note")]
     public class ProductNote

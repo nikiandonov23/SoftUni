@@ -1,6 +1,6 @@
-﻿using ShoppingListApp.Models;
+﻿using ShoppingList.Core.Dto;
 
-namespace ShoppingListApp.Contracts
+namespace ShoppingList.Core.Contracts
 {
     public interface IProductService
     {

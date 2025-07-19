@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ShoppingListApp.Models
+namespace ShoppingList.Core.Dto
 {
     public class ProductViewModel
     {

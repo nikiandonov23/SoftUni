@@ -1,8 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
-using ShoppingListApp.Models;
+﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.EntityFrameworkCore;
 
-namespace ShoppingListApp.Data.Models
+namespace ShoppingList.Infrastructure.Data.Models
 {
     [Comment("Shopping List Product")]
     public class Product
@@ -20,6 +19,7 @@ namespace ShoppingListApp.Data.Models
         [MaxLength(500)]
         public string? Description { get; set; }
 
-        public List<ProductViewModel> ProductNotes { get; set; } = new List<ProductViewModel>();
+
+
     }
 }

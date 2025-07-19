@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using ShoppingListApp.Contracts;
-using ShoppingListApp.Models;
-using System.Runtime.CompilerServices;
+using ShoppingList.Core.Contracts;
+using ShoppingList.Core.Dto;
 
 namespace ShoppingListApp.Controllers
 {
