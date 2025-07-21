@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CinemaApp.Data;
+using CinemaApp.Services.Core;
+using CinemaApp.Services.Core.Interfaces;
+
 namespace CinemaApp.Web
 {
     using Data;
@@ -39,6 +42,9 @@ namespace CinemaApp.Web
 
 
             builder.Services.AddControllersWithViews();
+
+            //така се регистрира сървис който бих използвам в MovieController-a 
+            builder.Services.AddScoped<IMovieService, MovieService>();
 
             var app = builder.Build();
 

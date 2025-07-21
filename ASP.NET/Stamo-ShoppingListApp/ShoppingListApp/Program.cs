@@ -18,7 +18,7 @@ builder.Services.AddDbContext<ShoppingListDbContext>(opt => opt.UseSqlServer(con
 
 
 
-var app = builder.Build();
+WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -32,7 +32,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+                
 app.UseAuthorization();
 
 app.MapControllerRoute(

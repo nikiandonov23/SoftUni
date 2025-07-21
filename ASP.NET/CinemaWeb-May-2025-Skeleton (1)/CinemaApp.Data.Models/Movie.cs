@@ -34,7 +34,7 @@ namespace CinemaApp.Data.Models
 
         [Comment("Movie Release Date")]
         [Required(ErrorMessage = "Release date is required")]
-        public DateTime ReleaseDate { get; set; }
+        public DateOnly ReleaseDate { get; set; }
 
 
 

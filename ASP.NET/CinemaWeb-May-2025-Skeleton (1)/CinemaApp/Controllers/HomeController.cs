@@ -1,20 +1,20 @@
+using CinemaApp.Data;
+using CinemaApp.Web.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 namespace CinemaApp.Web.Controllers
 {
-    using System.Diagnostics;
-    using CinemaApp.Web.ViewModels;
-    using Microsoft.AspNetCore.Mvc;
-    public class HomeController : Controller
+
+
+
+
+    public class HomeController(CinemaAppMay2025DbContext logger) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+        
         public IActionResult Index()
         {
             return View();
+           
         }
 
         public IActionResult Privacy()
@@ -28,4 +28,5 @@ namespace CinemaApp.Web.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
+
 }
