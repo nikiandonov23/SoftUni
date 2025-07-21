@@ -27,7 +27,7 @@ public class MovieConfiguration : IEntityTypeConfiguration<Movie>
 
         builder.Property(x => x.Director)
             .IsRequired()
-            .HasMaxLength(DirectorMaxLength);
+            .HasMaxLength(DirectorNameMaxLength);
 
         builder.Property(x => x.Description)
             .IsRequired()

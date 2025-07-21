@@ -2,8 +2,7 @@
 {
     public static class EntityConstants
     {
-        public static class Movie
-        {
+        
             /// <summary>
             /// Movie Title should be at least 2 characters and up to 100 characters.
             /// </summary>
@@ -59,9 +58,8 @@
             /// </summary>
             public const int ImageUrlMaxLength = 2048;
 
-           
 
-           
-        }
+            
+        
     }
 }

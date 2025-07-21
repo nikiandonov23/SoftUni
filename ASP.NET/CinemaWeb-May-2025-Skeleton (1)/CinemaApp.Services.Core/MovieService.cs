@@ -37,7 +37,7 @@ public class MovieService(CinemaAppMay2025DbContext context):IMovieService
             Duration = inputModel.Duration,
             ImageUrl = inputModel.ImageUrl,
             Title = inputModel.Title,
-            ReleaseDate = DateOnly
+            ReleaseDate = DateTime
                 .ParseExact(inputModel.ReleaseDate,AppDateFormat,CultureInfo.InvariantCulture)
 
         };

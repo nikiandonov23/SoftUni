@@ -1,7 +1,7 @@
 ﻿namespace CinemaApp.Web.ViewModels.Movie
 {
     using System.ComponentModel.DataAnnotations;
-    using static CinemaApp.Data.Common.EntityConstants.Movie;
+    
     using static CinemaApp.Web.ViewModels.Movie.ValidationMessages.Movie;
     using static GCommon.ApplicationConstants;
     public class MovieFormInputModel

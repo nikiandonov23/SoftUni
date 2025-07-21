@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CinemaApp.Data.Common;
+﻿using CinemaApp.Data.Common;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace CinemaApp.Data.Models
 {
@@ -34,14 +29,14 @@ namespace CinemaApp.Data.Models
 
         [Comment("Movie Release Date")]
         [Required(ErrorMessage = "Release date is required")]
-        public DateOnly ReleaseDate { get; set; }
+        public DateTime ReleaseDate { get; set; }
 
 
 
 
 
         [Comment("Movie Director")]
-        [StringLength(EntityConstants.DirectorMaxLength, ErrorMessage = "Director cannot exceed 100 characters")]
+        [StringLength(EntityConstants.DirectorNameMaxLength, ErrorMessage = "Director cannot exceed 100 characters")]
         [Required(ErrorMessage = "Director is required")]
         public string Director { get; set; } = null!;
 
