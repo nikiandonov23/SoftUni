@@ -96,6 +96,28 @@ namespace CinemaApp.Web.Controllers
             return RedirectToAction(nameof(Details) ,new { id });
 
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(string id)
+        {
+            var movie = await movieService.GetMovieDetailsByIdAsync(id);
+
+            if (movie == null)
+            {
+                return NotFound();
+            }
+
+            return View(movie);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> DeleteConfirmed(string id)
+        {
+            await movieService.SoftDeleteAsync(id);
+            return RedirectToAction(nameof(Index));
+
+        }
     }
 
 

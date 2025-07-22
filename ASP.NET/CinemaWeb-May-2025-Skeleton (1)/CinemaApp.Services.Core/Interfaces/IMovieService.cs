@@ -12,4 +12,7 @@ public interface IMovieService
 
     Task<MovieFormViewModel> GetForEditByIdAsync(string id);
     Task EditAsync(string id, MovieFormViewModel movie);
+
+    Task SoftDeleteAsync(string id);
+    Task HardDeleteAsync(string id);
 }

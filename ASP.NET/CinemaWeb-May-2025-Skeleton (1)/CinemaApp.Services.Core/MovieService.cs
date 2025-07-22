@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
 using static CinemaApp.GCommon.ApplicationConstants;
 namespace CinemaApp.Services.Core;
 
@@ -17,6 +18,7 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
     {
         var allMovies = await context.Movies
             .AsNoTracking()
+            .Where(x=>x.IsDeleted==false)
             .Select(x => new AllMoviesIndexViewModel()
             {
                 Director = x.Director,
@@ -140,7 +142,33 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
 
     }
 
+    //Софт делийта само сменя статуса на IsDeleted и такаа базата си го държи ама не го показва :D
+    public async Task SoftDeleteAsync(string id)
+    {
+        var movieToDelete = await context.Movies
+            .Where(x => x.Id.ToString() == id)
+            .FirstOrDefaultAsync();
+
+        if (movieToDelete != null && movieToDelete.IsDeleted==false )
+        {
+            movieToDelete.IsDeleted = true;
+            await context.SaveChangesAsync();
+        }
+
+    }
 
 
+    //Хард делийта направо го бастисва от базата
+    public async Task HardDeleteAsync(string id)
+    {
+        var movieToDelete = await context.Movies
+            .Where(x => x.Id.ToString() == id)
+            .FirstOrDefaultAsync();
 
+        if (movieToDelete != null)
+        {
+            context.Movies.Remove(movieToDelete); // Replace ExecuteDeleteAsync with Remove
+            await context.SaveChangesAsync(); // Save changes to persist the deletion
+        }
+    }
 }
