@@ -6,5 +6,10 @@ public interface IMovieService
 {
     Task<IEnumerable<AllMoviesIndexViewModel>> GetAllMoviesAsync();
     Task AddAsync(MovieFormViewModel viewModel);
+    Task<MovieDetailsViewModel> GetMovieDetailsByIdAsync(string id);
 
+
+
+    Task<MovieFormViewModel> GetForEditByIdAsync(string id);
+    Task EditAsync(string id, MovieFormViewModel movie);
 }

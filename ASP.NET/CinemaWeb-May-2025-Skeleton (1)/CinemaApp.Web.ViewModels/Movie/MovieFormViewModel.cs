@@ -6,7 +6,10 @@
     using static GCommon.ApplicationConstants;
     public class MovieFormViewModel
     {
-     
+
+        public string Id { get; set; } = string.Empty;
+
+
 
         [Required(ErrorMessage = TitleRequiredMessage)]
         [MinLength(TitleMinLength, ErrorMessage = TitleMinLengthMessage)]

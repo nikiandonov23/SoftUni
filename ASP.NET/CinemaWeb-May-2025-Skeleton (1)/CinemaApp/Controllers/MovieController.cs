@@ -38,7 +38,7 @@ namespace CinemaApp.Web.Controllers
 
             try
             {
-               
+
 
                 await movieService.AddAsync(modelToBeAdded);
                 return RedirectToAction(nameof(Index));
@@ -47,13 +47,53 @@ namespace CinemaApp.Web.Controllers
             }
             catch (Exception e)
             {
-                    //todo Implement it with the ILogger
+                //todo Implement it with the ILogger
                 Console.WriteLine(e.Message);
-                
+
 
                 ModelState.AddModelError(String.Empty, ServiceCreateError);
                 return View(modelToBeAdded);
             }
+
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Details(string id)
+        {
+            var movie = await movieService.GetMovieDetailsByIdAsync(id);
+
+            if (movie == null)
+            {
+                return NotFound();
+            }
+
+            return View(movie);
+        }
+
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(string id)
+        {
+            var movie = await movieService.GetForEditByIdAsync(id);
+            if (movie == null)
+            {
+                return NotFound();
+            }
+
+            return View(movie);
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(string id, MovieFormViewModel movie)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(movie);
+            }
+
+            await movieService.EditAsync(id, movie);
+            return RedirectToAction(nameof(Details) ,new { id });
 
         }
     }

@@ -6,11 +6,12 @@ using CinemaApp.Services.Core.Interfaces;
 using CinemaApp.Web.ViewModels.Movie;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;
+using System.Runtime.CompilerServices;
 using Microsoft.IdentityModel.Tokens;
 using static CinemaApp.GCommon.ApplicationConstants;
 namespace CinemaApp.Services.Core;
 
-public class MovieService(CinemaAppMay2025DbContext context):IMovieService
+public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
 {
     public async Task<IEnumerable<AllMoviesIndexViewModel>> GetAllMoviesAsync()
     {
@@ -31,7 +32,7 @@ public class MovieService(CinemaAppMay2025DbContext context):IMovieService
         {
             if (movie.ImageUrl.IsNullOrEmpty())
             {
-                
+
                 movie.ImageUrl = "/images/no-image.jpg"; // ✅ валиден URL за браузъра
 
             }
@@ -51,7 +52,7 @@ public class MovieService(CinemaAppMay2025DbContext context):IMovieService
             ImageUrl = viewModel.ImageUrl,
             Title = viewModel.Title,
             ReleaseDate = DateTime
-                .ParseExact(viewModel.ReleaseDate,AppDateFormat,CultureInfo.InvariantCulture)
+                .ParseExact(viewModel.ReleaseDate, AppDateFormat, CultureInfo.InvariantCulture)
 
         };
 
@@ -61,4 +62,85 @@ public class MovieService(CinemaAppMay2025DbContext context):IMovieService
         await context.SaveChangesAsync();
 
     }
+
+    public async Task<MovieDetailsViewModel> GetMovieDetailsByIdAsync(string id)
+    {
+
+        var movie = await context.Movies
+            .AsNoTracking()
+            .Where(x => x.IsDeleted == false && x.Id.ToString() == id)
+            .Select(x => new MovieDetailsViewModel()
+            {
+
+                Id = x.Id.ToString(),
+                Title = x.Title,
+                Genre = x.Genre,
+                Director = x.Director,
+                Description = x.Description,
+                Duration = x.Duration,
+                ReleaseDate = x.ReleaseDate.ToString("yyyy-MM-dd"),
+                ImageUrl = x.ImageUrl
+            }).FirstOrDefaultAsync();
+
+
+        return movie;
+
+
+
+
+    }
+
+    public async Task<MovieFormViewModel> GetForEditByIdAsync(string id)
+    {
+        var movie = await context.Movies
+            .Where(x => x.Id.ToString() == id)
+            .Select(x => new MovieFormViewModel()
+            {
+                Id = x.Id.ToString(),
+                Description = x.Description,
+                Director = x.Director,
+                Duration = x.Duration,
+                Genre = x.Genre,
+                ImageUrl = x.ImageUrl,
+                ReleaseDate = x.ReleaseDate.ToString("yyyy-MM-dd"),
+                Title = x.Title,
+
+            }).FirstOrDefaultAsync();
+
+
+        return movie;
+    }
+
+    public async Task EditAsync(string id, MovieFormViewModel movie)
+    {
+
+
+
+        var movieToEdit = await context.Movies
+            .Where(x => x.Id.ToString() == id)
+            .FirstOrDefaultAsync();
+
+
+        if (movieToEdit == null)
+        {
+            return;
+        }
+
+
+        movieToEdit.Description = movie.Description;
+        movieToEdit.Director = movie.Director;
+        movieToEdit.Title = movie.Title;
+        movieToEdit.Duration = movie.Duration;
+        movieToEdit.Genre = movie.Genre;
+        movieToEdit.ImageUrl = movie.ImageUrl;
+        movieToEdit.ReleaseDate = DateTime.ParseExact(movie.ReleaseDate,AppDateFormat,CultureInfo.InvariantCulture);
+
+
+        await context.SaveChangesAsync();
+
+    }
+
+
+
+
 }
