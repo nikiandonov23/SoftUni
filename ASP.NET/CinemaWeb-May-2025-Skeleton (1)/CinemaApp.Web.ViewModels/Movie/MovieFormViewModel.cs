@@ -2,9 +2,9 @@
 {
     using System.ComponentModel.DataAnnotations;
     
-    using static CinemaApp.Web.ViewModels.Movie.ValidationMessages.Movie;
+    using static CinemaApp.Web.ViewModels.ValidationMessages.Movie;
     using static GCommon.ApplicationConstants;
-    public class MovieFormInputModel
+    public class MovieFormViewModel
     {
      
 

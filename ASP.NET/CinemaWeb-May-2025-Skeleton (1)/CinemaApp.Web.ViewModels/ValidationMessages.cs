@@ -1,4 +1,4 @@
-﻿namespace CinemaApp.Web.ViewModels.Movie;
+﻿namespace CinemaApp.Web.ViewModels;
 
 public static class ValidationMessages
 {
@@ -27,6 +27,7 @@ public static class ValidationMessages
         public const string ReleaseDateRequiredMessage = "Release date is required.";
 
         public const string ImageUrlMaxLengthMessage = "Image URL cannot exceed 2048 characters.";
+        public const string ServiceCreateError = "A fatal error occured ....Please come back and try again later";
 
         /// <summary>
         /// Movie Title should be at least 2 characters and up to 100 characters.
