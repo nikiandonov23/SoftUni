@@ -28,7 +28,7 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
                 ReleaseDate = x.ReleaseDate.ToString(AppDateFormat),
                 Title = x.Title
             }).ToListAsync();
-
+          
 
         foreach (var movie in allMovies)
         {
@@ -65,15 +65,18 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
 
     }
 
-    public async Task<MovieDetailsViewModel> GetMovieDetailsByIdAsync(string id)
+    public async Task<MovieDetailsViewModel?> GetMovieDetailsByIdAsync(string? id)
     {
+        if (!Guid.TryParse(id, out var movieGuid))
+        {
+            return null;
+        }
 
         var movie = await context.Movies
             .AsNoTracking()
-            .Where(x => x.IsDeleted == false && x.Id.ToString() == id)
-            .Select(x => new MovieDetailsViewModel()
+            .Where(x => x.IsDeleted == false && x.Id == movieGuid)
+            .Select(x => new MovieDetailsViewModel
             {
-
                 Id = x.Id.ToString(),
                 Title = x.Title,
                 Genre = x.Genre,
@@ -82,21 +85,22 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
                 Duration = x.Duration,
                 ReleaseDate = x.ReleaseDate.ToString("yyyy-MM-dd"),
                 ImageUrl = x.ImageUrl
-            }).FirstOrDefaultAsync();
-
+            })
+            .FirstOrDefaultAsync();
 
         return movie;
-
-
-
-
     }
 
-    public async Task<MovieFormViewModel> GetForEditByIdAsync(string id)
+    public async Task<MovieFormViewModel?> GetForEditByIdAsync(string? id)
     {
+        if (!Guid.TryParse(id, out var movieGuid))
+        {
+            return null;
+        }
+
         var movie = await context.Movies
-            .Where(x => x.Id.ToString() == id)
-            .Select(x => new MovieFormViewModel()
+            .Where(x => x.Id == movieGuid)
+            .Select(x => new MovieFormViewModel
             {
                 Id = x.Id.ToString(),
                 Description = x.Description,
@@ -105,10 +109,9 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
                 Genre = x.Genre,
                 ImageUrl = x.ImageUrl,
                 ReleaseDate = x.ReleaseDate.ToString("yyyy-MM-dd"),
-                Title = x.Title,
-
-            }).FirstOrDefaultAsync();
-
+                Title = x.Title
+            })
+            .FirstOrDefaultAsync();
 
         return movie;
     }
@@ -143,23 +146,27 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
     }
 
     //Софт делийта само сменя статуса на IsDeleted и такаа базата си го държи ама не го показва :D
-    public async Task SoftDeleteAsync(string id)
+    public async Task SoftDeleteAsync(string? id)
     {
-        var movieToDelete = await context.Movies
-            .Where(x => x.Id.ToString() == id)
-            .FirstOrDefaultAsync();
+        if (!Guid.TryParse(id, out var movieGuid))
+        {
+            // По избор: log или хвърли изключение
+            return;
+        }
 
-        if (movieToDelete != null && movieToDelete.IsDeleted==false )
+        var movieToDelete = await context.Movies
+            .FirstOrDefaultAsync(x => x.Id == movieGuid);
+
+        if (movieToDelete != null && !movieToDelete.IsDeleted)
         {
             movieToDelete.IsDeleted = true;
             await context.SaveChangesAsync();
         }
-
     }
 
 
     //Хард делийта направо го бастисва от базата
-    public async Task HardDeleteAsync(string id)
+    public async Task HardDeleteAsync(string? id)
     {
         var movieToDelete = await context.Movies
             .Where(x => x.Id.ToString() == id)
@@ -170,5 +177,6 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
             context.Movies.Remove(movieToDelete); // Replace ExecuteDeleteAsync with Remove
             await context.SaveChangesAsync(); // Save changes to persist the deletion
         }
+        
     }
 }

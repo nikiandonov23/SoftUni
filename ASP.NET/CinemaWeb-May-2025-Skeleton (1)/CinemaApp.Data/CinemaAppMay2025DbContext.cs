@@ -8,7 +8,7 @@ namespace CinemaApp.Data
     public class CinemaAppMay2025DbContext(DbContextOptions<CinemaAppMay2025DbContext> options) 
         : IdentityDbContext(options)
     {
-        public virtual DbSet<Movie> Movies { get; set; } = null!;
+       
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -16,9 +16,9 @@ namespace CinemaApp.Data
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 
-      
 
-
+        public virtual DbSet<Movie> Movies { get; set; } = null!;
+        public virtual UserMovie UserMovies { get; set; } = null!;
 
     }
 }

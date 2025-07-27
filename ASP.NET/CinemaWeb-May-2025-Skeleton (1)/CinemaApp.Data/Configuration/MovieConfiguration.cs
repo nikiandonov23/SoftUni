@@ -45,6 +45,9 @@ public class MovieConfiguration : IEntityTypeConfiguration<Movie>
             .IsRequired()
             .HasDefaultValue(false);
 
+        //filter outs only the active NON DELETED entities
+        builder.HasQueryFilter(x => x.IsDeleted == false);
+
         //Seedvame filmi s metod v bazata
 
         builder.HasData(this.SeedMovies());

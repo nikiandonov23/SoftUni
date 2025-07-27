@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CinemaApp.Services.Core;
 using CinemaApp.Services.Core.Interfaces;
+using Newtonsoft.Json;
 using static CinemaApp.Web.ViewModels.ValidationMessages.Movie;
 namespace CinemaApp.Web.Controllers
 {
@@ -13,6 +14,7 @@ namespace CinemaApp.Web.Controllers
         public async Task<IActionResult> Index()
         {
             var allMovies = await movieService.GetAllMoviesAsync();
+
 
             return View(allMovies);
         }
@@ -64,7 +66,7 @@ namespace CinemaApp.Web.Controllers
 
             if (movie == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Index)); //s greshto id nqaa se 4upi
             }
 
             return View(movie);
@@ -77,7 +79,7 @@ namespace CinemaApp.Web.Controllers
             var movie = await movieService.GetForEditByIdAsync(id);
             if (movie == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Index)); //s greshto id nqaa se 4upi
             }
 
             return View(movie);
@@ -93,7 +95,7 @@ namespace CinemaApp.Web.Controllers
             }
 
             await movieService.EditAsync(id, movie);
-            return RedirectToAction(nameof(Details) ,new { id });
+            return RedirectToAction(nameof(Details), new { id });
 
         }
 
@@ -104,7 +106,7 @@ namespace CinemaApp.Web.Controllers
 
             if (movie == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Index));  //s greshto id nqaa se 4upi
             }
 
             return View(movie);
@@ -115,6 +117,13 @@ namespace CinemaApp.Web.Controllers
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
             await movieService.SoftDeleteAsync(id);
+
+            var remainingMovies = await movieService.GetAllMoviesAsync();
+            if (!remainingMovies.Any())
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
             return RedirectToAction(nameof(Index));
 
         }
