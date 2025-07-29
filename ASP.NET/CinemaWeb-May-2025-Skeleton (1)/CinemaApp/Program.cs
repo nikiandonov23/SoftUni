@@ -39,13 +39,15 @@ namespace CinemaApp.Web
                 .AddEntityFrameworkStores<CinemaAppMay2025DbContext>();
 
 
+            //така се регистрира сървис който бих използвам в MovieController-a 
+            builder.Services.AddScoped<IMovieService, MovieService>();
+            //Добавен сървис за WatchlistService и IWatchlist
+            builder.Services.AddScoped<IWatchlistService, WatchlistService>();
 
 
             builder.Services.AddControllersWithViews();
 
-            //така се регистрира сървис който бих използвам в MovieController-a 
-            builder.Services.AddScoped<IMovieService, MovieService>();
-
+        
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

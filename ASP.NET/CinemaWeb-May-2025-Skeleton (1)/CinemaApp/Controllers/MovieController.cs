@@ -4,13 +4,18 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CinemaApp.Services.Core;
 using CinemaApp.Services.Core.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
 using static CinemaApp.Web.ViewModels.ValidationMessages.Movie;
 namespace CinemaApp.Web.Controllers
 {
-    public class MovieController(IMovieService movieService) : Controller
+    public class MovieController(IMovieService movieService) : BaseController
     {
+
+
+
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var allMovies = await movieService.GetAllMoviesAsync();

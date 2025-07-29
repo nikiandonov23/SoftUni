@@ -84,7 +84,7 @@ public class MovieService(CinemaAppMay2025DbContext context) : IMovieService
                 Description = x.Description,
                 Duration = x.Duration,
                 ReleaseDate = x.ReleaseDate.ToString("yyyy-MM-dd"),
-                ImageUrl = x.ImageUrl
+                ImageUrl = x.ImageUrl ?? "/images/no-image.jpg"
             })
             .FirstOrDefaultAsync();
 

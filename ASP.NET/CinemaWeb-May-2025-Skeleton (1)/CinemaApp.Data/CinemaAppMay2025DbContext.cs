@@ -18,7 +18,7 @@ namespace CinemaApp.Data
 
 
         public virtual DbSet<Movie> Movies { get; set; } = null!;
-        public virtual UserMovie UserMovies { get; set; } = null!;
+        public virtual DbSet<ApplicationUserMovie> ApplicationUserMovies { get; set; }= null!;
 
     }
 }

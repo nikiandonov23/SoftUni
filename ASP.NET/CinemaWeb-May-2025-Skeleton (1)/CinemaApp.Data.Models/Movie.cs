@@ -58,5 +58,9 @@ namespace CinemaApp.Data.Models
 
 
 
+        public ICollection<ApplicationUserMovie> UserWatchLists { get; set; } =
+            new HashSet<ApplicationUserMovie>();
+
+
     }
 }

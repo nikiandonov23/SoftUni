@@ -2,15 +2,17 @@ using CinemaApp.Data;
 using CinemaApp.Web.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
+
 namespace CinemaApp.Web.Controllers
 {
 
 
 
 
-    public class HomeController(CinemaAppMay2025DbContext logger) : Controller
+    public class HomeController(CinemaAppMay2025DbContext logger) : BaseController
     {
-        
+        [AllowAnonymous]
         public IActionResult Index()
         {
             return View();
