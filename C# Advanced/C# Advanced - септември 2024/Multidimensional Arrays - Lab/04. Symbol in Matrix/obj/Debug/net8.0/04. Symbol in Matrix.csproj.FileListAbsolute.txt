@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.exe
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\refint\04. Symbol in Matrix.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\net8.0\ref\04. Symbol in Matrix.dll

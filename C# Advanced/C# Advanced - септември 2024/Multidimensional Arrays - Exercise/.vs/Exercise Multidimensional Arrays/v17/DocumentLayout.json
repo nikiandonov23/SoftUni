@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}|09.Miner\\09.Miner.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\09.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE13E01-9614-4D1B-9053-F245CCBCB5D2}|09.Miner\\09.Miner.csproj|solutionrelative:09.miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8083CE40-9321-4DE5-9456-5B130676934E}|08. Bombs\\08. Bombs.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\08. bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8083CE40-9321-4DE5-9456-5B130676934E}|08. Bombs\\08. Bombs.csproj|solutionrelative:08. bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0856DBF9-0F5C-4859-8BE0-171D4CE8704E}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0856DBF9-0F5C-4859-8BE0-171D4CE8704E}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548EDEF1-94EA-4E87-BFB9-8040C87E0918}|07. Knight Game OPIT 2\\07. Knight Game OPIT 2.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\07. knight game opit 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548EDEF1-94EA-4E87-BFB9-8040C87E0918}|07. Knight Game OPIT 2\\07. Knight Game OPIT 2.csproj|solutionrelative:07. knight game opit 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D4C61B-DF7E-4538-842C-AE2E4601FB46}|07. Knight Game  OPIT 1\\07. Knight Game  OPIT 1.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\07. knight game  opit 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D4C61B-DF7E-4538-842C-AE2E4601FB46}|07. Knight Game  OPIT 1\\07. Knight Game  OPIT 1.csproj|solutionrelative:07. knight game  opit 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3403D06-6181-41FD-98BA-DEB0DDE5ECB1}|05. Snake Moves\\05. Snake Moves.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\05. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3403D06-6181-41FD-98BA-DEB0DDE5ECB1}|05. Snake Moves\\05. Snake Moves.csproj|solutionrelative:05. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40A5FE4-387A-44A2-89AB-313DC5927A58}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\04. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40A5FE4-387A-44A2-89AB-313DC5927A58}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|solutionrelative:04. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF40275C-602F-4C9D-B5B4-9CCB4791D43B}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF40275C-602F-4C9D-B5B4-9CCB4791D43B}|03. Maximal Sum\\03. Maximal Sum.csproj|solutionrelative:03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A37F0A-5BB7-42D1-B3A5-C63AB7CEF4E4}|01. Diagonal Difference\\01. Diagonal Difference.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A37F0A-5BB7-42D1-B3A5-C63AB7CEF4E4}|01. Diagonal Difference\\01. Diagonal Difference.csproj|solutionrelative:01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2458CFFD-4614-4EB2-9B4C-CAA47DF01AC6}|02. Squares in Matrix JaggedArray\\02. Squares in Matrix JaggedArray.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\02. squares in matrix jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2458CFFD-4614-4EB2-9B4C-CAA47DF01AC6}|02. Squares in Matrix JaggedArray\\02. Squares in Matrix JaggedArray.csproj|solutionrelative:02. squares in matrix jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D7EA3-6044-4706-86D6-63214E30E432}|02. Squares in Matrix\\02. Squares in Matrix DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D7EA3-6044-4706-86D6-63214E30E432}|02. Squares in Matrix\\02. Squares in Matrix DA SE RESHI PAK.csproj|solutionrelative:02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46AD5AA-8C0D-4928-A79F-083FDAD2043F}|07. Knight Game\\07. Knight Game DA SE RESHAVA PAKK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\07. knight game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46AD5AA-8C0D-4928-A79F-083FDAD2043F}|07. Knight Game\\07. Knight Game DA SE RESHAVA PAKK.csproj|solutionrelative:07. knight game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7113A5-C813-4D1A-8E69-237B9EA54944}|6. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise multidimensional arrays\\6. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7113A5-C813-4D1A-8E69-237B9EA54944}|6. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|solutionrelative:6. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\09.Miner\\Program.cs",
+              "RelativeDocumentMoniker": "09.Miner\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\09.Miner\\Program.cs",
+              "RelativeToolTip": "09.Miner\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:01:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs",
+              "RelativeToolTip": "demo\\obj\\Debug\\net8.0\\demo.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:12:52.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\08. Bombs\\Program.cs",
+              "RelativeDocumentMoniker": "08. Bombs\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\08. Bombs\\Program.cs",
+              "RelativeToolTip": "08. Bombs\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:12:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game OPIT 2\\Program.cs",
+              "RelativeDocumentMoniker": "07. Knight Game OPIT 2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game OPIT 2\\Program.cs",
+              "RelativeToolTip": "07. Knight Game OPIT 2\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:27:49.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game  OPIT 1\\Program.cs",
+              "RelativeDocumentMoniker": "07. Knight Game  OPIT 1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game  OPIT 1\\Program.cs",
+              "RelativeToolTip": "07. Knight Game  OPIT 1\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:43:19.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game\\Program.cs",
+              "RelativeDocumentMoniker": "07. Knight Game\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\07. Knight Game\\Program.cs",
+              "RelativeToolTip": "07. Knight Game\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:07.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\6. Jagged Array Manipulator\\Program.cs",
+              "RelativeDocumentMoniker": "6. Jagged Array Manipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\6. Jagged Array Manipulator\\Program.cs",
+              "RelativeToolTip": "6. Jagged Array Manipulator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:11:02.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\05. Snake Moves\\Program.cs",
+              "RelativeDocumentMoniker": "05. Snake Moves\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\05. Snake Moves\\Program.cs",
+              "RelativeToolTip": "05. Snake Moves\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:33:07.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\04. Matrix Shuffling\\Program.cs",
+              "RelativeDocumentMoniker": "04. Matrix Shuffling\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\04. Matrix Shuffling\\Program.cs",
+              "RelativeToolTip": "04. Matrix Shuffling\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:38:07.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\02. Squares in Matrix JaggedArray\\Program.cs",
+              "RelativeDocumentMoniker": "02. Squares in Matrix JaggedArray\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\02. Squares in Matrix JaggedArray\\Program.cs",
+              "RelativeToolTip": "02. Squares in Matrix JaggedArray\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:24:16.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "03. Maximal Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
+              "RelativeToolTip": "03. Maximal Sum\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:46:07.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:59:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\02. Squares in Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "02. Squares in Matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\02. Squares in Matrix\\Program.cs",
+              "RelativeToolTip": "02. Squares in Matrix\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:55:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
+              "RelativeDocumentMoniker": "01. Diagonal Difference\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
+              "RelativeToolTip": "01. Diagonal Difference\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:28:49.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

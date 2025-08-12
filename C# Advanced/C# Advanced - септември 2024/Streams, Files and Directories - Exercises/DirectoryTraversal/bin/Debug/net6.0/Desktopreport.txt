@@ -1,0 +1,3 @@
+.txt
+--Lab Streams, Files and Directories.txt - 1.44140625
+--output.txt - 0.0390625

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.exe
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.deps.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\refint\03. Largest 3 Numbers.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\03. Largest 3 Numbers\obj\Debug\net8.0\ref\03. Largest 3 Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\bin\Debug\net8.0\0002. Destination Mapper.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\bin\Debug\net8.0\0002. Destination Mapper.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\bin\Debug\net8.0\0002. Destination Mapper.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\bin\Debug\net8.0\0002. Destination Mapper.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\bin\Debug\net8.0\0002. Destination Mapper.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\refint\0002. Destination Mapper.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\0002. Destination Mapper.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0002. Destination Mapper\obj\Debug\net8.0\ref\0002. Destination Mapper.dll

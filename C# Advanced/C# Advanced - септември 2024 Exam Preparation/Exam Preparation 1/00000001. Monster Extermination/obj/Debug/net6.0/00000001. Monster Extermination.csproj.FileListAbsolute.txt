@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\bin\Debug\net6.0\00000001. Monster Extermination.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\bin\Debug\net6.0\00000001. Monster Extermination.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\bin\Debug\net6.0\00000001. Monster Extermination.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\bin\Debug\net6.0\00000001. Monster Extermination.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\bin\Debug\net6.0\00000001. Monster Extermination.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\refint\00000001. Monster Extermination.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\00000001. Monster Extermination.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000001. Monster Extermination\obj\Debug\net6.0\ref\00000001. Monster Extermination.dll

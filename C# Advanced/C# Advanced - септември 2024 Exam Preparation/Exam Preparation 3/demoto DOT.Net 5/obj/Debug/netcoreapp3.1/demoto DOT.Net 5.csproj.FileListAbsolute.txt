@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.runtimeconfig.dev.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\bin\Debug\netcoreapp3.1\demoto DOT.Net 5.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\demoto DOT.Net 5\obj\Debug\netcoreapp3.1\demoto DOT.Net 5.genruntimeconfig.cache

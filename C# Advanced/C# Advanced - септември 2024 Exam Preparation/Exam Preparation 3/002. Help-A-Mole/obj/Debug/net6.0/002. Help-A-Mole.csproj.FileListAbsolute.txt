@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\bin\Debug\net6.0\002. Help-A-Mole.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\bin\Debug\net6.0\002. Help-A-Mole.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\bin\Debug\net6.0\002. Help-A-Mole.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\bin\Debug\net6.0\002. Help-A-Mole.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\bin\Debug\net6.0\002. Help-A-Mole.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\refint\002. Help-A-Mole.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\002. Help-A-Mole.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\002. Help-A-Mole\obj\Debug\net6.0\ref\002. Help-A-Mole.dll

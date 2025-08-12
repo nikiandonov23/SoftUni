@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\bin\Debug\net8.0\002. Mirror Words.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\bin\Debug\net8.0\002. Mirror Words.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\bin\Debug\net8.0\002. Mirror Words.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\bin\Debug\net8.0\002. Mirror Words.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\bin\Debug\net8.0\002. Mirror Words.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\refint\002. Mirror Words.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\002. Mirror Words.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\002. Mirror Words\obj\Debug\net8.0\ref\002. Mirror Words.dll

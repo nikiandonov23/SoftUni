@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\bin\Debug\net8.0\000001. Activation Keys.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\bin\Debug\net8.0\000001. Activation Keys.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\bin\Debug\net8.0\000001. Activation Keys.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\bin\Debug\net8.0\000001. Activation Keys.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\bin\Debug\net8.0\000001. Activation Keys.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\refint\000001. Activation Keys.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\000001. Activation Keys.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000001. Activation Keys\obj\Debug\net8.0\ref\000001. Activation Keys.dll

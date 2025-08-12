@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\bin\Debug\net8.0\01. Count Same Values in Array.exe
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\bin\Debug\net8.0\01. Count Same Values in Array.deps.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\bin\Debug\net8.0\01. Count Same Values in Array.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\bin\Debug\net8.0\01. Count Same Values in Array.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\bin\Debug\net8.0\01. Count Same Values in Array.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\refint\01. Count Same Values in Array.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\01. Count Same Values in Array.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\01. Count Same Values in Array\obj\Debug\net8.0\ref\01. Count Same Values in Array.dll

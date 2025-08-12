@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\bin\Debug\net6.0\00000000001. Rubber Duck Debuggers.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\bin\Debug\net6.0\00000000001. Rubber Duck Debuggers.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\bin\Debug\net6.0\00000000001. Rubber Duck Debuggers.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\bin\Debug\net6.0\00000000001. Rubber Duck Debuggers.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\bin\Debug\net6.0\00000000001. Rubber Duck Debuggers.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\refint\00000000001. Rubber Duck Debuggers.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\00000000001. Rubber Duck Debuggers.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000000001. Rubber Duck Debuggers\obj\Debug\net6.0\ref\00000000001. Rubber Duck Debuggers.dll

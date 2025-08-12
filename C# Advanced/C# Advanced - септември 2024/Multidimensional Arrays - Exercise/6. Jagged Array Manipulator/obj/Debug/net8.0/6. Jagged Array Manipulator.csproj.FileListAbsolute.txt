@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\net8.0\6. Jagged Array Manipulator.exe
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\net8.0\6. Jagged Array Manipulator.deps.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\net8.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\net8.0\6. Jagged Array Manipulator.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\net8.0\6. Jagged Array Manipulator.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\refint\6. Jagged Array Manipulator.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\net8.0\ref\6. Jagged Array Manipulator.dll

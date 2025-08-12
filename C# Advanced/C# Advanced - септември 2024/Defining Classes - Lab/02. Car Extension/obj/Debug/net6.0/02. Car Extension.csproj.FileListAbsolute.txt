@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.exe
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.deps.json
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.dll
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.pdb
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.dll
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\refint\02. Car Extension.dll
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.pdb
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\ref\02. Car Extension.dll

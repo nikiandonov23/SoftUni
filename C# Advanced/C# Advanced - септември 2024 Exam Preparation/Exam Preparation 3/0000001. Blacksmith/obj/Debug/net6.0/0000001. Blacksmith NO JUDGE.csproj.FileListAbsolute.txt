@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith NO JUDGE.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith NO JUDGE.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith NO JUDGE.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith NO JUDGE.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith NO JUDGE.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\refint\0000001. Blacksmith NO JUDGE.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith NO JUDGE.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\ref\0000001. Blacksmith NO JUDGE.dll

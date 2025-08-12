@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "00002. Fancy Barcodes/1.0.0": {
+        "runtime": {
+          "00002. Fancy Barcodes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "00002. Fancy Barcodes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

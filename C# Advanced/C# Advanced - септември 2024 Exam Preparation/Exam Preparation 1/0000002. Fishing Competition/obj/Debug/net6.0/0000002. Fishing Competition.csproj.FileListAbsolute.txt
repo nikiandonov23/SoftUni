@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\bin\Debug\net6.0\0000002. Fishing Competition.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\bin\Debug\net6.0\0000002. Fishing Competition.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\bin\Debug\net6.0\0000002. Fishing Competition.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\bin\Debug\net6.0\0000002. Fishing Competition.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\bin\Debug\net6.0\0000002. Fishing Competition.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\refint\0000002. Fishing Competition.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\0000002. Fishing Competition.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000002. Fishing Competition\obj\Debug\net6.0\ref\0000002. Fishing Competition.dll

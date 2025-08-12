@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.exe
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\refint\03. Primary Diagonal.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\03. Primary Diagonal\obj\Debug\net8.0\ref\03. Primary Diagonal.dll

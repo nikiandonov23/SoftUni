@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\bin\Debug\net6.0\00000002. Delivery Boy.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\bin\Debug\net6.0\00000002. Delivery Boy.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\bin\Debug\net6.0\00000002. Delivery Boy.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\bin\Debug\net6.0\00000002. Delivery Boy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\bin\Debug\net6.0\00000002. Delivery Boy.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\refint\00000002. Delivery Boy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\00000002. Delivery Boy.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00000002. Delivery Boy\obj\Debug\net6.0\ref\00000002. Delivery Boy.dll

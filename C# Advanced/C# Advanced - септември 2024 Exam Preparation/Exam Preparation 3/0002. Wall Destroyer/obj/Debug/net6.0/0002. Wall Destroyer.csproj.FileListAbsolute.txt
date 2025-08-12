@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\bin\Debug\net6.0\0002. Wall Destroyer.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\bin\Debug\net6.0\0002. Wall Destroyer.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\bin\Debug\net6.0\0002. Wall Destroyer.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\bin\Debug\net6.0\0002. Wall Destroyer.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\bin\Debug\net6.0\0002. Wall Destroyer.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\refint\0002. Wall Destroyer.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\0002. Wall Destroyer.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0002. Wall Destroyer\obj\Debug\net6.0\ref\0002. Wall Destroyer.dll

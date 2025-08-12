@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\bin\Debug\net6.0\0000000002. Mouse In The Kitchen.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\bin\Debug\net6.0\0000000002. Mouse In The Kitchen.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\bin\Debug\net6.0\0000000002. Mouse In The Kitchen.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\bin\Debug\net6.0\0000000002. Mouse In The Kitchen.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\bin\Debug\net6.0\0000000002. Mouse In The Kitchen.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\refint\0000000002. Mouse In The Kitchen.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\0000000002. Mouse In The Kitchen.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000002. Mouse In The Kitchen\obj\Debug\net6.0\ref\0000000002. Mouse In The Kitchen.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "00001. Meal Plan/1.0.0": {
+        "runtime": {
+          "00001. Meal Plan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "00001. Meal Plan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

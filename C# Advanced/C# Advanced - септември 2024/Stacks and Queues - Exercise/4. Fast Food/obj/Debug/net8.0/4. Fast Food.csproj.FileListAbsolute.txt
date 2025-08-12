@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\bin\Debug\net8.0\4. Fast Food.exe
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\bin\Debug\net8.0\4. Fast Food.deps.json
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\bin\Debug\net8.0\4. Fast Food.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\bin\Debug\net8.0\4. Fast Food.dll
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\bin\Debug\net8.0\4. Fast Food.pdb
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.dll
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\refint\4. Fast Food.dll
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.pdb
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\4. Fast Food.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\4. Fast Food\obj\Debug\net8.0\ref\4. Fast Food.dll

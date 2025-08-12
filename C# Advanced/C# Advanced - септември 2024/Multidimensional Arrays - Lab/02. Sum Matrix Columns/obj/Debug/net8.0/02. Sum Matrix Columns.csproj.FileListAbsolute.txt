@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.exe
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\refint\02. Sum Matrix Columns.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\net8.0\ref\02. Sum Matrix Columns.dll

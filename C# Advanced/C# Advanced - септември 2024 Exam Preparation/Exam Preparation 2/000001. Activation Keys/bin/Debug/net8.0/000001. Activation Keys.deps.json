@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "000001. Activation Keys/1.0.0": {
+        "runtime": {
+          "000001. Activation Keys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "000001. Activation Keys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

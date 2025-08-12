@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\bin\Debug\net6.0\0000001. Blacksmith.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\refint\0000001. Blacksmith.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\0000001. Blacksmith.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\0000001. Blacksmith\obj\Debug\net6.0\ref\0000001. Blacksmith.dll

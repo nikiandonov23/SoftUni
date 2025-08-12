@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\bin\Debug\net6.0\02. Navy Battle.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\refint\02. Navy Battle.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\02. Navy Battle.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\02. Navy Battle\obj\Debug\net6.0\ref\02. Navy Battle.dll

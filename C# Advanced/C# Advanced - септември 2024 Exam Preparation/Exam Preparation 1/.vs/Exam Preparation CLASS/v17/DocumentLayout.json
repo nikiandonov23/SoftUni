@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}|0002. Escape the Maze\\0002. Escape the Maze DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0002. escape the maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F02077A-895D-41FC-B3AA-6FFA11EA72FC}|0002. Escape the Maze\\0002. Escape the Maze DA SE RESHI PAK.csproj|solutionrelative:0002. escape the maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8898ED-3782-4DFB-AB0D-99CBD3EF23B9}|00001. Chicken Snack\\00001. Chicken Snack DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00001. chicken snack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8898ED-3782-4DFB-AB0D-99CBD3EF23B9}|00001. Chicken Snack\\00001. Chicken Snack DA SE RESHI PAK.csproj|solutionrelative:00001. chicken snack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47134647-5C93-4529-B0CA-7B97DAF06305}|..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\groceriesmanagement\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\03. estate agency\\estateegency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|solutionrelative:03. estate agency\\estateegency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\03. estate agency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|solutionrelative:03. estate agency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\03. estate agency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18A0D18-46ED-44D2-B552-BBF63C7749AE}|03. Estate Agency\\EstateAgency.csproj|solutionrelative:03. estate agency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}|..\\..\\..\\Desktop\\DataCenter\\DataCenter\\DataCenter.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\datacenter\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}|..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\SoftUniKindergarten.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\softunikindergarten_skeleton_6.0\\kindergarten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}|..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\SoftUniKindergarten.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\softunikindergarten_skeleton_6.0\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805DCFE3-D398-424C-9CE2-1B1DA91CA8E5}|..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\SoftUniKindergarten.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\softunikindergarten_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47134647-5C93-4529-B0CA-7B97DAF06305}|..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\groceriesmanagement\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}|00000000000002. Blind Man\u0027s Buff\\00000000000002. Blind Man\u0027s Buff.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00000000000002. blind man\u0027s buff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01CCC55-0BC5-4537-9CF9-95E8692B4E66}|00000000000002. Blind Man\u0027s Buff\\00000000000002. Blind Man\u0027s Buff.csproj|solutionrelative:00000000000002. blind man\u0027s buff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}|000000000002. The Squirrel\\000000000002. The Squirrel.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\000000000002. the squirrel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D067588-F33B-4C35-91E5-9FFFDAAC07D8}|000000000002. The Squirrel\\000000000002. The Squirrel.csproj|solutionrelative:000000000002. the squirrel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C9F72-F803-40EA-BFA6-25F9E51DA983}|..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\ClothesMagazine.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\clothesmagazine-skeleton-6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C9F72-F803-40EA-BFA6-25F9E51DA983}|..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\ClothesMagazine.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\clothesmagazine-skeleton-6.0\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5335DE6C-0D15-4E72-A536-D636BE53E49D}|..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\CocktailBar.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\coctail bar\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024C9F72-F803-40EA-BFA6-25F9E51DA983}|..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\ClothesMagazine.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\clothesmagazine-skeleton-6.0\\cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCCFE6-36E3-4F0B-AAF1-C03497BC4BB4}|00000000001. Rubber Duck Debuggers\\00000000001. Rubber Duck Debuggers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00000000001. rubber duck debuggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCCFE6-36E3-4F0B-AAF1-C03497BC4BB4}|00000000001. Rubber Duck Debuggers\\00000000001. Rubber Duck Debuggers.csproj|solutionrelative:00000000001. rubber duck debuggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108D1715-12C5-46DF-95ED-8761ADC692BF}|0001. Pie Pursuit\\0001. Pie Pursuit.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0001. pie pursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108D1715-12C5-46DF-95ED-8761ADC692BF}|0001. Pie Pursuit\\0001. Pie Pursuit.csproj|solutionrelative:0001. pie pursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165930C1-ABC7-4746-9796-320F3D812BBE}|001. Wild Survival\\001. Wild Survival.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\001. wild survival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165930C1-ABC7-4746-9796-320F3D812BBE}|001. Wild Survival\\001. Wild Survival.csproj|solutionrelative:001. wild survival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DE926D-F026-45B9-9A20-185883ACCE78}|002. Collecting Stars\\002. Collecting Stars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\002. collecting stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DE926D-F026-45B9-9A20-185883ACCE78}|002. Collecting Stars\\002. Collecting Stars.csproj|solutionrelative:002. collecting stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD8813-C488-431C-B470-AA00C0BE5AD8}|01. Rapid Courier\\01. Rapid Courier.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\01. rapid courier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD8813-C488-431C-B470-AA00C0BE5AD8}|01. Rapid Courier\\01. Rapid Courier.csproj|solutionrelative:01. rapid courier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C42DA1-F657-4D08-99DC-A1B2BA64A899}|02. Beesy\\02. Beesy.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\02. beesy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C42DA1-F657-4D08-99DC-A1B2BA64A899}|02. Beesy\\02. Beesy.csproj|solutionrelative:02. beesy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA4A513-32B2-4128-892E-D00559CAB9DA}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA4A513-32B2-4128-892E-D00559CAB9DA}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD6C71D-4A7E-430D-935E-7A235AF94103}|0000000002. Mouse In The Kitchen\\0000000002. Mouse In The Kitchen.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0000000002. mouse in the kitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD6C71D-4A7E-430D-935E-7A235AF94103}|0000000002. Mouse In The Kitchen\\0000000002. Mouse In The Kitchen.csproj|solutionrelative:0000000002. mouse in the kitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6525A3-E367-474C-80CB-94B15CCFEC84}|00000001. Monster Extermination\\00000001. Monster Extermination DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00000001. monster extermination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6525A3-E367-474C-80CB-94B15CCFEC84}|00000001. Monster Extermination\\00000001. Monster Extermination DA SE RESHI PAK.csproj|solutionrelative:00000001. monster extermination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4264CF-DF0B-483C-ABE3-9FA82A2375B3}|..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\automotiverepairshop\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4264CF-DF0B-483C-ABE3-9FA82A2375B3}|..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\automotiverepairshop\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4264CF-DF0B-483C-ABE3-9FA82A2375B3}|..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\automotiverepairshop\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}|000000001. Temple of Doom\\000000001. Temple of Doom.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\000000001. temple of doom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FF12DF-ADE4-40B7-A099-EE1ACA4D8E46}|000000001. Temple of Doom\\000000001. Temple of Doom.csproj|solutionrelative:000000001. temple of doom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0782369-9181-429E-81D8-36BED966B5A6}|..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingSystem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\vendingsystem_skeleton_netcoreapp6.0\\vendingsystem\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0782369-9181-429E-81D8-36BED966B5A6}|..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingSystem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\vendingsystem_skeleton_netcoreapp6.0\\vendingsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0782369-9181-429E-81D8-36BED966B5A6}|..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingSystem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\vendingsystem_skeleton_netcoreapp6.0\\vendingsystem\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BC9A5-29DA-487A-95F1-DB0E232073F6}|..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\sharktaxonomy-skeleton\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1FE01F-8D45-464E-B404-384CEA0EA243}|00000002. Delivery Boy\\00000002. Delivery Boy.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00000002. delivery boy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1FE01F-8D45-464E-B404-384CEA0EA243}|00000002. Delivery Boy\\00000002. Delivery Boy.csproj|solutionrelative:00000002. delivery boy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34C1766-C649-493F-86BC-1B6CA09AB27A}|0000001. Offroad Challenge\\0000001. Offroad Challenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0000001. offroad challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34C1766-C649-493F-86BC-1B6CA09AB27A}|0000001. Offroad Challenge\\0000001. Offroad Challenge.csproj|solutionrelative:0000001. offroad challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}|..\\..\\..\\Desktop\\MailClient\\MailClient\\MailClient.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\mailclient\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}|..\\..\\..\\Desktop\\MailClient\\MailClient\\MailClient.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\mailclient\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52151AC-658D-4CBD-8E4C-F2CA44A6FFEA}|..\\..\\..\\Desktop\\MailClient\\MailClient\\MailClient.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\mailclient\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635CC15-7CEB-4EC6-9D91-2DAE5FBA76FF}|0000002. Fishing Competition\\0000002. Fishing Competition.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0000002. fishing competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635CC15-7CEB-4EC6-9D91-2DAE5FBA76FF}|0000002. Fishing Competition\\0000002. Fishing Competition.csproj|solutionrelative:0000002. fishing competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47134647-5C93-4529-B0CA-7B97DAF06305}|..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesManagement.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\groceriesmanagement\\groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}|..\\..\\..\\Desktop\\DataCenter\\DataCenter\\DataCenter.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\datacenter\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73F941B-D61F-4682-9794-566C70F791B6}|000002. The Gambler\\000002. The Gambler.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\000002. the gambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73F941B-D61F-4682-9794-566C70F791B6}|000002. The Gambler\\000002. The Gambler.csproj|solutionrelative:000002. the gambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD771271-19F2-4F8E-ACC5-E3D0BC961160}|000001. Worms And Holes\\000001. Worms And Holes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\000001. worms and holes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD771271-19F2-4F8E-ACC5-E3D0BC961160}|000001. Worms And Holes\\000001. Worms And Holes.csproj|solutionrelative:000001. worms and holes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BC9A5-29DA-487A-95F1-DB0E232073F6}|..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\sharktaxonomy-skeleton\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BC9A5-29DA-487A-95F1-DB0E232073F6}|..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\SharkTaxonomy.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\sharktaxonomy-skeleton\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5335DE6C-0D15-4E72-A536-D636BE53E49D}|..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\CocktailBar.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\coctail bar\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5335DE6C-0D15-4E72-A536-D636BE53E49D}|..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\CocktailBar.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\coctail bar\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}|00002. Clear Skies\\00002. Clear Skies.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\00002. clear skies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75D5963-7544-4ED6-9517-9F8C00E3E3C4}|00002. Clear Skies\\00002. Clear Skies.csproj|solutionrelative:00002. clear skies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF8F870-C101-4DEB-BFAB-FA2603769D8A}|..\\..\\..\\Desktop\\DataCenter\\DataCenter\\DataCenter.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\datacenter\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D8E16B-4954-4314-A927-B3F650D8CD13}|0000000000001. Apocalypse Preparation\\0000000000001. Apocalypse Preparation DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exam preparation class\\0000000000001. apocalypse preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D8E16B-4954-4314-A927-B3F650D8CD13}|0000000000001. Apocalypse Preparation\\0000000000001. Apocalypse Preparation DA SE RESHI PAK.csproj|solutionrelative:0000000000001. apocalypse preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kindergarten.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Kindergarten.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Kindergarten.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Kindergarten.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Kindergarten.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:45:01.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwDAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:36:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000002. Delivery Boy\\Program.cs",
+              "RelativeDocumentMoniker": "00000002. Delivery Boy\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000002. Delivery Boy\\Program.cs",
+              "RelativeToolTip": "00000002. Delivery Boy\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAcwFoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:53:47.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000001. Monster Extermination\\Program.cs",
+              "RelativeDocumentMoniker": "00000001. Monster Extermination\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000001. Monster Extermination\\Program.cs",
+              "RelativeToolTip": "00000001. Monster Extermination\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:18:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\Mail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MailClient\\MailClient\\Mail.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\Mail.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MailClient\\MailClient\\Mail.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:54.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\StartUp.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:32:19.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:39:28.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstateEgency.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\EstateEgency.cs",
+              "RelativeDocumentMoniker": "03. Estate Agency\\EstateEgency.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\EstateEgency.cs",
+              "RelativeToolTip": "03. Estate Agency\\EstateEgency.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:56:25.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\Server.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\Server.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\Server.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:12:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealEstate.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\RealEstate.cs",
+              "RelativeDocumentMoniker": "03. Estate Agency\\RealEstate.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\RealEstate.cs",
+              "RelativeToolTip": "03. Estate Agency\\RealEstate.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:15:55.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Estate Agency\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\03. Estate Agency\\StartUp.cs",
+              "RelativeToolTip": "03. Estate Agency\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:12:30.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\Product.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:23:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00001. Chicken Snack\\Program.cs",
+              "RelativeDocumentMoniker": "00001. Chicken Snack\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00001. Chicken Snack\\Program.cs",
+              "RelativeToolTip": "00001. Chicken Snack\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:58:49.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0002. Escape the Maze\\Program.cs",
+              "RelativeDocumentMoniker": "0002. Escape the Maze\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0002. Escape the Maze\\Program.cs",
+              "RelativeToolTip": "0002. Escape the Maze\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAG0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:45:14.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\Drink.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\Drink.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\Drink.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\Drink.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:09:30.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000000002. Mouse In The Kitchen\\Program.cs",
+              "RelativeDocumentMoniker": "0000000002. Mouse In The Kitchen\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000000002. Mouse In The Kitchen\\Program.cs",
+              "RelativeToolTip": "0000000002. Mouse In The Kitchen\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAcwGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:18:54.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000000000002. The Squirrel\\Program.cs",
+              "RelativeDocumentMoniker": "000000000002. The Squirrel\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000000000002. The Squirrel\\Program.cs",
+              "RelativeToolTip": "000000000002. The Squirrel\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAmwGcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:56:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cloth.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\Cloth.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\Cloth.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\Cloth.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\Cloth.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:16:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\Magazine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\Magazine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\Magazine.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\Magazine.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:19:39.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\ClothesMagazine-Skeleton-6.0\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\ClothesMagazine-Skeleton-6.0\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:33:51.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000000000001. Apocalypse Preparation\\Program.cs",
+              "RelativeDocumentMoniker": "0000000000001. Apocalypse Preparation\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000000000001. Apocalypse Preparation\\Program.cs",
+              "RelativeToolTip": "0000000000001. Apocalypse Preparation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:22:42.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000000000002. Blind Man\u0027s Buff\\Program.cs",
+              "RelativeDocumentMoniker": "00000000000002. Blind Man\u0027s Buff\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000000000002. Blind Man\u0027s Buff\\Program.cs",
+              "RelativeToolTip": "00000000000002. Blind Man\u0027s Buff\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:39:49.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000002. Fishing Competition\\Program.cs",
+              "RelativeDocumentMoniker": "0000002. Fishing Competition\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000002. Fishing Competition\\Program.cs",
+              "RelativeToolTip": "0000002. Fishing Competition\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAmwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:21:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\02. Beesy\\Program.cs",
+              "RelativeDocumentMoniker": "02. Beesy\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\02. Beesy\\Program.cs",
+              "RelativeToolTip": "02. Beesy\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:25:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwDQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:19:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\01. Rapid Courier\\Program.cs",
+              "RelativeDocumentMoniker": "01. Rapid Courier\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\01. Rapid Courier\\Program.cs",
+              "RelativeToolTip": "01. Rapid Courier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:33:31.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:02:23.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000000001. Rubber Duck Debuggers\\Program.cs",
+              "RelativeDocumentMoniker": "00000000001. Rubber Duck Debuggers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00000000001. Rubber Duck Debuggers\\Program.cs",
+              "RelativeToolTip": "00000000001. Rubber Duck Debuggers\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:13:58.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\002. Collecting Stars\\Program.cs",
+              "RelativeDocumentMoniker": "002. Collecting Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\002. Collecting Stars\\Program.cs",
+              "RelativeToolTip": "002. Collecting Stars\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:20:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\001. Wild Survival\\Program.cs",
+              "RelativeDocumentMoniker": "001. Wild Survival\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\001. Wild Survival\\Program.cs",
+              "RelativeToolTip": "001. Wild Survival\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:01:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0001. Pie Pursuit\\Program.cs",
+              "RelativeDocumentMoniker": "0001. Pie Pursuit\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0001. Pie Pursuit\\Program.cs",
+              "RelativeToolTip": "0001. Pie Pursuit\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:02:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingMachine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingMachine.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\VendingMachine.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:12:24.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VendingSystem_Skeleton_netcoreapp6.0\\VendingSystem\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwDoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:16:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000000001. Temple of Doom\\Program.cs",
+              "RelativeDocumentMoniker": "000000001. Temple of Doom\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000000001. Temple of Doom\\Program.cs",
+              "RelativeToolTip": "000000001. Temple of Doom\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:46:50.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\Vehicle.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:28:43.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RepairShop.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\RepairShop.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\RepairShop.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:32:38.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\AutomotiveRepairShop\\AutomotiveRepairShop\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:41:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000001. Offroad Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "0000001. Offroad Challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\0000001. Offroad Challenge\\Program.cs",
+              "RelativeToolTip": "0000001. Offroad Challenge\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:24:02.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GroceriesStore.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwFsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:25:34.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:23:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Classifier.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Classifier.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Classifier.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Classifier.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Classifier.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwF4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:19:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Shark.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Shark.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Shark.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\SharkTaxonomy-Skeleton\\SharkTaxonomy\\Shark.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:11:00.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00002. Clear Skies\\Program.cs",
+              "RelativeDocumentMoniker": "00002. Clear Skies\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\00002. Clear Skies\\Program.cs",
+              "RelativeToolTip": "00002. Clear Skies\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAmwGoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:13:14.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MailBox.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\MailBox.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MailClient\\MailClient\\MailBox.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\MailBox.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MailClient\\MailClient\\MailBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:41:08.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MailClient\\MailClient\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\MailClient\\MailClient\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MailClient\\MailClient\\StartUp.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:45:49.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwEcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:51:56.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000001. Worms And Holes\\Program.cs",
+              "RelativeDocumentMoniker": "000001. Worms And Holes\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000001. Worms And Holes\\Program.cs",
+              "RelativeToolTip": "000001. Worms And Holes\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:55:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000002. The Gambler\\Program.cs",
+              "RelativeDocumentMoniker": "000002. The Gambler\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exam Preparation CLASS\\000002. The Gambler\\Program.cs",
+              "RelativeToolTip": "000002. The Gambler\\Program.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAcwJEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:44:03.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Rack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\Rack.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\Rack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\DataCenter\\DataCenter\\Rack.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\DataCenter\\DataCenter\\Rack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:17:32.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\Menu.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\Menu.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\Menu.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:09:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Cocktail.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\Cocktail.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\Cocktail.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\Coctail Bar\\CocktailBar\\Cocktail.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Coctail Bar\\CocktailBar\\Cocktail.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:57:48.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

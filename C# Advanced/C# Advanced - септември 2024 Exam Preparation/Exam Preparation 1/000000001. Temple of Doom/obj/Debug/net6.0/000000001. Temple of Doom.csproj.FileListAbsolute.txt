@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\bin\Debug\net6.0\000000001. Temple of Doom.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\bin\Debug\net6.0\000000001. Temple of Doom.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\bin\Debug\net6.0\000000001. Temple of Doom.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\bin\Debug\net6.0\000000001. Temple of Doom.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\bin\Debug\net6.0\000000001. Temple of Doom.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\refint\000000001. Temple of Doom.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\000000001. Temple of Doom.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000001. Temple of Doom\obj\Debug\net6.0\ref\000000001. Temple of Doom.dll

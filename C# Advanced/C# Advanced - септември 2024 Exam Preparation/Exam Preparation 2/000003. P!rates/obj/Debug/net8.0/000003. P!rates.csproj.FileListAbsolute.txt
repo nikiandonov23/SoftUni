@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\bin\Debug\net8.0\000003. P!rates.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\bin\Debug\net8.0\000003. P!rates.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\bin\Debug\net8.0\000003. P!rates.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\bin\Debug\net8.0\000003. P!rates.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\bin\Debug\net8.0\000003. P!rates.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\refint\000003. P!rates.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\000003. P!rates.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\000003. P!rates\obj\Debug\net8.0\ref\000003. P!rates.dll

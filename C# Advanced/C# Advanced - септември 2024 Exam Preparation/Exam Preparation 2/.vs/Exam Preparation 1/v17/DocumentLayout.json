@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Exam Preparation 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD05EAF-1B09-4248-9016-514C7C124518}|003. Need for Speed III\\003. Need for Speed III.csproj|d:\\repos\\exam preparation 1\\003. need for speed iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD05EAF-1B09-4248-9016-514C7C124518}|003. Need for Speed III\\003. Need for Speed III.csproj|solutionrelative:003. need for speed iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D3F5E4-9532-45E9-9E4B-BDCCC6C32804}|demoo\\demoo.csproj|d:\\repos\\exam preparation 1\\demoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D3F5E4-9532-45E9-9E4B-BDCCC6C32804}|demoo\\demoo.csproj|solutionrelative:demoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542FCA10-8660-4E46-B0ED-66F5B9BB0C6C}|3. Plant Discovery\\3. Plant Discovery.csproj|d:\\repos\\exam preparation 1\\3. plant discovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542FCA10-8660-4E46-B0ED-66F5B9BB0C6C}|3. Plant Discovery\\3. Plant Discovery.csproj|solutionrelative:3. plant discovery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C177F43-5113-45F8-89A2-C7FFCBF2A3EA}|demo\\demo.csproj|d:\\repos\\exam preparation 1\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C177F43-5113-45F8-89A2-C7FFCBF2A3EA}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\AppData\\Local\\SourceServer\\a7eb1fa05e3430d53f229b6aed5069396a237d8b863d7b7631b8fe938e184213\\Exam Preparation 1\\demo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568FA1FA-3793-45C7-9D2E-C150907EB5ED}|000003. P!rates\\000003. P!rates.csproj|d:\\repos\\exam preparation 1\\000003. p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568FA1FA-3793-45C7-9D2E-C150907EB5ED}|000003. P!rates\\000003. P!rates.csproj|solutionrelative:000003. p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BA6E0-4557-4985-A5EA-9817694FCE87}|000002. Emoji Detector\\000002. Emoji Detector.csproj|d:\\repos\\exam preparation 1\\000002. emoji detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BA6E0-4557-4985-A5EA-9817694FCE87}|000002. Emoji Detector\\000002. Emoji Detector.csproj|solutionrelative:000002. emoji detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9257FC79-EAB6-43E1-80CE-CD2477B4498D}|000001. Activation Keys\\000001. Activation Keys.csproj|d:\\repos\\exam preparation 1\\000001. activation keys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9257FC79-EAB6-43E1-80CE-CD2477B4498D}|000001. Activation Keys\\000001. Activation Keys.csproj|solutionrelative:000001. activation keys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E1E6-75AD-4BE5-AD04-913388DF989A}|00003. Heroes of Code and Logic VII\\00003. Heroes of Code and Logic VII.csproj|d:\\repos\\exam preparation 1\\00003. heroes of code and logic vii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E1E6-75AD-4BE5-AD04-913388DF989A}|00003. Heroes of Code and Logic VII\\00003. Heroes of Code and Logic VII.csproj|solutionrelative:00003. heroes of code and logic vii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40EA1C6-EB17-42A9-B5B4-DCE90A3CC62B}|00002. Fancy Barcodes\\00002. Fancy Barcodes.csproj|d:\\repos\\exam preparation 1\\00002. fancy barcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40EA1C6-EB17-42A9-B5B4-DCE90A3CC62B}|00002. Fancy Barcodes\\00002. Fancy Barcodes.csproj|solutionrelative:00002. fancy barcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC168E-6068-45FD-B257-F92357841D81}|00001. Password Reset\\00001. Password Reset.csproj|d:\\repos\\exam preparation 1\\00001. password reset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DC168E-6068-45FD-B257-F92357841D81}|00001. Password Reset\\00001. Password Reset.csproj|solutionrelative:00001. password reset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24E6F61-49CE-4651-A762-8C54AB4152AA}|0003. Bakery Shop\\0003. Bakery Shop.csproj|d:\\repos\\exam preparation 1\\0003. bakery shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24E6F61-49CE-4651-A762-8C54AB4152AA}|0003. Bakery Shop\\0003. Bakery Shop.csproj|solutionrelative:0003. bakery shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB0C50D-5880-481F-9858-4D654C9C6771}|0002. Destination Mapper\\0002. Destination Mapper.csproj|d:\\repos\\exam preparation 1\\0002. destination mapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB0C50D-5880-481F-9858-4D654C9C6771}|0002. Destination Mapper\\0002. Destination Mapper.csproj|solutionrelative:0002. destination mapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F71E6C2-547C-4FD4-9FB8-2B622A971115}|0001. Registration\\0001. Registration.csproj|d:\\repos\\exam preparation 1\\0001. registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F71E6C2-547C-4FD4-9FB8-2B622A971115}|0001. Registration\\0001. Registration.csproj|solutionrelative:0001. registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7295229-17E2-4662-9B6D-DCCBC6F61C44}|002. Mirror Words\\002. Mirror Words.csproj|d:\\repos\\exam preparation 1\\002. mirror words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7295229-17E2-4662-9B6D-DCCBC6F61C44}|002. Mirror Words\\002. Mirror Words.csproj|solutionrelative:002. mirror words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621E127F-B5E5-4374-8BCA-50A308301EBF}|001. Secret Chat\\001. Secret Chat.csproj|d:\\repos\\exam preparation 1\\001. secret chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621E127F-B5E5-4374-8BCA-50A308301EBF}|001. Secret Chat\\001. Secret Chat.csproj|solutionrelative:001. secret chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1367D101-8DD0-4FAD-8035-E1C74BAB28A3}|1. World Tour\\1. World Tour.csproj|d:\\repos\\exam preparation 1\\1. world tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367D101-8DD0-4FAD-8035-E1C74BAB28A3}|1. World Tour\\1. World Tour.csproj|solutionrelative:1. world tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7710C46-8CB3-42E3-8079-43FEE74AE735}|2. Destination Mapper\\2. Destination Mapper.csproj|d:\\repos\\exam preparation 1\\2. destination mapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7710C46-8CB3-42E3-8079-43FEE74AE735}|2. Destination Mapper\\2. Destination Mapper.csproj|solutionrelative:2. destination mapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FD6FF6-CBD4-4094-815D-50807BC06A35}|03. The Pianist\\03. The Pianist.csproj|d:\\repos\\exam preparation 1\\03. the pianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FD6FF6-CBD4-4094-815D-50807BC06A35}|03. The Pianist\\03. The Pianist.csproj|solutionrelative:03. the pianist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9715451B-9750-4A73-BD56-785E851D8925}|02. Ad Astra\\02. Ad Astra.csproj|d:\\repos\\exam preparation 1\\02. ad astra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9715451B-9750-4A73-BD56-785E851D8925}|02. Ad Astra\\02. Ad Astra.csproj|solutionrelative:02. ad astra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C490D37-C74E-4C1D-B754-C6E5DA9CD559}|01. The Imitation Game\\01. The Imitation Game.csproj|d:\\repos\\exam preparation 1\\01. the imitation game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C490D37-C74E-4C1D-B754-C6E5DA9CD559}|01. The Imitation Game\\01. The Imitation Game.csproj|solutionrelative:01. the imitation game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7634E6B-EF34-491C-A20B-2ECEA9B92805}|demo3\\REAL EXAM 03.csproj|d:\\repos\\exam preparation 1\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7634E6B-EF34-491C-A20B-2ECEA9B92805}|demo3\\REAL EXAM 03.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C09C5-F892-4FED-A0FB-9F2EBE638604}|demo2\\REAL EXAM 02.csproj|d:\\repos\\exam preparation 1\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00C09C5-F892-4FED-A0FB-9F2EBE638604}|demo2\\REAL EXAM 02.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A69FA0-290B-47BA-B8CA-0DCC56D45555}|demo1\\REAL EXAM 01.csproj|d:\\repos\\exam preparation 1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A69FA0-290B-47BA-B8CA-0DCC56D45555}|demo1\\REAL EXAM 01.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\demoo\\Program.cs",
+              "RelativeDocumentMoniker": "demoo\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\demoo\\Program.cs",
+              "RelativeToolTip": "demoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:20:40.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\demo3\\Program.cs",
+              "RelativeDocumentMoniker": "demo3\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\demo3\\Program.cs",
+              "RelativeToolTip": "demo3\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:00:27.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\demo2\\Program.cs",
+              "RelativeDocumentMoniker": "demo2\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\demo2\\Program.cs",
+              "RelativeToolTip": "demo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:59:55.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\AppData\\Local\\SourceServer\\a7eb1fa05e3430d53f229b6aed5069396a237d8b863d7b7631b8fe938e184213\\Exam Preparation 1\\demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\AppData\\Local\\SourceServer\\a7eb1fa05e3430d53f229b6aed5069396a237d8b863d7b7631b8fe938e184213\\Exam Preparation 1\\demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:13:21.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\000003. P!rates\\Program.cs",
+              "RelativeDocumentMoniker": "000003. P!rates\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\000003. P!rates\\Program.cs",
+              "RelativeToolTip": "000003. P!rates\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:46:42.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\000002. Emoji Detector\\Program.cs",
+              "RelativeDocumentMoniker": "000002. Emoji Detector\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\000002. Emoji Detector\\Program.cs",
+              "RelativeToolTip": "000002. Emoji Detector\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:49:43.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\000001. Activation Keys\\Program.cs",
+              "RelativeDocumentMoniker": "000001. Activation Keys\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\000001. Activation Keys\\Program.cs",
+              "RelativeToolTip": "000001. Activation Keys\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:29:13.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:53:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\00003. Heroes of Code and Logic VII\\Program.cs",
+              "RelativeDocumentMoniker": "00003. Heroes of Code and Logic VII\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\00003. Heroes of Code and Logic VII\\Program.cs",
+              "RelativeToolTip": "00003. Heroes of Code and Logic VII\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwIgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:48:16.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\00002. Fancy Barcodes\\Program.cs",
+              "RelativeDocumentMoniker": "00002. Fancy Barcodes\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\00002. Fancy Barcodes\\Program.cs",
+              "RelativeToolTip": "00002. Fancy Barcodes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:21:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\00001. Password Reset\\Program.cs",
+              "RelativeDocumentMoniker": "00001. Password Reset\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\00001. Password Reset\\Program.cs",
+              "RelativeToolTip": "00001. Password Reset\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:00:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\0003. Bakery Shop\\Program.cs",
+              "RelativeDocumentMoniker": "0003. Bakery Shop\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\0003. Bakery Shop\\Program.cs",
+              "RelativeToolTip": "0003. Bakery Shop\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:42:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\3. Plant Discovery\\Program.cs",
+              "RelativeDocumentMoniker": "3. Plant Discovery\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\3. Plant Discovery\\Program.cs",
+              "RelativeToolTip": "3. Plant Discovery\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:29:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\demo1\\Program.cs",
+              "RelativeDocumentMoniker": "demo1\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\demo1\\Program.cs",
+              "RelativeToolTip": "demo1\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:58:47.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\0002. Destination Mapper\\Program.cs",
+              "RelativeDocumentMoniker": "0002. Destination Mapper\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\0002. Destination Mapper\\Program.cs",
+              "RelativeToolTip": "0002. Destination Mapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:55:13.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\0001. Registration\\Program.cs",
+              "RelativeDocumentMoniker": "0001. Registration\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\0001. Registration\\Program.cs",
+              "RelativeToolTip": "0001. Registration\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:50:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\003. Need for Speed III\\Program.cs",
+              "RelativeDocumentMoniker": "003. Need for Speed III\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\003. Need for Speed III\\Program.cs",
+              "RelativeToolTip": "003. Need for Speed III\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:45:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\002. Mirror Words\\Program.cs",
+              "RelativeDocumentMoniker": "002. Mirror Words\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\002. Mirror Words\\Program.cs",
+              "RelativeToolTip": "002. Mirror Words\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:31:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\001. Secret Chat\\Program.cs",
+              "RelativeDocumentMoniker": "001. Secret Chat\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\001. Secret Chat\\Program.cs",
+              "RelativeToolTip": "001. Secret Chat\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:31:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\1. World Tour\\Program.cs",
+              "RelativeDocumentMoniker": "1. World Tour\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\1. World Tour\\Program.cs",
+              "RelativeToolTip": "1. World Tour\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:28:17.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\2. Destination Mapper\\Program.cs",
+              "RelativeDocumentMoniker": "2. Destination Mapper\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\2. Destination Mapper\\Program.cs",
+              "RelativeToolTip": "2. Destination Mapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:16:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\03. The Pianist\\Program.cs",
+              "RelativeDocumentMoniker": "03. The Pianist\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\03. The Pianist\\Program.cs",
+              "RelativeToolTip": "03. The Pianist\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\02. Ad Astra\\Program.cs",
+              "RelativeDocumentMoniker": "02. Ad Astra\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\02. Ad Astra\\Program.cs",
+              "RelativeToolTip": "02. Ad Astra\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:17:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Exam Preparation 1\\01. The Imitation Game\\Program.cs",
+              "RelativeDocumentMoniker": "01. The Imitation Game\\Program.cs",
+              "ToolTip": "D:\\repos\\Exam Preparation 1\\01. The Imitation Game\\Program.cs",
+              "RelativeToolTip": "01. The Imitation Game\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T17:54:24.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

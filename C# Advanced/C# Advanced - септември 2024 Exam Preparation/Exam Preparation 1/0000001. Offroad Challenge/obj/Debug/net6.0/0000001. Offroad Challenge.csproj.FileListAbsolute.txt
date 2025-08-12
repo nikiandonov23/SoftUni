@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\bin\Debug\net6.0\0000001. Offroad Challenge.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\bin\Debug\net6.0\0000001. Offroad Challenge.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\bin\Debug\net6.0\0000001. Offroad Challenge.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\bin\Debug\net6.0\0000001. Offroad Challenge.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\bin\Debug\net6.0\0000001. Offroad Challenge.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\refint\0000001. Offroad Challenge.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\0000001. Offroad Challenge.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000001. Offroad Challenge\obj\Debug\net6.0\ref\0000001. Offroad Challenge.dll

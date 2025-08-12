@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\bin\Debug\net6.0\000001. Worms And Holes.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\bin\Debug\net6.0\000001. Worms And Holes.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\bin\Debug\net6.0\000001. Worms And Holes.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\bin\Debug\net6.0\000001. Worms And Holes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\bin\Debug\net6.0\000001. Worms And Holes.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\refint\000001. Worms And Holes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\000001. Worms And Holes.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000001. Worms And Holes\obj\Debug\net6.0\ref\000001. Worms And Holes.dll

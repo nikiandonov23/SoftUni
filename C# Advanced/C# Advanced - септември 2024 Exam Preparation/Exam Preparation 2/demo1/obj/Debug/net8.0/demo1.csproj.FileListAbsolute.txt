@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\bin\Debug\net8.0\demo1.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\bin\Debug\net8.0\demo1.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\bin\Debug\net8.0\demo1.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\bin\Debug\net8.0\demo1.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\bin\Debug\net8.0\demo1.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\refint\demo1.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\demo1.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\demo1\obj\Debug\net8.0\ref\demo1.dll

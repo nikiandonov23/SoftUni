@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\bin\Debug\net6.0\002. Collecting Stars.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\bin\Debug\net6.0\002. Collecting Stars.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\bin\Debug\net6.0\002. Collecting Stars.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\bin\Debug\net6.0\002. Collecting Stars.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\bin\Debug\net6.0\002. Collecting Stars.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\refint\002. Collecting Stars.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\002. Collecting Stars.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\002. Collecting Stars\obj\Debug\net6.0\ref\002. Collecting Stars.dll

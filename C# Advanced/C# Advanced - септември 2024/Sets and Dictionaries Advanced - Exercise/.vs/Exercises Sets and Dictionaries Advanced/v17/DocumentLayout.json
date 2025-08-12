@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B74E2F-5CB1-4207-8B32-B5072E9EBFB3}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B74E2F-5CB1-4207-8B32-B5072E9EBFB3}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A79E30-72D4-48BC-B810-3051B88A4F38}|06. Wardrobe\\06. Wardrobe.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\06. wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A79E30-72D4-48BC-B810-3051B88A4F38}|06. Wardrobe\\06. Wardrobe.csproj|solutionrelative:06. wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0A1277-FDC1-4424-AD01-FC8D60D9788E}|05. Count Symbols\\05. Count Symbols.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\05. count symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0A1277-FDC1-4424-AD01-FC8D60D9788E}|05. Count Symbols\\05. Count Symbols.csproj|solutionrelative:05. count symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DD5D72-9253-4867-A8E4-2A1025186A48}|04. Even Times\\04. Even Times.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\04. even times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DD5D72-9253-4867-A8E4-2A1025186A48}|04. Even Times\\04. Even Times.csproj|solutionrelative:04. even times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DFB76E-DAF4-4984-B5F9-87D8D5C7E508}|03. Periodic Table\\03. Periodic Table.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DFB76E-DAF4-4984-B5F9-87D8D5C7E508}|03. Periodic Table\\03. Periodic Table.csproj|solutionrelative:03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB6C42-EBB8-495A-8C20-3D3565AEB1D2}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB6C42-EBB8-495A-8C20-3D3565AEB1D2}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08D9FC-D640-43E4-AFED-337952570372}|01. Unique Usernames\\01. Unique Usernames.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises sets and dictionaries advanced\\01. unique usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08D9FC-D640-43E4-AFED-337952570372}|01. Unique Usernames\\01. Unique Usernames.csproj|solutionrelative:01. unique usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:00:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\06. Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "06. Wardrobe\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\06. Wardrobe\\Program.cs",
+              "RelativeToolTip": "06. Wardrobe\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:17:57.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\05. Count Symbols\\Program.cs",
+              "RelativeDocumentMoniker": "05. Count Symbols\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\05. Count Symbols\\Program.cs",
+              "RelativeToolTip": "05. Count Symbols\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:06:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\04. Even Times\\Program.cs",
+              "RelativeDocumentMoniker": "04. Even Times\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\04. Even Times\\Program.cs",
+              "RelativeToolTip": "04. Even Times\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:52:59.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\03. Periodic Table\\Program.cs",
+              "RelativeDocumentMoniker": "03. Periodic Table\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\03. Periodic Table\\Program.cs",
+              "RelativeToolTip": "03. Periodic Table\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:44:24.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\02. Sets of Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Sets of Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\02. Sets of Elements\\Program.cs",
+              "RelativeToolTip": "02. Sets of Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:34:52.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\01. Unique Usernames\\Program.cs",
+              "RelativeDocumentMoniker": "01. Unique Usernames\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Sets and Dictionaries Advanced\\01. Unique Usernames\\Program.cs",
+              "RelativeToolTip": "01. Unique Usernames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:31:08.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

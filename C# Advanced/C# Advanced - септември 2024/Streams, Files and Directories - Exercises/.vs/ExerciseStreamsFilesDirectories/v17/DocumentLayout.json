@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\zipandextract\\06.zipandextract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|solutionrelative:zipandextract\\06.zipandextract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|solutionrelative:copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B501ED7-3465-44FE-9167-DB7F9B38E7E6}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B501ED7-3465-44FE-9167-DB7F9B38E7E6}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\directorytraversal\\04.directorytraversal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|solutionrelative:directorytraversal\\04.directorytraversal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copydirectory\\05.copydirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|solutionrelative:copydirectory\\05.copydirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03.CopyBinaryFile.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copybinaryfile\\03.copybinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03.CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\03.copybinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copybinaryfile\\copyme.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copyme.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|solutionrelative:linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|solutionrelative:evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\linenumbers\\02.linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|solutionrelative:linenumbers\\02.linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\evenlines\\01.evenlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|solutionrelative:evenlines\\01.evenlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\zipandextract\\06.zipandextract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06.ZipAndExtract.csproj|solutionrelative:zipandextract\\06.zipandextract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\linenumbers\\02.linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02.LineNumbers.csproj|solutionrelative:linenumbers\\02.linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\evenlines\\01.evenlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01.EvenLines.csproj|solutionrelative:evenlines\\01.evenlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\directorytraversal\\04.directorytraversal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04.DirectoryTraversal.csproj|solutionrelative:directorytraversal\\04.directorytraversal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copydirectory\\05.copydirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05.CopyDirectory.csproj|solutionrelative:copydirectory\\05.copydirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03.CopyBinaryFile.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise streams, files and directories\\copybinaryfile\\03.copybinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03.CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\03.copybinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipAndExtract .cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract .cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract .cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:07:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectoryTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:55:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CopyBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:23:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\output.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\output.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\output.txt",
+              "RelativeToolTip": "LineNumbers\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-30T21:08:31.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:55:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EvenLines.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\EvenLines.cs",
+              "RelativeDocumentMoniker": "EvenLines\\EvenLines.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\EvenLines.cs",
+              "RelativeToolTip": "EvenLines\\EvenLines.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:42:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "02.LineNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\02.LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\02.LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\02.LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\02.LineNumbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DirectoryTraversal.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "RelativeToolTip": "DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CopyBinaryFile.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "RelativeToolTip": "CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZipAndExtract.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\06.ZipAndExtract.csproj",
+              "RelativeDocumentMoniker": "ZipAndExtract\\06.ZipAndExtract.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\06.ZipAndExtract.csproj",
+              "RelativeToolTip": "ZipAndExtract\\06.ZipAndExtract.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopyDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeDocumentMoniker": "CopyDirectory\\CopyDirectory.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeToolTip": "CopyDirectory\\CopyDirectory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:31:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:22:49.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ZipAndExtract",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\06.ZipAndExtract.csproj",
+              "RelativeDocumentMoniker": "ZipAndExtract\\06.ZipAndExtract.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\ZipAndExtract\\06.ZipAndExtract.csproj",
+              "RelativeToolTip": "ZipAndExtract\\06.ZipAndExtract.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CopyDirectory.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\05.CopyDirectory.csproj",
+              "RelativeDocumentMoniker": "CopyDirectory\\05.CopyDirectory.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\05.CopyDirectory.csproj",
+              "RelativeToolTip": "CopyDirectory\\05.CopyDirectory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "copyMe.png",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\copyMe.png",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\copyMe.png",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\copyMe.png",
+              "RelativeToolTip": "CopyBinaryFile\\copyMe.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-01T09:39:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "01.EvenLines.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\01.EvenLines.csproj",
+              "RelativeDocumentMoniker": "EvenLines\\01.EvenLines.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\01.EvenLines.csproj",
+              "RelativeToolTip": "EvenLines\\01.EvenLines.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "02.LineNumbers",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\02.LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\02.LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\LineNumbers\\02.LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\02.LineNumbers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "01.EvenLines",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\01.EvenLines.csproj",
+              "RelativeDocumentMoniker": "EvenLines\\01.EvenLines.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\EvenLines\\01.EvenLines.csproj",
+              "RelativeToolTip": "EvenLines\\01.EvenLines.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DirectoryTraversal",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "RelativeToolTip": "DirectoryTraversal\\04.DirectoryTraversal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CopyDirectory",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\05.CopyDirectory.csproj",
+              "RelativeDocumentMoniker": "CopyDirectory\\05.CopyDirectory.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyDirectory\\05.CopyDirectory.csproj",
+              "RelativeToolTip": "CopyDirectory\\05.CopyDirectory.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CopyBinaryFile",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Streams, Files and Directories\\CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "RelativeToolTip": "CopyBinaryFile\\03.CopyBinaryFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T17:36:21.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

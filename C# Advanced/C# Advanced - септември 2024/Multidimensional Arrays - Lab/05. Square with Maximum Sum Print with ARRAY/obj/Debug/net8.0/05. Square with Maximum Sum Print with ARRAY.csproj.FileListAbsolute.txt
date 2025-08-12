@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\bin\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.exe
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\bin\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\bin\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\bin\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\bin\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\refint\05. Square with Maximum Sum Print with ARRAY.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\05. Square with Maximum Sum Print with ARRAY.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum Print with ARRAY\obj\Debug\net8.0\ref\05. Square with Maximum Sum Print with ARRAY.dll

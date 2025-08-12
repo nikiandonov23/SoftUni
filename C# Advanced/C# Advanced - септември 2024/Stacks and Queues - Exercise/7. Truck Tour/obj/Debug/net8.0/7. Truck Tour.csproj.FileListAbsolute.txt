@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\bin\Debug\net8.0\7. Truck Tour.exe
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\bin\Debug\net8.0\7. Truck Tour.deps.json
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\bin\Debug\net8.0\7. Truck Tour.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\bin\Debug\net8.0\7. Truck Tour.dll
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\bin\Debug\net8.0\7. Truck Tour.pdb
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.dll
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\refint\7. Truck Tour.dll
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.pdb
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\7. Truck Tour.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\7. Truck Tour\obj\Debug\net8.0\ref\7. Truck Tour.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\bin\Debug\net6.0\02. Beesy.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\bin\Debug\net6.0\02. Beesy.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\bin\Debug\net6.0\02. Beesy.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\bin\Debug\net6.0\02. Beesy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\bin\Debug\net6.0\02. Beesy.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\refint\02. Beesy.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\02. Beesy.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\02. Beesy\obj\Debug\net6.0\ref\02. Beesy.dll

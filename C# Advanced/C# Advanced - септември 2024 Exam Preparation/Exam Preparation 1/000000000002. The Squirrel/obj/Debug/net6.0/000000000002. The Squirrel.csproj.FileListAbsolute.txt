@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\bin\Debug\net6.0\000000000002. The Squirrel.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\bin\Debug\net6.0\000000000002. The Squirrel.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\bin\Debug\net6.0\000000000002. The Squirrel.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\bin\Debug\net6.0\000000000002. The Squirrel.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\bin\Debug\net6.0\000000000002. The Squirrel.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\refint\000000000002. The Squirrel.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\000000000002. The Squirrel.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000000000002. The Squirrel\obj\Debug\net6.0\ref\000000000002. The Squirrel.dll

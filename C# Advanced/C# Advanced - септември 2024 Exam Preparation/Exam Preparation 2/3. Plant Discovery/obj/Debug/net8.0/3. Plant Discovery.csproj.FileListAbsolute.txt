@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\bin\Debug\net8.0\3. Plant Discovery.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\bin\Debug\net8.0\3. Plant Discovery.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\bin\Debug\net8.0\3. Plant Discovery.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\bin\Debug\net8.0\3. Plant Discovery.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\bin\Debug\net8.0\3. Plant Discovery.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\refint\3. Plant Discovery.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\3. Plant Discovery.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\3. Plant Discovery\obj\Debug\net8.0\ref\3. Plant Discovery.dll

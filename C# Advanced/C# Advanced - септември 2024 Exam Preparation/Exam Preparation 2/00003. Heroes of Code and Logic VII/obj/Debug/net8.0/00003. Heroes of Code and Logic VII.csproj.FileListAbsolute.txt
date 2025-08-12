@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\bin\Debug\net8.0\00003. Heroes of Code and Logic VII.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\bin\Debug\net8.0\00003. Heroes of Code and Logic VII.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\bin\Debug\net8.0\00003. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\bin\Debug\net8.0\00003. Heroes of Code and Logic VII.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\bin\Debug\net8.0\00003. Heroes of Code and Logic VII.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\refint\00003. Heroes of Code and Logic VII.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\00003. Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00003. Heroes of Code and Logic VII\obj\Debug\net8.0\ref\00003. Heroes of Code and Logic VII.dll

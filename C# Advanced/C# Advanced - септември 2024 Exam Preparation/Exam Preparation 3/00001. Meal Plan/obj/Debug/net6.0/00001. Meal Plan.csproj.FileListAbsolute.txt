@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\bin\Debug\net6.0\00001. Meal Plan.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\bin\Debug\net6.0\00001. Meal Plan.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\bin\Debug\net6.0\00001. Meal Plan.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\bin\Debug\net6.0\00001. Meal Plan.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\bin\Debug\net6.0\00001. Meal Plan.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\refint\00001. Meal Plan.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\00001. Meal Plan.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\00001. Meal Plan\obj\Debug\net6.0\ref\00001. Meal Plan.dll

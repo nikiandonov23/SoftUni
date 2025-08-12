@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\bin\Debug\net6.0\03. Estate Agency.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\bin\Debug\net6.0\03. Estate Agency.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\bin\Debug\net6.0\03. Estate Agency.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\bin\Debug\net6.0\03. Estate Agency.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\bin\Debug\net6.0\03. Estate Agency.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\refint\03. Estate Agency.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\03. Estate Agency.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\03. Estate Agency\obj\Debug\net6.0\ref\03. Estate Agency.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\net8.0\06. Wardrobe.exe
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\net8.0\06. Wardrobe.deps.json
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\net8.0\06. Wardrobe.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\net8.0\06. Wardrobe.dll
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\bin\Debug\net8.0\06. Wardrobe.pdb
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.dll
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\refint\06. Wardrobe.dll
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.pdb
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\06. Wardrobe.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exercises Sets and Dictionaries Advanced\06. Wardrobe\obj\Debug\net8.0\ref\06. Wardrobe.dll

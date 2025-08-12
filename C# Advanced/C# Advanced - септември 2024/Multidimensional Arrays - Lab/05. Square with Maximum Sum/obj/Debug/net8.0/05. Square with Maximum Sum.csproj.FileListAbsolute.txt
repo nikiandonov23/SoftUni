@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net8.0\05. Square with Maximum Sum.exe
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net8.0\05. Square with Maximum Sum.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net8.0\05. Square with Maximum Sum.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net8.0\05. Square with Maximum Sum.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\bin\Debug\net8.0\05. Square with Maximum Sum.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\refint\05. Square with Maximum Sum.dll
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.pdb
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\05. Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab  Multidimensional Arrays\05. Square with Maximum Sum\obj\Debug\net8.0\ref\05. Square with Maximum Sum.dll

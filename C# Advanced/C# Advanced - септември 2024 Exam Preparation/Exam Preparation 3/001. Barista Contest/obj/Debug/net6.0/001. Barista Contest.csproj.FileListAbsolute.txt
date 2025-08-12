@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\bin\Debug\net6.0\001. Barista Contest.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\bin\Debug\net6.0\001. Barista Contest.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\bin\Debug\net6.0\001. Barista Contest.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\bin\Debug\net6.0\001. Barista Contest.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\bin\Debug\net6.0\001. Barista Contest.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\refint\001. Barista Contest.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\001. Barista Contest.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\001. Barista Contest\obj\Debug\net6.0\ref\001. Barista Contest.dll

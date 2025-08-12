@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\bin\Debug\net8.0\0003. Bakery Shop.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\bin\Debug\net8.0\0003. Bakery Shop.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\bin\Debug\net8.0\0003. Bakery Shop.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\bin\Debug\net8.0\0003. Bakery Shop.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\bin\Debug\net8.0\0003. Bakery Shop.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\refint\0003. Bakery Shop.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\0003. Bakery Shop.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\0003. Bakery Shop\obj\Debug\net8.0\ref\0003. Bakery Shop.dll

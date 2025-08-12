@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\bin\Debug\net6.0\00001. Chicken Snack.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\bin\Debug\net6.0\00001. Chicken Snack.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\bin\Debug\net6.0\00001. Chicken Snack.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\bin\Debug\net6.0\00001. Chicken Snack.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\bin\Debug\net6.0\00001. Chicken Snack.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\refint\00001. Chicken Snack.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\00001. Chicken Snack.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00001. Chicken Snack\obj\Debug\net6.0\ref\00001. Chicken Snack.dll

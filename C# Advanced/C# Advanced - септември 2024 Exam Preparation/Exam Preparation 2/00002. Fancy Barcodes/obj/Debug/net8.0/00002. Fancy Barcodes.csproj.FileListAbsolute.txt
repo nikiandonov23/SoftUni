@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\bin\Debug\net8.0\00002. Fancy Barcodes.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\bin\Debug\net8.0\00002. Fancy Barcodes.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\bin\Debug\net8.0\00002. Fancy Barcodes.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\bin\Debug\net8.0\00002. Fancy Barcodes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\bin\Debug\net8.0\00002. Fancy Barcodes.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\refint\00002. Fancy Barcodes.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\00002. Fancy Barcodes.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\00002. Fancy Barcodes\obj\Debug\net8.0\ref\00002. Fancy Barcodes.dll

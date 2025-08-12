@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\bin\Debug\net8.0\8. Traffic Jam.exe
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\bin\Debug\net8.0\8. Traffic Jam.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\bin\Debug\net8.0\8. Traffic Jam.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\bin\Debug\net8.0\8. Traffic Jam.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\bin\Debug\net8.0\8. Traffic Jam.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\refint\8. Traffic Jam.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\8. Traffic Jam.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\8. Traffic Jam\obj\Debug\net8.0\ref\8. Traffic Jam.dll

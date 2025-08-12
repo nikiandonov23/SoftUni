@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.exe
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.deps.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\refint\02. Average Student Grades.dll
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.pdb
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\01. Count Same Values in Array\02. Average Student Grades\obj\Debug\net8.0\ref\02. Average Student Grades.dll

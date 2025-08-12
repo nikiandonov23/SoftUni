@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\bin\Debug\net6.0\01. Rapid Courier.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\bin\Debug\net6.0\01. Rapid Courier.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\bin\Debug\net6.0\01. Rapid Courier.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\bin\Debug\net6.0\01. Rapid Courier.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\bin\Debug\net6.0\01. Rapid Courier.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\refint\01. Rapid Courier.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\01. Rapid Courier.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\01. Rapid Courier\obj\Debug\net6.0\ref\01. Rapid Courier.dll

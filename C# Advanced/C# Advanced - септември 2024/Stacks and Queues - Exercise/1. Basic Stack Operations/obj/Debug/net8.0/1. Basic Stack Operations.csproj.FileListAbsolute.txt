@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\bin\Debug\net8.0\1. Basic Stack Operations.exe
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\bin\Debug\net8.0\1. Basic Stack Operations.deps.json
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\bin\Debug\net8.0\1. Basic Stack Operations.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\bin\Debug\net8.0\1. Basic Stack Operations.dll
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\bin\Debug\net8.0\1. Basic Stack Operations.pdb
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.dll
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\refint\1. Basic Stack Operations.dll
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.pdb
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\1. Basic Stack Operations.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\1. Basic Stack Operations\obj\Debug\net8.0\ref\1. Basic Stack Operations.dll

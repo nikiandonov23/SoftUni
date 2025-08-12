@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\bin\Debug\net6.0\0000000000001. Apocalypse Preparation.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\bin\Debug\net6.0\0000000000001. Apocalypse Preparation.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\bin\Debug\net6.0\0000000000001. Apocalypse Preparation.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\bin\Debug\net6.0\0000000000001. Apocalypse Preparation.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\bin\Debug\net6.0\0000000000001. Apocalypse Preparation.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\refint\0000000000001. Apocalypse Preparation.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\0000000000001. Apocalypse Preparation.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\0000000000001. Apocalypse Preparation\obj\Debug\net6.0\ref\0000000000001. Apocalypse Preparation.dll

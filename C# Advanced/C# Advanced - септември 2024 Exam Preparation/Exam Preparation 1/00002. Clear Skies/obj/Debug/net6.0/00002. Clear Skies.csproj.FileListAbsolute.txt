@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\bin\Debug\net6.0\00002. Clear Skies.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\bin\Debug\net6.0\00002. Clear Skies.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\bin\Debug\net6.0\00002. Clear Skies.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\bin\Debug\net6.0\00002. Clear Skies.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\bin\Debug\net6.0\00002. Clear Skies.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\refint\00002. Clear Skies.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\00002. Clear Skies.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\00002. Clear Skies\obj\Debug\net6.0\ref\00002. Clear Skies.dll

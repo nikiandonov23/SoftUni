@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "0002. Escape the Maze DA SE RESHI PAK/1.0.0": {
+        "runtime": {
+          "0002. Escape the Maze DA SE RESHI PAK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0002. Escape the Maze DA SE RESHI PAK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\bin\Debug\net6.0\000002. The Gambler.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\bin\Debug\net6.0\000002. The Gambler.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\bin\Debug\net6.0\000002. The Gambler.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\bin\Debug\net6.0\000002. The Gambler.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\bin\Debug\net6.0\000002. The Gambler.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\refint\000002. The Gambler.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\000002. The Gambler.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS\000002. The Gambler\obj\Debug\net6.0\ref\000002. The Gambler.dll

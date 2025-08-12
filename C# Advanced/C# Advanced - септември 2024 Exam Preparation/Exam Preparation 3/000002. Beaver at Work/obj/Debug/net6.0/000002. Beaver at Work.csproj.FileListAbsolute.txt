@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\bin\Debug\net6.0\000002. Beaver at Work.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\bin\Debug\net6.0\000002. Beaver at Work.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\bin\Debug\net6.0\000002. Beaver at Work.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\bin\Debug\net6.0\000002. Beaver at Work.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\bin\Debug\net6.0\000002. Beaver at Work.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\refint\000002. Beaver at Work.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\000002. Beaver at Work.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation CLASS 2\000002. Beaver at Work\obj\Debug\net6.0\ref\000002. Beaver at Work.dll

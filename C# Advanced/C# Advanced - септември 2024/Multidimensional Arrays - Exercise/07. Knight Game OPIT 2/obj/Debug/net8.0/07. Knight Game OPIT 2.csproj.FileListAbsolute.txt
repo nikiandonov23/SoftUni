@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\bin\Debug\net8.0\07. Knight Game OPIT 2.exe
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\bin\Debug\net8.0\07. Knight Game OPIT 2.deps.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\bin\Debug\net8.0\07. Knight Game OPIT 2.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\bin\Debug\net8.0\07. Knight Game OPIT 2.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\bin\Debug\net8.0\07. Knight Game OPIT 2.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\refint\07. Knight Game OPIT 2.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\07. Knight Game OPIT 2.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game OPIT 2\obj\Debug\net8.0\ref\07. Knight Game OPIT 2.dll

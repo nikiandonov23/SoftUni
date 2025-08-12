@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9670034-2F40-4721-9C7D-68148BEE26C3}|07. Folder Size\\07. Folder Size.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\07. folder size\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9670034-2F40-4721-9C7D-68148BEE26C3}|07. Folder Size\\07. Folder Size.csproj|solutionrelative:07. folder size\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBB3AA8-14CE-489E-9217-C126687F5847}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBB3AA8-14CE-489E-9217-C126687F5847}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152332E-B1D5-46B2-9DFC-76B7BECEC2AD}|06. Split  Merge Binary Files\\06. Split  Merge Binary Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\06. split  merge binary files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152332E-B1D5-46B2-9DFC-76B7BECEC2AD}|06. Split  Merge Binary Files\\06. Split  Merge Binary Files.csproj|solutionrelative:06. split  merge binary files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0671E6C-443C-42CC-AD27-9265F75EAE16}|05. Extract Special Bytes\\05. Extract Special Bytes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\05. extract special bytes\\files\\bytes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B0671E6C-443C-42CC-AD27-9265F75EAE16}|05. Extract Special Bytes\\05. Extract Special Bytes.csproj|solutionrelative:05. extract special bytes\\files\\bytes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\04. merge files\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|solutionrelative:04. merge files\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\04. merge files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|solutionrelative:04. merge files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\1. odd lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|solutionrelative:1. odd lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\04. merge files\\files\\input2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|solutionrelative:04. merge files\\files\\input2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\04. merge files\\files\\input1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|solutionrelative:04. merge files\\files\\input1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\04. merge files\\04. merge files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC4E320D-EDE4-4871-9BA6-1C56CAA11A39}|04. Merge Files\\04. Merge Files.csproj|solutionrelative:04. merge files\\04. merge files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\02. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|solutionrelative:02. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\02. line numbers\\02. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|solutionrelative:02. line numbers\\02. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\02. line numbers\\files\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9753B9FB-EB36-4AA4-94D3-2E0220814173}|02. Line Numbers\\02. Line Numbers.csproj|solutionrelative:02. line numbers\\files\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\1. odd lines\\01. odd lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|solutionrelative:1. odd lines\\01. odd lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\1. odd lines\\01. odd lines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|solutionrelative:1. odd lines\\01. odd lines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\1. odd lines\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|solutionrelative:1. odd lines\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\1. odd lines\\files\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34B3F148-D6FC-4312-A8C1-899262662E5C}|1. Odd Lines\\01. Odd Lines.csproj|solutionrelative:1. odd lines\\files\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\03. word count\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|solutionrelative:03. word count\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\03. word count\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|solutionrelative:03. word count\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\03. word count\\files\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|solutionrelative:03. word count\\files\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\1. odd lines\\03. word count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FCA02A-914A-4585-8E94-6E5086FE44C2}|03. Word Count\\03. Word Count DA SE RESHI PAK.csproj|solutionrelative:03. word count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:15:14.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\07. Folder Size\\Program.cs",
+              "RelativeDocumentMoniker": "07. Folder Size\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\07. Folder Size\\Program.cs",
+              "RelativeToolTip": "07. Folder Size\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:57:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\06. Split  Merge Binary Files\\Program.cs",
+              "RelativeDocumentMoniker": "06. Split  Merge Binary Files\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\06. Split  Merge Binary Files\\Program.cs",
+              "RelativeToolTip": "06. Split  Merge Binary Files\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:31:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "04. Merge Files.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\04. Merge Files.csproj",
+              "RelativeDocumentMoniker": "04. Merge Files\\04. Merge Files.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\04. Merge Files.csproj",
+              "RelativeToolTip": "04. Merge Files\\04. Merge Files.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T18:13:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Program.cs",
+              "RelativeDocumentMoniker": "04. Merge Files\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Program.cs",
+              "RelativeToolTip": "04. Merge Files\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:13:30.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\output.txt",
+              "RelativeDocumentMoniker": "03. Word Count\\Files\\output.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\output.txt",
+              "RelativeToolTip": "03. Word Count\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T13:29:57.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\text.txt",
+              "RelativeDocumentMoniker": "03. Word Count\\Files\\text.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\text.txt",
+              "RelativeToolTip": "03. Word Count\\Files\\text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T13:29:37.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "words.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\words.txt",
+              "RelativeDocumentMoniker": "03. Word Count\\Files\\words.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Files\\words.txt",
+              "RelativeToolTip": "03. Word Count\\Files\\words.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T13:29:08.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Program.cs",
+              "RelativeDocumentMoniker": "03. Word Count\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\03. Word Count\\Program.cs",
+              "RelativeToolTip": "03. Word Count\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAnwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:27:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "02. Line Numbers.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\02. Line Numbers.csproj",
+              "RelativeDocumentMoniker": "02. Line Numbers\\02. Line Numbers.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\02. Line Numbers.csproj",
+              "RelativeToolTip": "02. Line Numbers\\02. Line Numbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T13:10:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\Files\\input.txt",
+              "RelativeDocumentMoniker": "02. Line Numbers\\Files\\input.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\Files\\input.txt",
+              "RelativeToolTip": "02. Line Numbers\\Files\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T13:10:42.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Line Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\02. Line Numbers\\Program.cs",
+              "RelativeToolTip": "02. Line Numbers\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:07:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Files\\output.txt",
+              "RelativeDocumentMoniker": "1. Odd Lines\\Files\\output.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Files\\output.txt",
+              "RelativeToolTip": "1. Odd Lines\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T13:04:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\output.txt",
+              "RelativeDocumentMoniker": "04. Merge Files\\Files\\output.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\output.txt",
+              "RelativeToolTip": "04. Merge Files\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T18:14:48.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bytes.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\05. Extract Special Bytes\\Files\\bytes.txt",
+              "RelativeDocumentMoniker": "05. Extract Special Bytes\\Files\\bytes.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\05. Extract Special Bytes\\Files\\bytes.txt",
+              "RelativeToolTip": "05. Extract Special Bytes\\Files\\bytes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T19:14:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "input1.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\input1.txt",
+              "RelativeDocumentMoniker": "04. Merge Files\\Files\\input1.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\input1.txt",
+              "RelativeToolTip": "04. Merge Files\\Files\\input1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T18:14:02.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Program.cs",
+              "RelativeDocumentMoniker": "1. Odd Lines\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Program.cs",
+              "RelativeToolTip": "1. Odd Lines\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:09:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input2.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\input2.txt",
+              "RelativeDocumentMoniker": "04. Merge Files\\Files\\input2.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\04. Merge Files\\Files\\input2.txt",
+              "RelativeToolTip": "04. Merge Files\\Files\\input2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T18:14:14.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "01. Odd Lines.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\01. Odd Lines.csproj",
+              "RelativeDocumentMoniker": "1. Odd Lines\\01. Odd Lines.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\01. Odd Lines.csproj",
+              "RelativeToolTip": "1. Odd Lines\\01. Odd Lines.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T13:00:13.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "01. Odd Lines",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\01. Odd Lines.csproj",
+              "RelativeDocumentMoniker": "1. Odd Lines\\01. Odd Lines.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\01. Odd Lines.csproj",
+              "RelativeToolTip": "1. Odd Lines\\01. Odd Lines.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T13:00:18.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Files\\input.txt",
+              "RelativeDocumentMoniker": "1. Odd Lines\\Files\\input.txt",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\1. Odd Lines\\1. Odd Lines\\Files\\input.txt",
+              "RelativeToolTip": "1. Odd Lines\\Files\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-28T10:42:02.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

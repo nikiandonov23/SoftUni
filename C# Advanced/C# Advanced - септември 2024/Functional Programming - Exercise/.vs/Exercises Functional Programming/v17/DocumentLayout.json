@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474A8636-5600-4A0D-B40B-42708860E82F}|11. Tri Function\\11. Tri Function.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\11. tri function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A8636-5600-4A0D-B40B-42708860E82F}|11. Tri Function\\11. Tri Function.csproj|solutionrelative:11. tri function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3791CA1-0C63-46C4-AFF5-382961DAF423}|10.Party Reservation Filter Module\\10.Party Reservation Filter Module.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\10.party reservation filter module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3791CA1-0C63-46C4-AFF5-382961DAF423}|10.Party Reservation Filter Module\\10.Party Reservation Filter Module.csproj|solutionrelative:10.party reservation filter module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2511011-B0DC-43D9-9897-51229D8CA39C}|09. Predicate Party!\\09. Predicate Party!.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\09. predicate party!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2511011-B0DC-43D9-9897-51229D8CA39C}|09. Predicate Party!\\09. Predicate Party!.csproj|solutionrelative:09. predicate party!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF6511C-5DD9-4ED1-9EC9-5CD35796BE23}|08. List of Predicates\\08. List of Predicates.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF6511C-5DD9-4ED1-9EC9-5CD35796BE23}|08. List of Predicates\\08. List of Predicates.csproj|solutionrelative:08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFFE59C-58BF-4492-B6CA-5C8D48BCAD63}|07. Predicate for Names\\07. Predicate for Names.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFFE59C-58BF-4492-B6CA-5C8D48BCAD63}|07. Predicate for Names\\07. Predicate for Names.csproj|solutionrelative:07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51800164-47D2-46F3-A675-1D437E76EE52}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51800164-47D2-46F3-A675-1D437E76EE52}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|solutionrelative:06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888EB5E-562A-4E2A-924C-068B1CFA3B3E}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\05. applied arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888EB5E-562A-4E2A-924C-068B1CFA3B3E}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|solutionrelative:05. applied arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4BD1BC-18E3-4C57-BB00-FA0D944B36D1}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4BD1BC-18E3-4C57-BB00-FA0D944B36D1}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|solutionrelative:04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29029915-EE95-4A56-91CC-F58836150B96}|02. Knights of Honor\\02. Knights of Honor.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\02. knights of honor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29029915-EE95-4A56-91CC-F58836150B96}|02. Knights of Honor\\02. Knights of Honor.csproj|solutionrelative:02. knights of honor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C40A35-AD1E-420B-A3DB-EA5E563E01D9}|03. Custom Min Function\\03. Custom Min Function.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\03. custom min function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C40A35-AD1E-420B-A3DB-EA5E563E01D9}|03. Custom Min Function\\03. Custom Min Function.csproj|solutionrelative:03. custom min function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF43EE-E847-460F-9885-4ACF72F5F422}|01. Action Print\\01. Action Print.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercises functional programming\\01. action print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF43EE-E847-460F-9885-4ACF72F5F422}|01. Action Print\\01. Action Print.csproj|solutionrelative:01. action print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\11. Tri Function\\Program.cs",
+              "RelativeDocumentMoniker": "11. Tri Function\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\11. Tri Function\\Program.cs",
+              "RelativeToolTip": "11. Tri Function\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:56:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\10.Party Reservation Filter Module\\Program.cs",
+              "RelativeDocumentMoniker": "10.Party Reservation Filter Module\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\10.Party Reservation Filter Module\\Program.cs",
+              "RelativeToolTip": "10.Party Reservation Filter Module\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:54:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\09. Predicate Party!\\Program.cs",
+              "RelativeDocumentMoniker": "09. Predicate Party!\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\09. Predicate Party!\\Program.cs",
+              "RelativeToolTip": "09. Predicate Party!\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:22:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\08. List of Predicates\\Program.cs",
+              "RelativeDocumentMoniker": "08. List of Predicates\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\08. List of Predicates\\Program.cs",
+              "RelativeToolTip": "08. List of Predicates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:53:50.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\07. Predicate for Names\\Program.cs",
+              "RelativeDocumentMoniker": "07. Predicate for Names\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\07. Predicate for Names\\Program.cs",
+              "RelativeToolTip": "07. Predicate for Names\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:45:16.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\06. Reverse and Exclude\\Program.cs",
+              "RelativeDocumentMoniker": "06. Reverse and Exclude\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\06. Reverse and Exclude\\Program.cs",
+              "RelativeToolTip": "06. Reverse and Exclude\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:23:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\05. Applied Arithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05. Applied Arithmetics\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\05. Applied Arithmetics\\Program.cs",
+              "RelativeToolTip": "05. Applied Arithmetics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:52:34.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\04. Find Evens or Odds\\Program.cs",
+              "RelativeDocumentMoniker": "04. Find Evens or Odds\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\04. Find Evens or Odds\\Program.cs",
+              "RelativeToolTip": "04. Find Evens or Odds\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:25:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\03. Custom Min Function\\Program.cs",
+              "RelativeDocumentMoniker": "03. Custom Min Function\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\03. Custom Min Function\\Program.cs",
+              "RelativeToolTip": "03. Custom Min Function\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:13:39.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\02. Knights of Honor\\Program.cs",
+              "RelativeDocumentMoniker": "02. Knights of Honor\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\02. Knights of Honor\\Program.cs",
+              "RelativeToolTip": "02. Knights of Honor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:46:13.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\01. Action Print\\Program.cs",
+              "RelativeDocumentMoniker": "01. Action Print\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercises Functional Programming\\01. Action Print\\Program.cs",
+              "RelativeToolTip": "01. Action Print\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:35:01.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

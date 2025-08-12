@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1515F7A0-0B54-42C1-9C19-70ED1A6AB91A}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1515F7A0-0B54-42C1-9C19-70ED1A6AB91A}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5333AA4-3501-4891-95CB-7EEC9C4BE4A4}|7. Pascal Triangle\\7. Pascal Triangle.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\7. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5333AA4-3501-4891-95CB-7EEC9C4BE4A4}|7. Pascal Triangle\\7. Pascal Triangle.csproj|solutionrelative:7. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0D3368-0EA3-4A7D-A28E-B2F872CE8FB8}|06. Jagged-Array Modification\\06. Jagged-Array Modification.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\06. jagged-array modification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0D3368-0EA3-4A7D-A28E-B2F872CE8FB8}|06. Jagged-Array Modification\\06. Jagged-Array Modification.csproj|solutionrelative:06. jagged-array modification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46E9CE2-1E01-40FE-B144-21F093B424A7}|05. Square with Maximum Sum Print with ARRAY\\05. Square with Maximum Sum Print with ARRAY.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\05. square with maximum sum print with array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46E9CE2-1E01-40FE-B144-21F093B424A7}|05. Square with Maximum Sum Print with ARRAY\\05. Square with Maximum Sum Print with ARRAY.csproj|solutionrelative:05. square with maximum sum print with array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ECE953-7F0B-4DC8-95C6-C5BDBA324D53}|05. Square with Maximum Sum\\05. Square with Maximum Sum.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\05. square with maximum sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ECE953-7F0B-4DC8-95C6-C5BDBA324D53}|05. Square with Maximum Sum\\05. Square with Maximum Sum.csproj|solutionrelative:05. square with maximum sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9365C88E-C2DD-4C56-8694-36E558F5A452}|04. Symbol in Matrix\\04. Symbol in Matrix.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\04. symbol in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9365C88E-C2DD-4C56-8694-36E558F5A452}|04. Symbol in Matrix\\04. Symbol in Matrix.csproj|solutionrelative:04. symbol in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE1FCF3-BF90-4A87-9F53-13970D1FB03A}|02. Sum Matrix Columns\\02. Sum Matrix Columns.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\02. sum matrix columns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE1FCF3-BF90-4A87-9F53-13970D1FB03A}|02. Sum Matrix Columns\\02. Sum Matrix Columns.csproj|solutionrelative:02. sum matrix columns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B6D7FA-D76D-41D2-A1F8-239D9B3CEC15}|03. Primary Diagonal\\03. Primary Diagonal.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\03. primary diagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B6D7FA-D76D-41D2-A1F8-239D9B3CEC15}|03. Primary Diagonal\\03. Primary Diagonal.csproj|solutionrelative:03. primary diagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A6755-2ECB-4AD6-9B96-9E5BCBC6BDBB}|01 Sum Matrix Elements\\01 Sum Matrix Elements.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  multidimensional arrays\\01 sum matrix elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A6755-2ECB-4AD6-9B96-9E5BCBC6BDBB}|01 Sum Matrix Elements\\01 Sum Matrix Elements.csproj|solutionrelative:01 sum matrix elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\7. Pascal Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "7. Pascal Triangle\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\7. Pascal Triangle\\Program.cs",
+              "RelativeToolTip": "7. Pascal Triangle\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:00:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\06. Jagged-Array Modification\\Program.cs",
+              "RelativeDocumentMoniker": "06. Jagged-Array Modification\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\06. Jagged-Array Modification\\Program.cs",
+              "RelativeToolTip": "06. Jagged-Array Modification\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:01:02.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\05. Square with Maximum Sum Print with ARRAY\\Program.cs",
+              "RelativeDocumentMoniker": "05. Square with Maximum Sum Print with ARRAY\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\05. Square with Maximum Sum Print with ARRAY\\Program.cs",
+              "RelativeToolTip": "05. Square with Maximum Sum Print with ARRAY\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:55:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\05. Square with Maximum Sum\\Program.cs",
+              "RelativeDocumentMoniker": "05. Square with Maximum Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\05. Square with Maximum Sum\\Program.cs",
+              "RelativeToolTip": "05. Square with Maximum Sum\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwEMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:15:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\04. Symbol in Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "04. Symbol in Matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\04. Symbol in Matrix\\Program.cs",
+              "RelativeToolTip": "04. Symbol in Matrix\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:53:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\03. Primary Diagonal\\Program.cs",
+              "RelativeDocumentMoniker": "03. Primary Diagonal\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\03. Primary Diagonal\\Program.cs",
+              "RelativeToolTip": "03. Primary Diagonal\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:37:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\02. Sum Matrix Columns\\Program.cs",
+              "RelativeDocumentMoniker": "02. Sum Matrix Columns\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\02. Sum Matrix Columns\\Program.cs",
+              "RelativeToolTip": "02. Sum Matrix Columns\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:18:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:04:56.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\01 Sum Matrix Elements\\Program.cs",
+              "RelativeDocumentMoniker": "01 Sum Matrix Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Multidimensional Arrays\\01 Sum Matrix Elements\\Program.cs",
+              "RelativeToolTip": "01 Sum Matrix Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:30:16.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

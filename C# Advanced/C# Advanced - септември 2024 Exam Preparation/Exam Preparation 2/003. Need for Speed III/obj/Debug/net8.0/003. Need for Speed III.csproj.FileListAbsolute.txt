@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\bin\Debug\net8.0\003. Need for Speed III.exe
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\bin\Debug\net8.0\003. Need for Speed III.deps.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\bin\Debug\net8.0\003. Need for Speed III.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\bin\Debug\net8.0\003. Need for Speed III.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\bin\Debug\net8.0\003. Need for Speed III.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\refint\003. Need for Speed III.dll
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.pdb
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\003. Need for Speed III.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exam Preparation 1\003. Need for Speed III\obj\Debug\net8.0\ref\003. Need for Speed III.dll

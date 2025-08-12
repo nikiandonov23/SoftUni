@@ -1,0 +1,11 @@
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\bin\Debug\netcoreapp2.1\01.Odd Line.deps.json
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\bin\Debug\netcoreapp2.1\01.Odd Line.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\bin\Debug\netcoreapp2.1\01.Odd Line.runtimeconfig.dev.json
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\bin\Debug\netcoreapp2.1\01.Odd Line.dll
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\bin\Debug\netcoreapp2.1\01.Odd Line.pdb
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.csprojAssemblyReference.cache
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.dll
+C:\Users\НАТАЛИ\source\repos\Streams, Files and Directories - Lab\01.Odd Line\obj\Debug\netcoreapp2.1\01.Odd Line.pdb

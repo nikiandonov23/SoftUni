@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\bin\Debug\net8.0\07. Knight Game.exe
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\bin\Debug\net8.0\07. Knight Game.deps.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\bin\Debug\net8.0\07. Knight Game.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\bin\Debug\net8.0\07. Knight Game.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\bin\Debug\net8.0\07. Knight Game.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\refint\07. Knight Game.dll
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.pdb
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\07. Knight Game.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Exercise Multidimensional Arrays\07. Knight Game\obj\Debug\net8.0\ref\07. Knight Game.dll

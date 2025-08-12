@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE9C66-93A0-42CD-A754-106F21F1815A}|08. SoftUni Party\\08. SoftUni Party.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\08. softuni party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE9C66-93A0-42CD-A754-106F21F1815A}|08. SoftUni Party\\08. SoftUni Party.csproj|solutionrelative:08. softuni party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0739DEB-F30A-4495-81B8-6B9363B48313}|07. Parking Lot\\07. Parking Lot.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\07. parking lot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0739DEB-F30A-4495-81B8-6B9363B48313}|07. Parking Lot\\07. Parking Lot.csproj|solutionrelative:07. parking lot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8769B-B0A8-4FED-B42B-3F91CCED7CC3}|05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\05. cities by continent and country\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8769B-B0A8-4FED-B42B-3F91CCED7CC3}|05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj|solutionrelative:05. cities by continent and country\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C4231-C5B9-47C9-BA88-0EDDA7C5D64C}|06. Record Unique Names\\06. Record Unique Names.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\06. record unique names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C4231-C5B9-47C9-BA88-0EDDA7C5D64C}|06. Record Unique Names\\06. Record Unique Names.csproj|solutionrelative:06. record unique names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA6D2A6-7863-4750-B692-45C53B479E35}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA6D2A6-7863-4750-B692-45C53B479E35}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE0FD9-69B9-48AE-AA45-F543779E75C2}|04. Product Shop\\04. Product Shop.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\04. product shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EE0FD9-69B9-48AE-AA45-F543779E75C2}|04. Product Shop\\04. Product Shop.csproj|solutionrelative:04. product shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45751BC-6E4E-488E-94C6-F45C38D546A7}|03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\03. largest 3 numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45751BC-6E4E-488E-94C6-F45C38D546A7}|03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj|solutionrelative:03. largest 3 numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E4A34C-ADF8-450D-AF56-2C87FC2F7AEC}|02. Average Student Grades\\02. Average Student Grades.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\02. average student grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E4A34C-ADF8-450D-AF56-2C87FC2F7AEC}|02. Average Student Grades\\02. Average Student Grades.csproj|solutionrelative:02. average student grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AE5099-7FEF-4C10-A115-703E49496A98}|01. Count Same Values in Array\\01. Count Same Values in Array.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\01. count same values in array\\01. count same values in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AE5099-7FEF-4C10-A115-703E49496A98}|01. Count Same Values in Array\\01. Count Same Values in Array.csproj|solutionrelative:01. count same values in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\08. SoftUni Party\\Program.cs",
+              "RelativeDocumentMoniker": "08. SoftUni Party\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\08. SoftUni Party\\Program.cs",
+              "RelativeToolTip": "08. SoftUni Party\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:50:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\07. Parking Lot\\Program.cs",
+              "RelativeDocumentMoniker": "07. Parking Lot\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\07. Parking Lot\\Program.cs",
+              "RelativeToolTip": "07. Parking Lot\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:38:01.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\06. Record Unique Names\\Program.cs",
+              "RelativeDocumentMoniker": "06. Record Unique Names\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\06. Record Unique Names\\Program.cs",
+              "RelativeToolTip": "06. Record Unique Names\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:28:16.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\05. Cities by Continent and Country\\Program.cs",
+              "RelativeDocumentMoniker": "05. Cities by Continent and Country\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\05. Cities by Continent and Country\\Program.cs",
+              "RelativeToolTip": "05. Cities by Continent and Country\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:05:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\04. Product Shop\\Program.cs",
+              "RelativeDocumentMoniker": "04. Product Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\04. Product Shop\\Program.cs",
+              "RelativeToolTip": "04. Product Shop\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:36:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\03. Largest 3 Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Largest 3 Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\03. Largest 3 Numbers\\Program.cs",
+              "RelativeToolTip": "03. Largest 3 Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:28:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:14:24.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\02. Average Student Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02. Average Student Grades\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\02. Average Student Grades\\Program.cs",
+              "RelativeToolTip": "02. Average Student Grades\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:10:08.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\01. Count Same Values in Array\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Same Values in Array\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\01. Count Same Values in Array\\01. Count Same Values in Array\\Program.cs",
+              "RelativeToolTip": "01. Count Same Values in Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:46:37.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

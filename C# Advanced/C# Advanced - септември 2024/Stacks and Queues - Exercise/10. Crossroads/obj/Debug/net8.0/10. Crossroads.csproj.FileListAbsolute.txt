@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\bin\Debug\net8.0\10. Crossroads.exe
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\bin\Debug\net8.0\10. Crossroads.deps.json
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\bin\Debug\net8.0\10. Crossroads.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\bin\Debug\net8.0\10. Crossroads.dll
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\bin\Debug\net8.0\10. Crossroads.pdb
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.dll
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\refint\10. Crossroads.dll
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.pdb
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\10. Crossroads.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\10. Crossroads\obj\Debug\net8.0\ref\10. Crossroads.dll

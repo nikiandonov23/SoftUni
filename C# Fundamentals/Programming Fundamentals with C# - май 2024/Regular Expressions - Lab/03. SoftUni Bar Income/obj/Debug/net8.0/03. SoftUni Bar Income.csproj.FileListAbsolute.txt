@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.exe
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.deps.json
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.dll
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\bin\Debug\net8.0\03. SoftUni Bar Income.pdb
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.dll
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\refint\03. SoftUni Bar Income.dll
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.pdb
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\03. SoftUni Bar Income.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Regular Expressions - Lab\03. SoftUni Bar Income\obj\Debug\net8.0\ref\03. SoftUni Bar Income.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net8.0\7. Hot Potato.exe
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net8.0\7. Hot Potato.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net8.0\7. Hot Potato.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net8.0\7. Hot Potato.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net8.0\7. Hot Potato.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\refint\7. Hot Potato.dll
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\7. Hot Potato.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net8.0\ref\7. Hot Potato.dll

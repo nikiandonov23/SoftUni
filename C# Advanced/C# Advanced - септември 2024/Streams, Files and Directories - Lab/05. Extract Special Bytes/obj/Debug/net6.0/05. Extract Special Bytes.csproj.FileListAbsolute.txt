@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\1. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll

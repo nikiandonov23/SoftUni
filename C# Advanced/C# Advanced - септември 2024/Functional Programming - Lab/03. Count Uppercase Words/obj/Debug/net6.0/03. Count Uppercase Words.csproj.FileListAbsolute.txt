@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.exe
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.dll
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.pdb
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.dll
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\refint\03. Count Uppercase Words.dll
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.pdb
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab - Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\ref\03. Count Uppercase Words.dll
