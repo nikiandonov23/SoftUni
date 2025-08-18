@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.Web", "ElectronicIdentityApp\ElectronicIdentityApp.Web.csproj", "{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F294753-0270-4249-AEED-E15E7BBCA297} = {3F294753-0270-4249-AEED-E15E7BBCA297}
+		{93753169-7DD9-4C87-AFA8-613222CE8784} = {93753169-7DD9-4C87-AFA8-613222CE8784}
+		{C945539A-F502-4D58-B4B6-7183201A58C8} = {C945539A-F502-4D58-B4B6-7183201A58C8}
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36} = {EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{999E9738-681C-4BAB-9088-7C43B058E379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.Data", "ElectronicIdentityApp.Data\ElectronicIdentityApp.Data.csproj", "{C945539A-F502-4D58-B4B6-7183201A58C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F294753-0270-4249-AEED-E15E7BBCA297} = {3F294753-0270-4249-AEED-E15E7BBCA297}
+		{93753169-7DD9-4C87-AFA8-613222CE8784} = {93753169-7DD9-4C87-AFA8-613222CE8784}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.DataModels", "ElectronicIdentityApp.DataModels\ElectronicIdentityApp.DataModels.csproj", "{93753169-7DD9-4C87-AFA8-613222CE8784}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F294753-0270-4249-AEED-E15E7BBCA297} = {3F294753-0270-4249-AEED-E15E7BBCA297}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{400E9BD6-520E-4089-A5DA-3853C2B03E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.Services.Core", "ElectronicIdentityApp.Services.Core\ElectronicIdentityApp.Services.Core.csproj", "{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}"
+	ProjectSection(ProjectDependencies) = postProject
+		{93753169-7DD9-4C87-AFA8-613222CE8784} = {93753169-7DD9-4C87-AFA8-613222CE8784}
+		{C945539A-F502-4D58-B4B6-7183201A58C8} = {C945539A-F502-4D58-B4B6-7183201A58C8}
+		{F2665D77-5BF0-4E66-A8E2-28162666776D} = {F2665D77-5BF0-4E66-A8E2-28162666776D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.ViewModels", "ElectronicIdentityApp.ViewModels\ElectronicIdentityApp.ViewModels.csproj", "{F2665D77-5BF0-4E66-A8E2-28162666776D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F294753-0270-4249-AEED-E15E7BBCA297} = {3F294753-0270-4249-AEED-E15E7BBCA297}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicIdentityApp.GCommon", "ElectronicIdentityApp.GCommon\ElectronicIdentityApp.GCommon.csproj", "{3F294753-0270-4249-AEED-E15E7BBCA297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C945539A-F502-4D58-B4B6-7183201A58C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C945539A-F502-4D58-B4B6-7183201A58C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C945539A-F502-4D58-B4B6-7183201A58C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C945539A-F502-4D58-B4B6-7183201A58C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93753169-7DD9-4C87-AFA8-613222CE8784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93753169-7DD9-4C87-AFA8-613222CE8784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93753169-7DD9-4C87-AFA8-613222CE8784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93753169-7DD9-4C87-AFA8-613222CE8784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2665D77-5BF0-4E66-A8E2-28162666776D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2665D77-5BF0-4E66-A8E2-28162666776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2665D77-5BF0-4E66-A8E2-28162666776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2665D77-5BF0-4E66-A8E2-28162666776D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F294753-0270-4249-AEED-E15E7BBCA297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F294753-0270-4249-AEED-E15E7BBCA297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F294753-0270-4249-AEED-E15E7BBCA297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F294753-0270-4249-AEED-E15E7BBCA297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAEF57A5-F7EF-44C6-B1C8-4709705D1E7A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C945539A-F502-4D58-B4B6-7183201A58C8} = {999E9738-681C-4BAB-9088-7C43B058E379}
+		{93753169-7DD9-4C87-AFA8-613222CE8784} = {999E9738-681C-4BAB-9088-7C43B058E379}
+		{EE341EC5-D1F3-49A9-86D0-FCB56BB3DF36} = {400E9BD6-520E-4089-A5DA-3853C2B03E21}
+		{F2665D77-5BF0-4E66-A8E2-28162666776D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4491847D-3C21-4C92-8D16-F43C3BFF3951}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|solutionrelative:electronicidentityapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.data\\seeddata\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|solutionrelative:electronicidentityapp.data\\seeddata\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.data\\seeddata\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|solutionrelative:electronicidentityapp.data\\seeddata\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.data\\seeddata\\featurecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|solutionrelative:electronicidentityapp.data\\seeddata\\featurecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93753169-7DD9-4C87-AFA8-613222CE8784}|ElectronicIdentityApp.DataModels\\ElectronicIdentityApp.DataModels.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.datamodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93753169-7DD9-4C87-AFA8-613222CE8784}|ElectronicIdentityApp.DataModels\\ElectronicIdentityApp.DataModels.csproj|solutionrelative:electronicidentityapp.datamodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|c:\\users\\nikia\\source\\repos\\c# web\\asp.net advanced - \u044E\u043D\u0438 2025\\electronicidentityapp\\electronicidentityapp.data\\migrations\\20250818210056_fixedaddressbuildingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945539A-F502-4D58-B4B6-7183201A58C8}|ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj|solutionrelative:electronicidentityapp.data\\migrations\\20250818210056_fixedaddressbuildingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250818210056_FixedAddressBuildingType.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\Migrations\\20250818210056_FixedAddressBuildingType.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.Data\\Migrations\\20250818210056_FixedAddressBuildingType.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\Migrations\\20250818210056_FixedAddressBuildingType.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.Data\\Migrations\\20250818210056_FixedAddressBuildingType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:00:56.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.DataModels\\Address.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.DataModels\\Address.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.DataModels\\Address.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.DataModels\\Address.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:39:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\Feature.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.Data\\SeedData\\Feature.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\Feature.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.Data\\SeedData\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:55:33.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeatureCollection.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\FeatureCollection.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.Data\\SeedData\\FeatureCollection.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\FeatureCollection.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.Data\\SeedData\\FeatureCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:38:14.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\Properties.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.Data\\SeedData\\Properties.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\SeedData\\Properties.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.Data\\SeedData\\Properties.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:36:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ElectronicIdentityApp.Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - \u044E\u043D\u0438 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\DbInitializer.cs",
+              "RelativeToolTip": "ElectronicIdentityApp.Data\\DbInitializer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:32:26.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

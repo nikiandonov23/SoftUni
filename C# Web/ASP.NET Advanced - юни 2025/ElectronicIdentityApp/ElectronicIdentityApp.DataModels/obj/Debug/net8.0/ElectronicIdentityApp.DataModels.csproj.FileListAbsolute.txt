@@ -1,0 +1,15 @@
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\bin\Debug\net8.0\ElectronicIdentityApp.DataModels.deps.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\bin\Debug\net8.0\ElectronicIdentityApp.DataModels.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\bin\Debug\net8.0\ElectronicIdentityApp.DataModels.pdb
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.AssemblyInfo.cs
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.sourcelink.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\refint\ElectronicIdentityApp.DataModels.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.pdb
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ref\ElectronicIdentityApp.DataModels.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\bin\Debug\net8.0\ElectronicIdentityApp.DataModels.runtimeconfig.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.DataModels\obj\Debug\net8.0\ElectronicIdentityApp.DataModels.genruntimeconfig.cache

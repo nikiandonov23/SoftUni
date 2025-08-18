@@ -1,0 +1,15 @@
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\bin\Debug\net8.0\ElectronicIdentityApp.Services.Core.deps.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\bin\Debug\net8.0\ElectronicIdentityApp.Services.Core.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\bin\Debug\net8.0\ElectronicIdentityApp.Services.Core.pdb
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.AssemblyInfo.cs
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.sourcelink.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\refint\ElectronicIdentityApp.Services.Core.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.pdb
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ref\ElectronicIdentityApp.Services.Core.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\bin\Debug\net8.0\ElectronicIdentityApp.Services.Core.runtimeconfig.json
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Services.Core\obj\Debug\net8.0\ElectronicIdentityApp.Services.Core.genruntimeconfig.cache
