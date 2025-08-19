@@ -24,10 +24,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ElectronicIdentityApp.Data\ElectronicIdentityApp.Data.csproj" />
+    <ProjectReference Include="..\ElectronicIdentityApp.Services.Core\ElectronicIdentityApp.Services.Core.csproj" />
     <ProjectReference Include="..\ElectronicIdentityApp.ViewModels\ElectronicIdentityApp.ViewModels.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Views\Document\" />
     <Folder Include="wwwroot\images\types\" />
   </ItemGroup>
 

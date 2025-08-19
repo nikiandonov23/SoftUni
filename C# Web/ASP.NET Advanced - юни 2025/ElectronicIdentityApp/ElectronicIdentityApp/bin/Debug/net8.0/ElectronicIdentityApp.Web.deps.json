@@ -9,6 +9,7 @@
       "ElectronicIdentityApp.Web/1.0.0": {
         "dependencies": {
           "ElectronicIdentityApp.Data": "1.0.0",
+          "ElectronicIdentityApp.Services.Core": "1.0.0",
           "ElectronicIdentityApp.ViewModels": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.18",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.18",
@@ -2214,6 +2215,20 @@
           }
         }
       },
+      "ElectronicIdentityApp.Services.Core/1.0.0": {
+        "dependencies": {
+          "ElectronicIdentityApp.Data": "1.0.0",
+          "ElectronicIdentityApp.ViewModels": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.18",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
+        },
+        "runtime": {
+          "ElectronicIdentityApp.Services.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ElectronicIdentityApp.ViewModels/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.18",
@@ -3463,6 +3478,11 @@
       "sha512": ""
     },
     "ElectronicIdentityApp.GCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElectronicIdentityApp.Services.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

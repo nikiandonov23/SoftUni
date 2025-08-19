@@ -3108,6 +3108,22 @@
           "bin/placeholder/ElectronicIdentityApp.GCommon.dll": {}
         }
       },
+      "ElectronicIdentityApp.Services.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ElectronicIdentityApp.Data": "1.0.0",
+          "ElectronicIdentityApp.ViewModels": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.18",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
+        },
+        "compile": {
+          "bin/placeholder/ElectronicIdentityApp.Services.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElectronicIdentityApp.Services.Core.dll": {}
+        }
+      },
       "ElectronicIdentityApp.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -8420,6 +8436,11 @@
       "path": "../ElectronicIdentityApp.GCommon/ElectronicIdentityApp.GCommon.csproj",
       "msbuildProject": "../ElectronicIdentityApp.GCommon/ElectronicIdentityApp.GCommon.csproj"
     },
+    "ElectronicIdentityApp.Services.Core/1.0.0": {
+      "type": "project",
+      "path": "../ElectronicIdentityApp.Services.Core/ElectronicIdentityApp.Services.Core.csproj",
+      "msbuildProject": "../ElectronicIdentityApp.Services.Core/ElectronicIdentityApp.Services.Core.csproj"
+    },
     "ElectronicIdentityApp.ViewModels/1.0.0": {
       "type": "project",
       "path": "../ElectronicIdentityApp.ViewModels/ElectronicIdentityApp.ViewModels.csproj",
@@ -8429,6 +8450,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ElectronicIdentityApp.Data >= 1.0.0",
+      "ElectronicIdentityApp.Services.Core >= 1.0.0",
       "ElectronicIdentityApp.ViewModels >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.18",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.18",
@@ -8476,6 +8498,9 @@
           "projectReferences": {
             "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj": {
               "projectPath": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Data\\ElectronicIdentityApp.Data.csproj"
+            },
+            "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Services.Core\\ElectronicIdentityApp.Services.Core.csproj": {
+              "projectPath": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.Services.Core\\ElectronicIdentityApp.Services.Core.csproj"
             },
             "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.ViewModels\\ElectronicIdentityApp.ViewModels.csproj": {
               "projectPath": "C:\\Users\\nikia\\source\\repos\\C# Web\\ASP.NET Advanced - юни 2025\\ElectronicIdentityApp\\ElectronicIdentityApp.ViewModels\\ElectronicIdentityApp.ViewModels.csproj"
