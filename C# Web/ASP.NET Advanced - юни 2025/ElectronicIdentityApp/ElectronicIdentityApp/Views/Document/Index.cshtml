@@ -7,13 +7,31 @@
 <div class="container mt-5">
     <h1 class="mb-4 text-center"><span class="text-gradient">My Documents</span></h1>
 
+    @* Бутон за добавяне на документ, видим само за логнати потребители *@
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="text-end mb-4">
+            <a asp-action="Create" class="btn btn-primary btn-lg">
+                <i class="fa-solid fa-folder-plus me-2"></i> Add Document
+            </a>
+        </div>
+    }
+
     <div class="row g-4">
         @foreach (var doc in Model)
         {
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="card shadow-sm h-100 p-3">
-                    <div class="d-flex justify-content-center align-items-center" style="height:150px;">
-                        <i class="fa-solid fa-id-card fa-4x text-primary"></i>
+                    <div class="d-flex justify-content-center align-items-center mb-2" style="height:150px;">
+                        @* Покажи изображение, ако има, иначе иконата *@
+                        @if (!string.IsNullOrEmpty(doc.ImageUrl))
+                        {
+                            <img src="~/@doc.ImageUrl" alt="Document Image" class="img-fluid" style="max-height:150px;" />
+                        }
+                        else
+                        {
+                            <i class="fa-solid fa-id-card fa-4x text-primary"></i>
+                        }
                     </div>
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title text-truncate" title="@($"{doc.FirstName} {doc.MiddleName} {doc.LastName}")">
@@ -21,7 +39,7 @@
                         </h5>
                         <p class="card-text mb-1"><strong>Document No:</strong> @doc.DocumentNumber</p>
                         <p class="card-text mb-1"><strong>Nationality:</strong> @doc.Nationality</p>
-                        <p class="card-text mb-1"><strong>Address:</strong> @doc.Address</p> 
+                        <p class="card-text mb-1"><strong>Address:</strong> @doc.Address</p>
                         <p class="card-text mb-1"><strong>Issued On:</strong> @doc.IssuedOn.ToString("dd MMM yyyy")</p>
                         <p class="card-text mb-1"><strong>Expires On:</strong> @doc.ExpiredOn.ToString("dd MMM yyyy")</p>
                         <p class="card-text"><strong>Valid:</strong> @(doc.IsValid ? "Yes" : "No")</p>
@@ -30,9 +48,13 @@
                             <a asp-action="Details" asp-route-id="@doc.Id" class="btn btn-info flex-fill">
                                 <i class="fa-solid fa-eye me-1"></i> View
                             </a>
-                            <a asp-action="Edit" asp-route-id="@doc.Id" class="btn btn-warning flex-fill">
-                                <i class="fa-solid fa-pen me-1"></i> Edit
-                            </a>
+                            @* Edit бутон, само за логнати потребители *@
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a asp-action="Edit" asp-route-id="@doc.Id" class="btn btn-warning flex-fill">
+                                    <i class="fa-solid fa-pen me-1"></i> Edit
+                                </a>
+                            }
                         </div>
                     </div>
                 </div>
@@ -40,13 +62,11 @@
         }
     </div>
 
+    @* Ако няма документи, показваме съобщение *@
     @if (!Model.Any())
     {
         <div class="text-center mt-5">
-            <p class="lead">No documents found. Click below to add your first document.</p>
-            <a asp-action="Create" class="btn btn-primary btn-lg">
-                <i class="fa-solid fa-folder-plus me-2"></i> Add Document
-            </a>
+            <p class="lead">No documents found. You can add your first document above.</p>
         </div>
     }
 </div>
@@ -58,11 +78,11 @@
         -webkit-text-fill-color: transparent;
     }
 
-    .card i {
+    .card i, .card img {
         transition: transform 0.3s;
     }
 
-    .card:hover i {
+    .card:hover i, .card:hover img {
         transform: scale(1.2);
     }
 

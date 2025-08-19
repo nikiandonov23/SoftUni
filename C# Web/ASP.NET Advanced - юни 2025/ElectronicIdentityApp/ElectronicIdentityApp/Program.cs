@@ -16,6 +16,8 @@ namespace ElectronicIdentityApp.Web
             // Add services to the container.
 
             builder.Services.AddScoped<IDocumentService, DocumentService>();
+            builder.Services.AddScoped<INationalityService, NationalityService>();
+            builder.Services.AddScoped<IAddressService, AddressService>();
 
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
             builder.Services.AddDbContext<ApplicationDbContext>(options =>

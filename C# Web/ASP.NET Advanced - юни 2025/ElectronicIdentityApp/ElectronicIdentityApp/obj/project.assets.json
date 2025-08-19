@@ -3136,7 +3136,10 @@
         },
         "runtime": {
           "bin/placeholder/ElectronicIdentityApp.ViewModels.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },

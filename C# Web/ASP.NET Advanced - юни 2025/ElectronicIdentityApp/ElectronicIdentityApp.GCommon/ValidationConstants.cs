@@ -14,7 +14,7 @@ namespace ElectronicIdentityApp.GCommon
         public const int HouseNumberMaxLength = 10;
 
         public const int HouseNameMinLength = 2;
-        public const int HouseNameMaxLength = 50;
+        public const int HouseNameMaxLength = 200;
 
         public const int PostalCodeLength = 4;
 

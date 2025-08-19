@@ -1,0 +1,119 @@
+﻿@model ElectronicIdentityApp.ViewModels.CreateDocumentViewModel
+
+@{
+    ViewData["Title"] = "Add New Document";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm p-4">
+        <h2 class="mb-4 text-center text-gradient">Add New Document</h2>
+
+        <!-- enctype="multipart/form-data" е задължително за качване на файл -->
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label asp-for="FirstName" class="form-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="MiddleName" class="form-label"></label>
+                    <input asp-for="MiddleName" class="form-control" />
+                    <span asp-validation-for="MiddleName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="LastName" class="form-label"></label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="BirthOn" class="form-label"></label>
+                    <input asp-for="BirthOn" class="form-control" type="date" />
+                    <span asp-validation-for="BirthOn" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="IssuedOn" class="form-label"></label>
+                    <input asp-for="IssuedOn" class="form-control" type="date" />
+                    <span asp-validation-for="IssuedOn" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="ExpiredOn" class="form-label"></label>
+                    <input asp-for="ExpiredOn" class="form-control" type="date" />
+                    <span asp-validation-for="ExpiredOn" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="DocumentNumber" class="form-label"></label>
+                    <input asp-for="DocumentNumber" class="form-control" />
+                    <span asp-validation-for="DocumentNumber" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="NationalityId" class="form-label">Nationality</label>
+                    <select asp-for="NationalityId" class="form-select select2-nationality">
+                        <option value="">Select Nationality</option>
+                        @foreach (var nat in Model.Nationalities)
+                        {
+                            <option value="@nat.Id">@nat.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="NationalityId" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="AddressId" class="form-label">Address</label>
+                    <select asp-for="AddressId" class="form-select select2-address">
+                        <option value="">Select Address</option>
+                        @foreach (var addr in Model.Addresses)
+                        {
+                            <option value="@addr.Id">@addr.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="AddressId" class="text-danger"></span>
+                </div>
+
+                <!-- Ново поле за качване на файл -->
+                <div class="col-md-6">
+                    <label asp-for="DocumentImage" class="form-label">Upload Document Image</label>
+                    <input asp-for="DocumentImage" type="file" class="form-control" />
+                    <span asp-validation-for="DocumentImage" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-primary btn-lg">
+                    <i class="fa-solid fa-folder-plus me-2"></i> Add Document
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <!-- Select2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+    <!-- Select2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('.select2-address').select2({
+                placeholder: "Select Address",
+                allowClear: true
+            });
+
+            $('.select2-nationality').select2({
+                placeholder: "Select Nationality",
+                allowClear: true
+            });
+        });
+    </script>
+}

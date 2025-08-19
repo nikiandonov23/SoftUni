@@ -14,4 +14,7 @@ public class IndexDocumentViewModel
     public DateTime ExpiredOn { get; set; }
     public bool IsValid { get; set; }
 
+    public string? ImageUrl { get; set; }
+
+
 }

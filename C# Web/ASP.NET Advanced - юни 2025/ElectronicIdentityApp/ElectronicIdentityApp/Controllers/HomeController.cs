@@ -1,19 +1,15 @@
 using System.Diagnostics;
 
 using ElectronicIdentityApp.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ElectronicIdentityApp.Web.Controllers
 
 {
+    [AllowAnonymous]
     public class HomeController : BaseController
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
 
         public IActionResult Index()
         {

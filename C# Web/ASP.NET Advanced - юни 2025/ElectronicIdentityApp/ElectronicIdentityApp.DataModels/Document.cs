@@ -61,7 +61,10 @@ namespace ElectronicIdentityApp.DataModels
         public Address Address { get; set; } = null!;
 
 
-        public bool IsValid { get; set; } = false;
+        public bool IsValid { get; set; } = true;
+
+        
+        public string? ImageUrl { get; set; } 
 
     }
 }

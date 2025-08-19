@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ElectronicIdentityApp.Web.Controllers
 {
-    
+    [Authorize]
     public abstract class BaseController : Controller
     {
 
