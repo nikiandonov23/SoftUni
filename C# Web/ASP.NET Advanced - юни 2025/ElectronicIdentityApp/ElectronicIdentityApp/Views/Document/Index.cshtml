@@ -22,11 +22,11 @@
         {
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="card shadow-sm h-100 p-3">
-                    <div class="d-flex justify-content-center align-items-center mb-2" style="height:150px;">
+                    <div class="d-flex justify-content-center align-items-center mb-2" style="height:150px; overflow:hidden;">
                         @* Покажи изображение, ако има, иначе иконата *@
                         @if (!string.IsNullOrEmpty(doc.ImageUrl))
                         {
-                            <img src="~/@doc.ImageUrl" alt="Document Image" class="img-fluid" style="max-height:150px;" />
+                            <img src="/uploads/@doc.ImageUrl" alt="Document Image" class="img-fluid" />
                         }
                         else
                         {
@@ -88,5 +88,12 @@
 
     .card:hover {
         box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+    }
+
+    /* Ограничаване на изображението в рамките на div-а */
+    .card img {
+        max-height: 100%;
+        max-width: 100%;
+        object-fit: contain;
     }
 </style>

@@ -8,11 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="uploads\4c0c953b-c938-4d9a-abb0-92f551a0527b.jpg" />
-    <Content Include="uploads\d81cb35c-076b-4a87-87a6-d36f6470e73d.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.18" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.18" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.18" />
@@ -34,6 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\uploads\" />
     <Folder Include="wwwroot\images\types\" />
   </ItemGroup>
 

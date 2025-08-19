@@ -1,2 +1,4 @@
-C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\4c0c953b-c938-4d9a-abb0-92f551a0527b.jpg
-C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\d81cb35c-076b-4a87-87a6-d36f6470e73d.jpg
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\10c7b03d-bb37-459f-bd1c-69c4d5f533bc.jfif
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\82e9ce10-73b5-408d-a0ea-c4e7a68b7548.jpg
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\8473e888-b1bc-4b0c-b09d-0098e094a374.jpg
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp\wwwroot\uploads\b3ba5195-eb61-416b-980f-f66a71b954fe.jpg

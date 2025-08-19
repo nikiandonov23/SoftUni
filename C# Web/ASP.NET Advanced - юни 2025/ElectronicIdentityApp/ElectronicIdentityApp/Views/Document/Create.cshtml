@@ -77,6 +77,19 @@
                     <span asp-validation-for="AddressId" class="text-danger"></span>
                 </div>
 
+                <!-- Ново поле за Document Type -->
+                <div class="col-md-6">
+                    <label asp-for="DocumentTypeId" class="form-label">Document Type</label>
+                    <select asp-for="DocumentTypeId" class="form-select">
+                        <option value="">Select Document Type</option>
+                        @foreach (var type in Model.DocumentType)
+                        {
+                            <option value="@type.Id">@type.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="DocumentTypeId" class="text-danger"></span>
+                </div>
+
                 <!-- Ново поле за качване на файл -->
                 <div class="col-md-6">
                     <label asp-for="DocumentImage" class="form-label">Upload Document Image</label>

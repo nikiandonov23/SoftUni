@@ -51,7 +51,8 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
         if (inputModel.DocumentImage != null)
         {
 
-            var uploadsFolder = Path.Combine(env.ContentRootPath, "uploads");
+            
+            var uploadsFolder = Path.Combine(env.WebRootPath, "uploads");
             Directory.CreateDirectory(uploadsFolder);
 
             var uniqueFileName = Guid.NewGuid() + Path.GetExtension(inputModel.DocumentImage.FileName);
@@ -63,13 +64,14 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
                 await inputModel.DocumentImage.CopyToAsync(stream);
             }
 
-            imagePath = "/uploads/" + uniqueFileName; // "/" за по-стандартно URL
+            imagePath = uniqueFileName; // само името на файла
         }
 
         var documentToBeCreated = new Document()
         {
             AddressId = inputModel.AddressId,
             NationalityId = inputModel.NationalityId,
+            DocumentTypeId = inputModel.DocumentTypeId,
             BirthOn = inputModel.BirthOn,
             ExpiredOn = inputModel.ExpiredOn,
             IssuedOn = inputModel.IssuedOn,

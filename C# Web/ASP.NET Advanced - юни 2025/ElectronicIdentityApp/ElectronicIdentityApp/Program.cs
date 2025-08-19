@@ -20,6 +20,7 @@ namespace ElectronicIdentityApp.Web
             builder.Services.AddScoped<IDocumentService, DocumentService>();
             builder.Services.AddScoped<INationalityService, NationalityService>();
             builder.Services.AddScoped<IAddressService, AddressService>();
+            builder.Services.AddScoped<IDocumentTypeService, DocumentTypeService>();
 
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -69,12 +70,7 @@ namespace ElectronicIdentityApp.Web
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            app.UseStaticFiles(new StaticFileOptions   // обслужва моя uploads
-            {
-                FileProvider = new PhysicalFileProvider(
-                    Path.Combine(app.Environment.ContentRootPath, "uploads")),
-                RequestPath = "/uploads"
-            });
+         
 
             app.UseRouting();
 

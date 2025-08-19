@@ -18,6 +18,7 @@ namespace ElectronicIdentityApp.Data
         public DbSet<Nationality> Nationalities { get; set; } = null!;
 
         public DbSet<UserAddress> UsersAddresses { get; set; } = null!;
+        public DbSet<DocumentType> DocumentTypes { get; set; } = null!;
     }
 
 }

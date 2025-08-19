@@ -43,5 +43,11 @@ public class CreateDocumentViewModel
         new HashSet<CreateDocumentAddressDropDownViewModel>();
 
 
+    [Required]
+    public int DocumentTypeId { get; set; }
+    public IEnumerable<CreateDocumentTypeDropDownViewModel> DocumentType { get; set; } =
+        new HashSet<CreateDocumentTypeDropDownViewModel>();
+
+
     public IFormFile? DocumentImage { get; set; } // за качване на снимка
 }

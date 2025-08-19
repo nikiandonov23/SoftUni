@@ -9,15 +9,22 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ElectronicIdentityApp.Web.Controllers
 {
-    public class DocumentController(IDocumentService documentService,INationalityService nationalityService,IAddressService addressService) : BaseController
+    public class DocumentController
+        (
+            IDocumentService documentService,
+            INationalityService nationalityService,
+            IAddressService addressService,
+            IDocumentTypeService documentTypeService
+            )
+        : BaseController
     {
-      
+
         public async Task<IActionResult> Index()
         {
             var userId = GetUserId();
 
 
-            var allDocuments=await documentService.GetAllDocumentsAsync(userId);
+            var allDocuments = await documentService.GetAllDocumentsAsync(userId);
             return View(allDocuments);
         }
 
@@ -29,8 +36,10 @@ namespace ElectronicIdentityApp.Web.Controllers
 
             var createModel = new CreateDocumentViewModel()
             {
-               Nationalities = await nationalityService.GetAllNationalitiesForCreateAsync(),
-               Addresses = await addressService.GetAllAddressesForCreateAsync()
+                Nationalities = await nationalityService.GetAllNationalitiesForCreateAsync(),
+                Addresses = await addressService.GetAllAddressesForCreateAsync(),
+                DocumentType = await documentTypeService.GetAllDocumentTypesForCreateAsync()
+                
 
             };
 
@@ -55,7 +64,7 @@ namespace ElectronicIdentityApp.Web.Controllers
             var isItSuccess = await documentService.CreateDocumentAsync(userId, inputModel);
             if (isItSuccess)
             {
-               return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
 
             inputModel.Addresses = await addressService.GetAllAddressesForCreateAsync();
