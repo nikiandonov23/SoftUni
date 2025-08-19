@@ -17,3 +17,5 @@ C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIden
 C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Data\bin\Debug\net8.0\ElectronicIdentityApp.DataModels.pdb
 C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Data\obj\Debug\net8.0\Electron.F79484DB.Up2Date
 C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Data\bin\Debug\net8.0\SeedData\export.geojson
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Data\bin\Debug\net8.0\ElectronicIdentityApp.GCommon.dll
+C:\Users\nikia\source\repos\C# Web\ASP.NET Advanced - юни 2025\ElectronicIdentityApp\ElectronicIdentityApp.Data\bin\Debug\net8.0\ElectronicIdentityApp.GCommon.pdb

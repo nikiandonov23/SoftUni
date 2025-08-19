@@ -2190,12 +2190,25 @@
       },
       "ElectronicIdentityApp.DataModels/1.0.0": {
         "dependencies": {
+          "ElectronicIdentityApp.GCommon": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.18",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18",
           "Microsoft.Extensions.Identity.Stores": "8.0.18"
         },
         "runtime": {
           "ElectronicIdentityApp.DataModels.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ElectronicIdentityApp.GCommon/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.18",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
+        },
+        "runtime": {
+          "ElectronicIdentityApp.GCommon.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -3445,6 +3458,11 @@
       "sha512": ""
     },
     "ElectronicIdentityApp.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElectronicIdentityApp.GCommon/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
