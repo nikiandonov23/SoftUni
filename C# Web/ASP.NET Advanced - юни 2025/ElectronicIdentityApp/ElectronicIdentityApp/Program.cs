@@ -3,6 +3,8 @@ using ElectronicIdentityApp.Services.Core;
 using ElectronicIdentityApp.Services.Core.Contracts;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
+
 namespace ElectronicIdentityApp.Web
 {
     public class Program
@@ -66,6 +68,13 @@ namespace ElectronicIdentityApp.Web
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseStaticFiles(new StaticFileOptions   // обслужва моя uploads
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(app.Environment.ContentRootPath, "uploads")),
+                RequestPath = "/uploads"
+            });
 
             app.UseRouting();
 

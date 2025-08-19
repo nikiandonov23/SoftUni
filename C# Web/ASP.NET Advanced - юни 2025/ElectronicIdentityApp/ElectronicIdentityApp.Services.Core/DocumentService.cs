@@ -38,12 +38,6 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
 
     public async Task<bool> CreateDocumentAsync(string userId, CreateDocumentViewModel inputModel)
     {
-
-
-
-
-
-
         bool isUserIdValid = await documentService.Users
             .AnyAsync(x => x.Id == userId);
         if (!isUserIdValid)
@@ -51,26 +45,26 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
             return false;
         }
 
-
-        //Логика за добавяне на изображение
+        // Логика за добавяне на изображение
         string? imagePath = null;
 
         if (inputModel.DocumentImage != null)
         {
-            var uploadsFolder = Path.Combine(env.WebRootPath, "uploads");
+
+            var uploadsFolder = Path.Combine(env.ContentRootPath, "uploads");
             Directory.CreateDirectory(uploadsFolder);
 
             var uniqueFileName = Guid.NewGuid() + Path.GetExtension(inputModel.DocumentImage.FileName);
             var filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
-            using (var stream = new FileStream(filePath, FileMode.Create))
+            // Промяна: използваме await using за безопасно асинхронно затваряне на потока
+            await using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await inputModel.DocumentImage.CopyToAsync(stream);
             }
 
-            imagePath = "uploads/" + uniqueFileName;
+            imagePath = "/uploads/" + uniqueFileName; // "/" за по-стандартно URL
         }
-
 
         var documentToBeCreated = new Document()
         {
@@ -86,10 +80,11 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
             OwnerId = userId,
             IsValid = true,
             ImageUrl = imagePath
-
         };
+
         await documentService.AddAsync(documentToBeCreated);
         await documentService.SaveChangesAsync();
         return true;
     }
+
 }
