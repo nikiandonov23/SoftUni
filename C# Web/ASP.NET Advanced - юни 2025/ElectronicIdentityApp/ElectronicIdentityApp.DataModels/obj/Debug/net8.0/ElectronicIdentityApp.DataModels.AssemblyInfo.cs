@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElectronicIdentityApp.DataModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55fc45ed6b7d2e3b0b59f0dd6fc5fdf18631cb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+989052d1b6e035433cabae510a071d6b63fc92ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElectronicIdentityApp.DataModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElectronicIdentityApp.DataModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

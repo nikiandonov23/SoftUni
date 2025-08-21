@@ -39,4 +39,13 @@ public class CreateAddressViewModel
 
     
     public bool IsCurrent { get; set; } = false;
+
+
+    [DataType(DataType.Date)]
+    public DateTime? MovedIn { get; set; }
+
+
+    [DataType(DataType.Date)]
+    public DateTime? MovedOut { get; set; }
+
 }

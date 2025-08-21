@@ -4,6 +4,7 @@ using ElectronicIdentityApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ElectronicIdentityApp.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250821151936_MovedInMovedOut")]
+    partial class MovedInMovedOut
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -175,10 +178,10 @@ namespace ElectronicIdentityApp.Data.Migrations
                     b.Property<int>("AddressId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("MovedIn")
+                    b.Property<DateTime>("MovedId")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime?>("MovedOut")
+                    b.Property<DateTime>("MovedOut")
                         .HasColumnType("datetime2");
 
                     b.HasKey("UserId", "AddressId");

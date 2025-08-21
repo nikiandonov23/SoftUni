@@ -54,9 +54,23 @@
                 <!-- IsCurrent Checkbox -->
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="form-check mt-3">
-                        <input asp-for="IsCurrent" class="form-check-input" />
+                        <input asp-for="IsCurrent" class="form-check-input" id="IsCurrent" />
                         <label asp-for="IsCurrent" class="form-check-label">Is Current Address</label>
                     </div>
+                </div>
+
+                <!-- Moved In Date -->
+                <div class="col-md-6">
+                    <label class="form-label">Moved In</label>
+                    <input asp-for="MovedIn" type="date" class="form-control" id="MovedIn" />
+                    <span asp-validation-for="MovedIn" class="text-danger"></span>
+                </div>
+
+                <!-- Moved Out Date -->
+                <div class="col-md-6">
+                    <label class="form-label">Moved Out</label>
+                    <input asp-for="MovedOut" type="date" class="form-control" id="MovedOut" />
+                    <span asp-validation-for="MovedOut" class="text-danger"></span>
                 </div>
 
             </div>
@@ -82,6 +96,25 @@
     <script>
         $(document).ready(function () {
             $('.select2').select2({ placeholder: "Select an option", allowClear: true, width: '100%' });
+
+            function toggleMovedFields() {
+                  if ($('#IsCurrent').is(':checked'))
+                {
+                      $('#MovedOut').prop('disabled', true);   // блокира само MovedOut
+                      $('#MovedIn').prop('disabled', false);   // MovedIn остава активно
+                }
+                else
+                {
+                      $('#MovedOut').prop('disabled', false);  // и двата полета активни
+                      $('#MovedIn').prop('disabled', false);
+                }
+            }
+
+            toggleMovedFields();
+
+            $('#IsCurrent').change(function () {
+                toggleMovedFields();
+            });
 
             // City -> Street
             $('#CityId').on('change', function () {

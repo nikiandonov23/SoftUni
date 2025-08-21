@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ElectronicIdentityApp.DataModels;
 
 
-[PrimaryKey(nameof(UserId),nameof(AddressId))]
+[PrimaryKey(nameof(UserId), nameof(AddressId))]
 public class UserAddress
 {
 
@@ -19,4 +19,10 @@ public class UserAddress
     [ForeignKey(nameof(Address))]
     public int AddressId { get; set; }
     public Address Address { get; set; } = null!;
+
+
+    public DateTime MovedIn { get; set; }
+    public DateTime? MovedOut { get; set; }
+
+    public bool IsCurrent = false;
 }
