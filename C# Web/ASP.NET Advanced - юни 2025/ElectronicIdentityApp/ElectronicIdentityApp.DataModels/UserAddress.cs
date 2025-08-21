@@ -24,5 +24,6 @@ public class UserAddress
     public DateTime MovedIn { get; set; }
     public DateTime? MovedOut { get; set; }
 
-    public bool IsCurrent = false;
+    public bool IsCurrent { get; set; } = false;
+
 }

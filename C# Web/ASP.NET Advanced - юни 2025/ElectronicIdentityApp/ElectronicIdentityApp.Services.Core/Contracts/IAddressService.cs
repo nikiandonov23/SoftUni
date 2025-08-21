@@ -35,8 +35,15 @@ public interface IAddressService
     //GetAll Numbers in the Street
     Task<IEnumerable<HouseNumbersDropDownViewModel>> GetAllNumbersInStreetAsync(string streetName,string cityName);
 
+    //GetAll HouseNames in this city that street on that number
+    Task<IEnumerable<HouseNameDropDownViewModel>> GetAllHouseNamesAsync(string cityName, string streetName, string streetNumber);
+
+
     //GetAll Postcodes in the City
     Task<IEnumerable<PostCodeDropDownViewModel>> GetAllPostcodesInCityStreetNumberAsync(string cityName,string streetName,string streetNumber);
+
+    //Create /Add ;
+    public Task<bool> CreateAddressAsync(string userId, CreateAddressViewModel inputModel);
 
 
 

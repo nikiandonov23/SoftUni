@@ -26,20 +26,15 @@ public class Address
     [MaxLength(HouseNameMaxLength)]
     public string? HouseName { get; set; }
 
-
+    [Required]
     [MinLength(PostalCodeLength)]
     [MaxLength(PostalCodeLength)]
-    public string? PostalCode { get; set; }
+    public string PostalCode { get; set; }=null!;
 
 
     [MinLength(BuildingTypeMinLength)]
     [MaxLength(BuildingTypeMaxLength)]
     public string? BuildingType { get; set; }
-
-    public bool IsCurrent { get; set; }=false;
-
-
-
 
 
 }

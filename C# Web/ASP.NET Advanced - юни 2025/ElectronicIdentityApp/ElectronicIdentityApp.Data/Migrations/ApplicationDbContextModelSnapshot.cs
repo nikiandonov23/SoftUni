@@ -44,13 +44,11 @@ namespace ElectronicIdentityApp.Data.Migrations
                         .HasColumnType("nvarchar(200)");
 
                     b.Property<string>("HouseNumber")
-                        .HasMaxLength(10)
-                        .HasColumnType("nvarchar(10)");
-
-                    b.Property<bool>("IsCurrent")
-                        .HasColumnType("bit");
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
 
                     b.Property<string>("PostalCode")
+                        .IsRequired()
                         .HasMaxLength(4)
                         .HasColumnType("nvarchar(4)");
 
@@ -174,6 +172,9 @@ namespace ElectronicIdentityApp.Data.Migrations
 
                     b.Property<int>("AddressId")
                         .HasColumnType("int");
+
+                    b.Property<bool>("IsCurrent")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("MovedIn")
                         .HasColumnType("datetime2");

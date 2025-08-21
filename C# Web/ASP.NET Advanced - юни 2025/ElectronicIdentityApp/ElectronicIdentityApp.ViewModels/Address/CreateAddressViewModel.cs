@@ -23,11 +23,10 @@ public class CreateAddressViewModel
         new HashSet<HouseNumbersDropDownViewModel>();
 
 
-    public int HouseNameId { get; set; }
-    public IEnumerable<HouseNameDropDownViewModel> HouseName { get; set; } =
-        new HashSet<HouseNameDropDownViewModel>();
 
-
+    public int? HouseNameId { get; set; }
+    public IEnumerable<HouseNameDropDownViewModel> HouseNames { get; set; } =
+        new List<HouseNameDropDownViewModel>();
 
 
 
@@ -36,13 +35,14 @@ public class CreateAddressViewModel
         new HashSet<PostCodeDropDownViewModel>();
 
 
-
     
     public bool IsCurrent { get; set; } = false;
 
 
+    [Required(ErrorMessage = "Moved In date is required.")]
     [DataType(DataType.Date)]
     public DateTime? MovedIn { get; set; }
+    
 
 
     [DataType(DataType.Date)]

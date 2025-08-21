@@ -1,6 +1,7 @@
-﻿using ElectronicIdentityApp.DataModels;
+﻿using ElectronicIdentityApp.Data.SeedData;
+using ElectronicIdentityApp.DataModels;
 using System.Text.Json;
-using ElectronicIdentityApp.Data.SeedData;
+using System.Text.RegularExpressions;
 
 namespace ElectronicIdentityApp.Data;
 
@@ -32,27 +33,42 @@ public static class DbInitializer
 
         int addedCount = 0;
 
+
+        var cyrillicRegex = new Regex(@"[\u0400-\u04FF]");
+
+
         foreach (var feature in data.Features)
         {
-          
-            
-            // Проверяваме задължителните полета City и Street
+
             if (string.IsNullOrWhiteSpace(feature.Properties.City))
             {
-                // Измишлотини прааа щото ми е тъп json файла ! 
-                feature.Properties.City = "Русе";
-            }
-
-            if (string.IsNullOrWhiteSpace(feature.Properties.PostalCode) && feature.Properties.City=="Русе")
-            {
-                // Измишлотини прааа щото ми е тъп json файла ! 
-                feature.Properties.PostalCode = "7000";
-            }
-            if ( string.IsNullOrWhiteSpace(feature.Properties.Street))
-            {
-                Console.WriteLine("Skipping feature with missing required fields (City or Street).");
+                Console.WriteLine("Skipping feature with missing required fields (City).");
                 continue;
             }
+
+            if (string.IsNullOrWhiteSpace(feature.Properties.PostalCode))
+            {
+                Console.WriteLine("Skipping feature with missing required fields (PostalCode).");
+                continue;
+            }
+
+
+
+            if ( string.IsNullOrWhiteSpace(feature.Properties.Street))
+            {
+                Console.WriteLine("Skipping feature with missing required fields (Street).");
+                continue;
+            }
+
+
+            // проверка: City и Street трябва да съдържат поне една кирилска буква
+            if (!cyrillicRegex.IsMatch(feature.Properties.City) ||
+                !cyrillicRegex.IsMatch(feature.Properties.Street))
+            {
+                Console.WriteLine($"Skipping non-Cyrillic address: {feature.Properties.City}, {feature.Properties.Street}");
+                continue;
+            }
+
 
             context.Addresses.Add(new Address
             {

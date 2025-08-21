@@ -53,7 +53,7 @@ namespace ElectronicIdentityApp.Web.Controllers
         {
             var userId = GetUserId();
 
-            if (!ModelState.IsValid)
+            if (!ModelState.IsValid || userId==null)
             {
 
                 inputModel.Addresses = await addressService.GetAllAddressesForCreateAsync();

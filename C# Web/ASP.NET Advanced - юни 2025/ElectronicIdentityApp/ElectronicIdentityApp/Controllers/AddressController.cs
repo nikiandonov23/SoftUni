@@ -56,6 +56,17 @@ namespace ElectronicIdentityApp.Web.Controllers
             return Json(numbers);
         }
 
+
+        // AJAX: Get HouseNames by City Street Number
+
+        [HttpGet]
+        public async Task<IActionResult> GetHouseNames(string cityName, string streetName, string streetNumber)
+        {
+            var result = await addressService.GetAllHouseNamesAsync(cityName, streetName, streetNumber);
+            return Json(result);
+        }
+
+
         // AJAX: Get Postcodes by City
         [HttpGet]
         public async Task<IActionResult> GetPostCodesByCity(string cityName, string streetName,string streetNumber)
@@ -67,19 +78,25 @@ namespace ElectronicIdentityApp.Web.Controllers
 
 
 
-
         [HttpPost]
-        public async Task<IActionResult> Create(CreateDocumentViewModel inputModel)
+        public async Task<IActionResult> Create(CreateAddressViewModel inputModel)
         {
             var userId = GetUserId();
 
-            if (!ModelState.IsValid)
+            if (!ModelState.IsValid || userId==null)
             {
 
-               
+                return View(inputModel);
             }
 
-            return View();
+            var isItSuccess = await addressService.CreateAddressAsync(userId, inputModel);
+            if (isItSuccess)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+
+            return View(inputModel);
         }
     }
 }

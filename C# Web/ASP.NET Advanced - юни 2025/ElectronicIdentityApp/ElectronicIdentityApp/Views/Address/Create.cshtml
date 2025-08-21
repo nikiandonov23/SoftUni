@@ -42,6 +42,15 @@
                     <span asp-validation-for="HouseNumberId" class="text-danger"></span>
                 </div>
 
+                <!-- House Name Dropdown -->
+                <div class="col-md-6">
+                    <label class="form-label">House Name</label>
+                    <select asp-for="HouseNameId" id="HouseNameId" class="form-select select2">
+                        <option value="">Select House Name</option>
+                    </select>
+                    <span asp-validation-for="HouseNameId" class="text-danger"></span>
+                </div>
+
                 <!-- Postal Code Dropdown -->
                 <div class="col-md-6">
                     <label class="form-label">Postal Code</label>
@@ -98,23 +107,17 @@
             $('.select2').select2({ placeholder: "Select an option", allowClear: true, width: '100%' });
 
             function toggleMovedFields() {
-                  if ($('#IsCurrent').is(':checked'))
-                {
-                      $('#MovedOut').prop('disabled', true);   // блокира само MovedOut
-                      $('#MovedIn').prop('disabled', false);   // MovedIn остава активно
-                }
-                else
-                {
-                      $('#MovedOut').prop('disabled', false);  // и двата полета активни
-                      $('#MovedIn').prop('disabled', false);
+                if ($('#IsCurrent').is(':checked')) {
+                    $('#MovedOut').prop('disabled', true);
+                    $('#MovedIn').prop('disabled', false);
+                } else {
+                    $('#MovedOut').prop('disabled', false);
+                    $('#MovedIn').prop('disabled', false);
                 }
             }
 
             toggleMovedFields();
-
-            $('#IsCurrent').change(function () {
-                toggleMovedFields();
-            });
+            $('#IsCurrent').change(toggleMovedFields);
 
             // City -> Street
             $('#CityId').on('change', function () {
@@ -134,12 +137,9 @@
                         }
                     });
                 } else {
-                    $('#StreetId, #HouseNumberId, #PostCodeId')
-                        .empty().append('<option value="">Select option</option>');
+                    $('#StreetId, #HouseNumberId, #HouseNameId, #PostCodeId').empty().append('<option value="">Select option</option>');
                 }
-
-                $('#HouseNumberId').empty().append('<option value="">Select House Number</option>');
-                $('#PostCodeId').empty().append('<option value="">Select Postal Code</option>');
+                $('#HouseNumberId, #HouseNameId, #PostCodeId').empty().append('<option value="">Select option</option>');
             });
 
             // Street -> House Number
@@ -161,17 +161,41 @@
                         }
                     });
                 } else {
-                    $('#HouseNumberId').empty().append('<option value="">Select House Number</option>');
+                    $('#HouseNumberId, #HouseNameId, #PostCodeId').empty().append('<option value="">Select option</option>');
                 }
-                $('#PostCodeId').empty().append('<option value="">Select Postal Code</option>');
+                $('#HouseNameId, #PostCodeId').empty().append('<option value="">Select option</option>');
             });
 
-            // House Number -> Postal Code
+            // House Number -> House Name
             $('#HouseNumberId').on('change', function () {
                 var streetNumber = $("#HouseNumberId option:selected").text();
                 var streetName = $("#StreetId option:selected").text();
                 var cityName = $("#CityId option:selected").text();
+                if (streetNumber && streetName && cityName) {
+                    $.ajax({
+                        url: '@Url.Action("GetHouseNames")',
+                        type: 'GET',
+                        data: { cityName: cityName, streetName: streetName, streetNumber: streetNumber },
+                        success: function (data) {
+                            var $houseNameDropdown = $('#HouseNameId');
+                            $houseNameDropdown.empty().append('<option value="">Select House Name</option>');
+                            $.each(data, function (i, hn) {
+                                $houseNameDropdown.append('<option value="' + hn.id + '">' + hn.name + '</option>');
+                            });
+                            $houseNameDropdown.trigger('change');
+                        }
+                    });
+                } else {
+                    $('#HouseNameId').empty().append('<option value="">Select House Name</option>');
+                }
+                $('#PostCodeId').empty().append('<option value="">Select Postal Code</option>');
+            });
 
+            // House Name -> Postal Code
+            $('#HouseNameId').on('change', function () {
+                var streetNumber = $("#HouseNumberId option:selected").text();
+                var streetName = $("#StreetId option:selected").text();
+                var cityName = $("#CityId option:selected").text();
                 if (streetNumber && streetName && cityName) {
                     $.ajax({
                         url: '@Url.Action("GetPostCodesByCity")',
@@ -183,7 +207,6 @@
                             $.each(data, function (i, pc) {
                                 $postDropdown.append('<option value="' + pc.id + '">' + pc.name + '</option>');
                             });
-                            $postDropdown.trigger('change');
                         }
                     });
                 } else {

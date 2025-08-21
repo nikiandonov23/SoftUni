@@ -34,6 +34,11 @@
                 <p class="card-text mb-1"><strong>House Name:</strong> @currentAddress.HouseName</p>
                 <p class="card-text mb-1"><strong>Postal Code:</strong> @currentAddress.PostalCode</p>
                 <p class="card-text"><strong>Building Type:</strong> @currentAddress.BuildingType</p>
+                <p class="card-text mb-1"><strong>Moved In:</strong> @currentAddress.MovedIn.ToString("yyyy-MM-dd")</p>
+                <p class="card-text mb-1">
+                    <strong>Moved Out:</strong> @(currentAddress.MovedOut.HasValue ? currentAddress.MovedOut.Value.ToString("yyyy-MM-dd") : "N/A")
+                </p>
+
 
                 <div class="d-flex gap-2 mt-3">
                     <a asp-action="Edit" asp-route-id="@currentAddress.Id" class="btn btn-warning">
@@ -64,6 +69,10 @@
                             <p class="card-text mb-1"><strong>House Name:</strong> @addr.HouseName</p>
                             <p class="card-text mb-1"><strong>Postal Code:</strong> @addr.PostalCode</p>
                             <p class="card-text"><strong>Building Type:</strong> @addr.BuildingType</p>
+                            <p class="card-text mb-1"><strong>Moved In:</strong> @addr.MovedIn.ToString("yyyy-MM-dd")</p>
+                            <p class="card-text mb-1">
+                                <strong>Moved Out:</strong> @(addr.MovedOut.HasValue ? addr.MovedOut.Value.ToString("yyyy-MM-dd") : "N/A")
+                            </p>
 
                             <div class="mt-auto d-flex gap-2">
                                 <a asp-action="Details" asp-route-id="@addr.Id" class="btn btn-info flex-fill">

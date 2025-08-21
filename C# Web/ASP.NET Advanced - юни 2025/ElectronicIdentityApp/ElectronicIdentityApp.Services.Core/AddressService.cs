@@ -1,4 +1,5 @@
 ﻿using ElectronicIdentityApp.Data;
+using ElectronicIdentityApp.DataModels;
 using ElectronicIdentityApp.Services.Core.Contracts;
 using ElectronicIdentityApp.ViewModels.Address;
 using ElectronicIdentityApp.ViewModels.Address.Dropdowns;
@@ -35,8 +36,10 @@ public class AddressService(ApplicationDbContext context) : IAddressService
                 HouseNumber = x.Address.HouseNumber,
                 BuildingType = x.Address.BuildingType,
                 HouseName = x.Address.HouseName,
-                IsCurrent = x.Address.IsCurrent,
-                PostalCode = x.Address.PostalCode
+                PostalCode = x.Address.PostalCode,
+                IsCurrent = x.IsCurrent,
+                MovedIn = x.MovedIn,
+                MovedOut = x.MovedOut
 
 
             }).ToListAsync();
@@ -108,6 +111,26 @@ public class AddressService(ApplicationDbContext context) : IAddressService
 
     }
 
+    public async Task<IEnumerable<HouseNameDropDownViewModel>> GetAllHouseNamesAsync(string cityName, string streetName, string streetNumber)
+    {
+        if (string.IsNullOrEmpty(cityName) || string.IsNullOrEmpty(streetName) || string.IsNullOrEmpty(streetNumber))
+        {
+            return new List<HouseNameDropDownViewModel>();
+        }
+
+        var houseNames = await context.Addresses
+            .Where(x => x.City == cityName && x.Street == streetName && x.HouseNumber == streetNumber)
+            .GroupBy(x => x.HouseName)
+            .Select(g => new HouseNameDropDownViewModel
+            {
+                Id = g.First().Id,
+                Name = string.IsNullOrEmpty(g.Key) ? "N/A" : g.Key
+            })
+            .ToListAsync();
+
+        return houseNames;
+    }
+
     public async Task<IEnumerable<PostCodeDropDownViewModel>> GetAllPostcodesInCityStreetNumberAsync(string cityName, string streetName,string streetNumber)
     {
         if (string.IsNullOrEmpty(cityName) || string.IsNullOrEmpty(streetName) || string.IsNullOrEmpty(streetNumber))
@@ -121,10 +144,70 @@ public class AddressService(ApplicationDbContext context) : IAddressService
             .Select(g => new PostCodeDropDownViewModel
             {
                 Id = g.First().Id,
-                Name = g.Key ?? "N/A"
+                Name = g.Key 
             })
             .ToListAsync();
 
         return postcodes;
+    }
+
+    public async Task<bool> CreateAddressAsync(string userId, CreateAddressViewModel inputModel)
+    {
+
+
+        var cityName = await context.Addresses
+            .Where(a => a.Id == inputModel.CityId)
+            .Select(a => a.City)
+            .FirstOrDefaultAsync();
+
+        var streetName = await context.Addresses
+            .Where(a => a.Id == inputModel.StreetId)
+            .Select(a => a.Street)
+            .FirstOrDefaultAsync();
+
+        var houseNumber = await context.Addresses
+            .Where(a => a.Id == inputModel.HouseNumberId)
+            .Select(a => a.HouseNumber)
+            .FirstOrDefaultAsync();
+
+        var postCode = await context.Addresses
+            .Where(a => a.Id == inputModel.PostCodeId)
+            .Select(a => a.PostalCode)
+            .FirstOrDefaultAsync();
+
+
+        // Ако липсва нещо от задължителните му връщам фалс
+        if (string.IsNullOrEmpty(cityName) || string.IsNullOrEmpty(streetName))
+            return false;
+
+    
+        var address = await context.Addresses
+            .FirstOrDefaultAsync(a =>
+                a.City == cityName &&
+                a.Street == streetName &&
+                (houseNumber == null || a.HouseNumber == houseNumber) &&
+                (postCode == null || a.PostalCode == postCode)
+            );
+
+        if (address == null)
+        {
+            
+            return false;
+        }
+
+       
+        var userAddress = new UserAddress()
+        {
+            UserId = userId,
+            AddressId = address.Id,
+            MovedIn = inputModel.MovedIn.Value,  
+            MovedOut = inputModel.MovedOut, 
+            IsCurrent = inputModel.IsCurrent
+        };
+
+        await context.AddAsync(userAddress);
+        await context.SaveChangesAsync();
+
+        return true;
     }
 }

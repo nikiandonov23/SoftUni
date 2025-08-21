@@ -9,5 +9,9 @@ public class IndexAddressViewModel
     public string? HouseName { get; set; }
     public string? PostalCode { get; set; }
     public string? BuildingType { get; set; }
+
     public bool IsCurrent { get; set; }
+
+    public DateTime MovedIn { get; set; }
+    public DateTime? MovedOut { get; set; }
 }
