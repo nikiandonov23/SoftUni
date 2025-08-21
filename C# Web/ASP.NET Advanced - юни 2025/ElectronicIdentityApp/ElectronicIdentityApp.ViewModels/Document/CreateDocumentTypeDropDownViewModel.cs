@@ -1,4 +1,4 @@
-﻿namespace ElectronicIdentityApp.ViewModels;
+﻿namespace ElectronicIdentityApp.ViewModels.Document;
 
 public class CreateDocumentTypeDropDownViewModel
 {

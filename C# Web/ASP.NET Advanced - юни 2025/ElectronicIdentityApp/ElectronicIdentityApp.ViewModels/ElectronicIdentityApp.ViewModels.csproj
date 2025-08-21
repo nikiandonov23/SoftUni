@@ -23,4 +23,8 @@
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ElectronicIdentityApp.GCommon\ElectronicIdentityApp.GCommon.csproj" />
+  </ItemGroup>
+
 </Project>

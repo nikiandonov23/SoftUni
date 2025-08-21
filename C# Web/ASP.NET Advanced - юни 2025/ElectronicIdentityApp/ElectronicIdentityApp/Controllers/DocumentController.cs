@@ -1,6 +1,6 @@
 ﻿using ElectronicIdentityApp.Services.Core;
 using ElectronicIdentityApp.Services.Core.Contracts;
-using ElectronicIdentityApp.ViewModels;
+using ElectronicIdentityApp.ViewModels.Document;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

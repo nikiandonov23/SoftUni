@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElectronicIdentityApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc40a050fbbaa5a38e6b47a076e4f1975ba0b65b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55fc45ed6b7d2e3b0b59f0dd6fc5fdf18631cb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElectronicIdentityApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElectronicIdentityApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

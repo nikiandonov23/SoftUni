@@ -1,4 +1,4 @@
-﻿@model ElectronicIdentityApp.ViewModels.CreateDocumentViewModel
+﻿@model ElectronicIdentityApp.ViewModels.Document.CreateDocumentViewModel
 
 @{
     ViewData["Title"] = "Add New Document";
@@ -98,11 +98,16 @@
                 </div>
             </div>
 
-            <div class="text-center mt-4">
+            <div class="text-center mt-4 d-flex justify-content-center gap-3">
                 <button type="submit" class="btn btn-primary btn-lg">
                     <i class="fa-solid fa-folder-plus me-2"></i> Add Document
                 </button>
+
+                <a asp-action="Index" class="btn btn-secondary btn-lg">
+                    <i class="fa-solid fa-arrow-left me-2"></i> Back to Documents
+                </a>
             </div>
+
         </form>
     </div>
 </div>

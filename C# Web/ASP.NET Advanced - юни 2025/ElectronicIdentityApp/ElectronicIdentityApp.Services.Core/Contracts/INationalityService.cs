@@ -1,4 +1,4 @@
-﻿using ElectronicIdentityApp.ViewModels;
+﻿using ElectronicIdentityApp.ViewModels.Document;
 
 namespace ElectronicIdentityApp.Services.Core.Contracts;
 

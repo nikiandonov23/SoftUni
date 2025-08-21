@@ -1000,6 +1000,7 @@
       },
       "ElectronicIdentityApp.ViewModels/1.0.0": {
         "dependencies": {
+          "ElectronicIdentityApp.GCommon": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.18",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
         },

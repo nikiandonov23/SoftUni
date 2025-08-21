@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 
 
-namespace ElectronicIdentityApp.ViewModels;
+namespace ElectronicIdentityApp.ViewModels.Document;
 
 public class CreateDocumentViewModel
 {
@@ -14,15 +14,15 @@ public class CreateDocumentViewModel
 
     [Required]
     [DataType(DataType.Date)]
-    public DateTime BirthOn { get; set; }
+    public DateTime? BirthOn { get; set; }
 
     [Required]
     [DataType(DataType.Date)]
-    public DateTime IssuedOn { get; set; }
+    public DateTime? IssuedOn { get; set; }
 
     [Required]
     [DataType(DataType.Date)]
-    public DateTime ExpiredOn { get; set; }
+    public DateTime? ExpiredOn { get; set; }
 
     [Required]
     [RegularExpression(@"^[A-Z]{1,2}\d{6,7}$",

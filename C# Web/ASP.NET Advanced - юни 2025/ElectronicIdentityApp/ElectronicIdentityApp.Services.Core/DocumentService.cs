@@ -1,7 +1,7 @@
 ﻿using ElectronicIdentityApp.Data;
 using ElectronicIdentityApp.DataModels;
 using ElectronicIdentityApp.Services.Core.Contracts;
-using ElectronicIdentityApp.ViewModels;
+using ElectronicIdentityApp.ViewModels.Document;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 
@@ -72,9 +72,9 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
             AddressId = inputModel.AddressId,
             NationalityId = inputModel.NationalityId,
             DocumentTypeId = inputModel.DocumentTypeId,
-            BirthOn = inputModel.BirthOn,
-            ExpiredOn = inputModel.ExpiredOn,
-            IssuedOn = inputModel.IssuedOn,
+            BirthOn = inputModel.BirthOn!.Value,  //Няма как да е нулл щото в CreateModel-a е [Required]
+            ExpiredOn = inputModel.ExpiredOn!.Value, //Няма как да е нулл щото в CreateModel-a е [Required]
+            IssuedOn = inputModel.IssuedOn!.Value, //Няма как да е нулл щото в CreateModel-a е [Required]
             DocumentNumber = inputModel.DocumentNumber,
             FirstName = inputModel.FirstName,
             MiddleName = inputModel.MiddleName,

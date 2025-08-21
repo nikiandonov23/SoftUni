@@ -1,0 +1,106 @@
+﻿
+@using ElectronicIdentityApp.ViewModels.Address
+@model IEnumerable<IndexAddressViewModel>
+
+@{
+    ViewData["Title"] = "My Addresses";
+
+    var currentAddress = Model.FirstOrDefault(a => a.IsCurrent);
+    var history = Model.Where(a => !a.IsCurrent).ToList();
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4 text-center"><span class="text-gradient">My Addresses</span></h1>
+
+    @* Бутон за добавяне на адрес, видим само за логнати потребители *@
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="text-end mb-4">
+            <a asp-controller="Address" asp-action="Create" class="btn btn-primary btn-lg">
+                <i class="fa-solid fa-location-plus me-2"></i> Add Address
+            </a>
+        </div>
+    }
+
+    @* Current Address *@
+    <div class="mb-5">
+        <h3 class="text-primary mb-3"><i class="fa-solid fa-location-dot me-2"></i> Current Address</h3>
+
+        @if (currentAddress != null)
+        {
+            <div class="card shadow-sm p-3">
+                <h5 class="card-title">@currentAddress.City, @currentAddress.Street</h5>
+                <p class="card-text mb-1"><strong>House No:</strong> @currentAddress.HouseNumber</p>
+                <p class="card-text mb-1"><strong>House Name:</strong> @currentAddress.HouseName</p>
+                <p class="card-text mb-1"><strong>Postal Code:</strong> @currentAddress.PostalCode</p>
+                <p class="card-text"><strong>Building Type:</strong> @currentAddress.BuildingType</p>
+
+                <div class="d-flex gap-2 mt-3">
+                    <a asp-action="Edit" asp-route-id="@currentAddress.Id" class="btn btn-warning">
+                        <i class="fa-solid fa-pen me-1"></i> Edit
+                    </a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">No current address set.</p>
+        }
+    </div>
+
+    @* Address History *@
+    <div>
+        <h3 class="text-secondary mb-3"><i class="fa-solid fa-clock-rotate-left me-2"></i> Address History</h3>
+
+        @if (history.Any())
+        {
+            <div class="row g-4">
+                @foreach (var addr in history)
+                {
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="card shadow-sm h-100 p-3">
+                            <h5 class="card-title">@addr.City, @addr.Street</h5>
+                            <p class="card-text mb-1"><strong>House No:</strong> @addr.HouseNumber</p>
+                            <p class="card-text mb-1"><strong>House Name:</strong> @addr.HouseName</p>
+                            <p class="card-text mb-1"><strong>Postal Code:</strong> @addr.PostalCode</p>
+                            <p class="card-text"><strong>Building Type:</strong> @addr.BuildingType</p>
+
+                            <div class="mt-auto d-flex gap-2">
+                                <a asp-action="Details" asp-route-id="@addr.Id" class="btn btn-info flex-fill">
+                                    <i class="fa-solid fa-eye me-1"></i> View
+                                </a>
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a asp-action="Edit" asp-route-id="@addr.Id" class="btn btn-warning flex-fill">
+                                        <i class="fa-solid fa-pen me-1"></i> Edit
+                                    </a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">No address history found.</p>
+        }
+    </div>
+</div>
+
+<style>
+    .text-gradient {
+        background: linear-gradient(90deg, #6a11cb, #2575fc);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .card {
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+        }
+</style>
