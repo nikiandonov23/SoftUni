@@ -1,9 +1,10 @@
-﻿using ElectronicIdentityApp.Data;
+﻿using System.Diagnostics.Eventing.Reader;
+using ElectronicIdentityApp.Data;
 using ElectronicIdentityApp.DataModels;
 using ElectronicIdentityApp.Services.Core.Contracts;
 using ElectronicIdentityApp.ViewModels.Address;
 using ElectronicIdentityApp.ViewModels.Address.Dropdowns;
-using ElectronicIdentityApp.ViewModels.Document;
+using ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 using Microsoft.EntityFrameworkCore;
 
 namespace ElectronicIdentityApp.Services.Core;
@@ -178,9 +179,11 @@ public class AddressService(ApplicationDbContext context) : IAddressService
 
         // Ако липсва нещо от задължителните му връщам фалс
         if (string.IsNullOrEmpty(cityName) || string.IsNullOrEmpty(streetName))
+        {
             return false;
+        }
 
-    
+
         var address = await context.Addresses
             .FirstOrDefaultAsync(a =>
                 a.City == cityName &&
@@ -195,7 +198,10 @@ public class AddressService(ApplicationDbContext context) : IAddressService
             return false;
         }
 
-       
+
+        
+
+
         var userAddress = new UserAddress()
         {
             UserId = userId,

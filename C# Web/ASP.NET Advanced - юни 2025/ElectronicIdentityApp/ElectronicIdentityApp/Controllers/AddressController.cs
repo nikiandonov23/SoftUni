@@ -1,7 +1,5 @@
-﻿using ElectronicIdentityApp.Services.Core;
-using ElectronicIdentityApp.Services.Core.Contracts;
+﻿using ElectronicIdentityApp.Services.Core.Contracts;
 using ElectronicIdentityApp.ViewModels.Address;
-using ElectronicIdentityApp.ViewModels.Document;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ElectronicIdentityApp.Web.Controllers

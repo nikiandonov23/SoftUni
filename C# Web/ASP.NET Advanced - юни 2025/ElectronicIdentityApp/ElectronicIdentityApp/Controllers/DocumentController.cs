@@ -1,7 +1,5 @@
-﻿using ElectronicIdentityApp.Services.Core;
-using ElectronicIdentityApp.Services.Core.Contracts;
+﻿using ElectronicIdentityApp.Services.Core.Contracts;
 using ElectronicIdentityApp.ViewModels.Document;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -37,8 +35,9 @@ namespace ElectronicIdentityApp.Web.Controllers
             var createModel = new CreateDocumentViewModel()
             {
                 Nationalities = await nationalityService.GetAllNationalitiesForCreateAsync(),
-                Addresses = await addressService.GetAllAddressesForCreateAsync(),
-                DocumentType = await documentTypeService.GetAllDocumentTypesForCreateAsync()
+                DocumentType = await documentTypeService.GetAllDocumentTypesForCreateAsync(),
+                Cities = await addressService.GetAllCitiesAsync()
+                
                 
 
             };
@@ -48,16 +47,21 @@ namespace ElectronicIdentityApp.Web.Controllers
 
         }
 
+
+
+
+
         [HttpPost]
         public async Task<IActionResult> Create(CreateDocumentViewModel inputModel)
         {
             var userId = GetUserId();
 
-            if (!ModelState.IsValid || userId==null)
+            if (!ModelState.IsValid || userId == null)
             {
-
-                inputModel.Addresses = await addressService.GetAllAddressesForCreateAsync();
                 inputModel.Nationalities = await nationalityService.GetAllNationalitiesForCreateAsync();
+                inputModel.DocumentType = await documentTypeService.GetAllDocumentTypesForCreateAsync();
+                inputModel.Cities = await addressService.GetAllCitiesAsync();
+
                 return View(inputModel);
             }
 
@@ -67,8 +71,10 @@ namespace ElectronicIdentityApp.Web.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            inputModel.Addresses = await addressService.GetAllAddressesForCreateAsync();
             inputModel.Nationalities = await nationalityService.GetAllNationalitiesForCreateAsync();
+            inputModel.DocumentType = await documentTypeService.GetAllDocumentTypesForCreateAsync();
+            inputModel.Cities = await addressService.GetAllCitiesAsync();
+
             return View(inputModel);
         }
     }

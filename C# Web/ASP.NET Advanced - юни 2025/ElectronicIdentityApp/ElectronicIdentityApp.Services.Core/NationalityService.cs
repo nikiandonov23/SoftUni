@@ -1,6 +1,6 @@
 ﻿using ElectronicIdentityApp.Data;
 using ElectronicIdentityApp.Services.Core.Contracts;
-using ElectronicIdentityApp.ViewModels.Document;
+using ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 using Microsoft.EntityFrameworkCore;
 
 namespace ElectronicIdentityApp.Services.Core;

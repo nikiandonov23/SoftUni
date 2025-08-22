@@ -1,5 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ElectronicIdentityApp.ViewModels.Address.Dropdowns;
+using ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 using Microsoft.AspNetCore.Http;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace ElectronicIdentityApp.ViewModels.Document;
@@ -36,11 +38,6 @@ public class CreateDocumentViewModel
 
 
 
-    [Required]
-    public int AddressId { get; set; }
-
-    public IEnumerable<CreateDocumentAddressDropDownViewModel> Addresses { get; set; } =
-        new HashSet<CreateDocumentAddressDropDownViewModel>();
 
 
     [Required]
@@ -50,4 +47,24 @@ public class CreateDocumentViewModel
 
 
     public IFormFile? DocumentImage { get; set; } // за качване на снимка
+
+
+
+    [Required]
+    public string CityName { get; set; } = null!;
+    public IEnumerable<CitiesDropDownViewModel> Cities { get; set; } = new HashSet<CitiesDropDownViewModel>();
+
+    [Required]
+    public string StreetName { get; set; } = null!;
+    public IEnumerable<StreetsDropDownViewModel> Streets { get; set; } = new HashSet<StreetsDropDownViewModel>();
+
+    public string? HouseNumber { get; set; }
+    public IEnumerable<HouseNumbersDropDownViewModel> HouseNumbers { get; set; } = new HashSet<HouseNumbersDropDownViewModel>();
+
+    public string? HouseName { get; set; }
+    public IEnumerable<HouseNameDropDownViewModel> HouseNames { get; set; } = new HashSet<HouseNameDropDownViewModel>();
+
+    public string? PostCode { get; set; }
+    public IEnumerable<PostCodeDropDownViewModel> PostCodes { get; set; } = new HashSet<PostCodeDropDownViewModel>();
+
 }

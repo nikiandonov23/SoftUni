@@ -1,4 +1,4 @@
-﻿using ElectronicIdentityApp.ViewModels.Document;
+﻿using ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 
 namespace ElectronicIdentityApp.Services.Core.Contracts;
 

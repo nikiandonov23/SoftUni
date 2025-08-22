@@ -43,7 +43,7 @@
                         <p class="card-text mb-1"><strong>Address:</strong> @doc.Address</p>
                         <p class="card-text mb-1"><strong>Issued On:</strong> @doc.IssuedOn.ToString("dd MMM yyyy")</p>
                         <p class="card-text mb-1"><strong>Expires On:</strong> @doc.ExpiredOn.ToString("dd MMM yyyy")</p>
-                        <p class="card-text"><strong>Valid:</strong> @(doc.IsValid ? "No" : "Yes")</p>
+                        <p class="card-text"><strong>Valid:</strong> @(doc.IsValid ? "Yes" : "No")</p>
 
                         <div class="mt-auto d-flex gap-2">
                             <a asp-action="Details" asp-route-id="@doc.Id" class="btn btn-info flex-fill">

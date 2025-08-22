@@ -67,9 +67,19 @@ public class DocumentService(ApplicationDbContext documentService, IWebHostEnvir
             imagePath = uniqueFileName; // само името на файла
         }
 
+        var address = await documentService
+            .Addresses
+            .Where(x => x.City == inputModel.CityName && x.Street == inputModel.StreetName &&
+                        x.HouseNumber == inputModel.HouseNumber)
+            .SingleOrDefaultAsync();
+        if (address==null)
+        {
+            return false;
+        }
+
         var documentToBeCreated = new Document()
         {
-            AddressId = inputModel.AddressId,
+            AddressId = address.Id,
             NationalityId = inputModel.NationalityId,
             DocumentTypeId = inputModel.DocumentTypeId,
             BirthOn = inputModel.BirthOn!.Value,  //Няма как да е нулл щото в CreateModel-a е [Required]

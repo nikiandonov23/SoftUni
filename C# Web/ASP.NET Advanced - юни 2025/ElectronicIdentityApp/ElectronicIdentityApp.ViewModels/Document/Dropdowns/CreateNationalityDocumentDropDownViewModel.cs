@@ -1,4 +1,4 @@
-﻿namespace ElectronicIdentityApp.ViewModels.Document;
+﻿namespace ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 
 public class CreateNationalityDocumentDropDownViewModel
 {

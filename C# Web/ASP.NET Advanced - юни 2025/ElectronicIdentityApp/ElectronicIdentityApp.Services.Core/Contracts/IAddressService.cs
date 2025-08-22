@@ -1,6 +1,6 @@
 ﻿using ElectronicIdentityApp.ViewModels.Address;
 using ElectronicIdentityApp.ViewModels.Address.Dropdowns;
-using ElectronicIdentityApp.ViewModels.Document;
+using ElectronicIdentityApp.ViewModels.Document.Dropdowns;
 
 namespace ElectronicIdentityApp.Services.Core.Contracts;
 

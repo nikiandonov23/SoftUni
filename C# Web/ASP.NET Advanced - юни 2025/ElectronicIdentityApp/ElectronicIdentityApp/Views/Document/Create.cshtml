@@ -8,7 +8,6 @@
     <div class="card shadow-sm p-4">
         <h2 class="mb-4 text-center text-gradient">Add New Document</h2>
 
-        <!-- enctype="multipart/form-data" е задължително за качване на файл -->
         <form asp-action="Create" method="post" enctype="multipart/form-data">
             <div class="row g-3">
                 <div class="col-md-4">
@@ -66,19 +65,6 @@
                 </div>
 
                 <div class="col-md-6">
-                    <label asp-for="AddressId" class="form-label">Address</label>
-                    <select asp-for="AddressId" class="form-select select2-address">
-                        <option value="">Select Address</option>
-                        @foreach (var addr in Model.Addresses)
-                        {
-                            <option value="@addr.Id">@addr.Name</option>
-                        }
-                    </select>
-                    <span asp-validation-for="AddressId" class="text-danger"></span>
-                </div>
-
-                <!-- Ново поле за Document Type -->
-                <div class="col-md-6">
                     <label asp-for="DocumentTypeId" class="form-label">Document Type</label>
                     <select asp-for="DocumentTypeId" class="form-select">
                         <option value="">Select Document Type</option>
@@ -90,11 +76,53 @@
                     <span asp-validation-for="DocumentTypeId" class="text-danger"></span>
                 </div>
 
-                <!-- Ново поле за качване на файл -->
                 <div class="col-md-6">
                     <label asp-for="DocumentImage" class="form-label">Upload Document Image</label>
                     <input asp-for="DocumentImage" type="file" class="form-control" />
                     <span asp-validation-for="DocumentImage" class="text-danger"></span>
+                </div>
+
+                <!-- Address cascade -->
+                <div class="col-md-4">
+                    <label asp-for="CityName" class="form-label">City</label>
+                    <select asp-for="CityName" class="form-select" id="CityDropdown">
+                        <option value="">Select City</option>
+                        @foreach (var city in Model.Cities)
+                        {
+                            <option value="@city.Name">@city.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="CityName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="StreetName" class="form-label">Street</label>
+                    <select asp-for="StreetName" class="form-select" id="StreetDropdown">
+                        <option value="">Select Street</option>
+                    </select>
+                    <span asp-validation-for="StreetName" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label asp-for="HouseNumber" class="form-label">House Number</label>
+                    <select asp-for="HouseNumber" class="form-select" id="HouseNumberDropdown">
+                        <option value="">Select House Number</option>
+                    </select>
+                    <span asp-validation-for="HouseNumber" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="HouseName" class="form-label">House Name</label>
+                    <select asp-for="HouseName" class="form-select" id="HouseNameDropdown">
+                        <option value="">Select House Name</option>
+                    </select>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="PostCode" class="form-label">Post Code</label>
+                    <select asp-for="PostCode" class="form-select" id="PostCodeDropdown">
+                        <option value="">Select Post Code</option>
+                    </select>
                 </div>
             </div>
 
@@ -107,7 +135,6 @@
                     <i class="fa-solid fa-arrow-left me-2"></i> Back to Documents
                 </a>
             </div>
-
         </form>
     </div>
 </div>
@@ -115,22 +142,93 @@
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 
-    <!-- Select2 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-
-    <!-- Select2 JS -->
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 
     <script>
-        $(document).ready(function() {
-            $('.select2-address').select2({
-                placeholder: "Select Address",
-                allowClear: true
-            });
-
+        $(document).ready(function () {
             $('.select2-nationality').select2({
                 placeholder: "Select Nationality",
                 allowClear: true
+            });
+
+            // City -> Streets
+            $('#CityDropdown').change(function () {
+                var city = $(this).val();
+                $('#StreetDropdown').empty().append('<option value="">Select Street</option>');
+                $('#HouseNumberDropdown').empty().append('<option value="">Select House Number</option>');
+                $('#HouseNameDropdown').empty().append('<option value="">Select House Name</option>');
+                $('#PostCodeDropdown').empty().append('<option value="">Select Post Code</option>');
+
+                if (city) {
+                    $.getJSON('/Address/GetStreetsByCity', { cityName: city }, function (data) {
+                        $.each(data, function (i, street) {
+                            $('#StreetDropdown').append($('<option>', {
+                                value: street.name,
+                                text: street.name
+                            }));
+                        });
+                    });
+                }
+            });
+
+            // Street -> Numbers
+            $('#StreetDropdown').change(function () {
+                var city = $('#CityDropdown').val();
+                var street = $(this).val();
+                $('#HouseNumberDropdown').empty().append('<option value="">Select House Number</option>');
+                $('#HouseNameDropdown').empty().append('<option value="">Select House Name</option>');
+                $('#PostCodeDropdown').empty().append('<option value="">Select Post Code</option>');
+
+                if (city && street) {
+                    $.getJSON('/Address/GetHouseNumbersByStreet', { cityName: city, streetName: street }, function (data) {
+                        $.each(data, function (i, num) {
+                            $('#HouseNumberDropdown').append($('<option>', {
+                                value: num.name,
+                                text: num.name
+                            }));
+                        });
+                    });
+                }
+            });
+
+            // Number -> HouseNames
+            $('#HouseNumberDropdown').change(function () {
+                var city = $('#CityDropdown').val();
+                var street = $('#StreetDropdown').val();
+                var number = $(this).val();
+                $('#HouseNameDropdown').empty().append('<option value="">Select House Name</option>');
+                $('#PostCodeDropdown').empty().append('<option value="">Select Post Code</option>');
+
+                if (city && street && number) {
+                    $.getJSON('/Address/GetHouseNames', { cityName: city, streetName: street, streetNumber: number }, function (data) {
+                        $.each(data, function (i, hname) {
+                            $('#HouseNameDropdown').append($('<option>', {
+                                value: hname.name,
+                                text: hname.name
+                            }));
+                        });
+                    });
+                }
+            });
+
+            // HouseName -> Postcodes
+            $('#HouseNameDropdown').change(function () {
+                var city = $('#CityDropdown').val();
+                var street = $('#StreetDropdown').val();
+                var number = $('#HouseNumberDropdown').val();
+                $('#PostCodeDropdown').empty().append('<option value="">Select Post Code</option>');
+
+                if (city && street && number) {
+                    $.getJSON('/Address/GetPostCodesByCity', { cityName: city, streetName: street, streetNumber: number }, function (data) {
+                        $.each(data, function (i, pc) {
+                            $('#PostCodeDropdown').append($('<option>', {
+                                value: pc.name,
+                                text: pc.name
+                            }));
+                        });
+                    });
+                }
             });
         });
     </script>
