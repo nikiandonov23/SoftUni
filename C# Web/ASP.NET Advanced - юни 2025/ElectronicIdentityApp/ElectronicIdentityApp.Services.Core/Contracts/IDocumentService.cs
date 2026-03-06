@@ -10,5 +10,7 @@ public interface IDocumentService
 
 
     //Create /Add ;
+    //Използвам сървисите от IAddressService за дропдауните при Create ,вместо да ги пиша пак
     public Task<bool> CreateDocumentAsync(string userId, CreateDocumentViewModel inputModel);
+
 }

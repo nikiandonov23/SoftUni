@@ -15,7 +15,6 @@ public class UserAddress
 
 
 
-
     [ForeignKey(nameof(Address))]
     public int AddressId { get; set; }
     public Address Address { get; set; } = null!;
