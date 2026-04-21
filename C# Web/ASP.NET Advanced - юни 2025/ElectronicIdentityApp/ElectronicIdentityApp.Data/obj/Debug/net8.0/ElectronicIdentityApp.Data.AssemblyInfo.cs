@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElectronicIdentityApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cc8b0706fe11166a6dffd9c78f2a1b188969f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae5a728075fa1684912312a9982309926774ce78")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElectronicIdentityApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElectronicIdentityApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
